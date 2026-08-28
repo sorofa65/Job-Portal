@@ -1,0 +1,49 @@
+---
+import { getDaysLeft } from '../utils/jobs.js';
+
+interface Props {
+  posts: any[];
+}
+const { posts } = Astro.props as Props;
+---
+
+<div class="flip-board rounded-xl2 border border-brand-400/20 bg-ink text-paper overflow-hidden shadow-glass">
+  <div class="flex items-center justify-between border-b border-paper/10 px-4 py-2.5">
+    <div class="flex items-center gap-2 text-xs uppercase tracking-widest text-brand-300">
+      <span class="h-1.5 w-1.5 rounded-full bg-urgent-500 animate-pulse-ring"></span>
+      Urgent Notice Board
+    </div>
+    <span class="text-[10px] text-paper/40">Live</span>
+  </div>
+
+  <ul id="flip-board-list" class="divide-y divide-paper/10">
+    {posts.slice(0, 6).map((post, i) => {
+      const daysLeft = getDaysLeft(post);
+      return (
+        <li class="flex items-center gap-3 px-4 py-3" style={`animation-delay:${i * 60}ms`}>
+          <span class="w-6 shrink-0 text-right text-xs text-paper/30">{String(i + 1).padStart(2, '0')}</span>
+          <a href={`/posts/${post.slug}/`} class="min-w-0 flex-1 truncate text-sm hover:text-brand-300 transition-colors">
+            {post.title}
+          </a>
+          <span class={`shrink-0 rounded px-2 py-0.5 text-xs font-semibold ${daysLeft <= 3 ? 'bg-urgent-500/20 text-urgent-400' : 'bg-amber-500/20 text-amber-400'}`}>
+            {daysLeft}d
+          </span>
+        </li>
+      );
+    })}
+  </ul>
+</div>
+
+<script>
+  // Cycle a "flip" highlight through the board every few seconds, echoing
+  // an airport/railway split-flap display without heavy animation cost.
+  const items = document.querySelectorAll('#flip-board-list li');
+  let active = 0;
+  if (items.length && !window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+    setInterval(() => {
+      items.forEach((el) => el.classList.remove('bg-paper/5'));
+      items[active].classList.add('bg-paper/5');
+      active = (active + 1) % items.length;
+    }, 2200);
+  }
+</script>

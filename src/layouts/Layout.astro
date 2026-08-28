@@ -1,0 +1,203 @@
+---
+import '../styles/global.css';
+import SEO from '../components/SEO.astro';
+import Navbar from '../components/Navbar.astro';
+import Footer from '../components/Footer.astro';
+import AdSlot from '../components/AdSlot.astro';
+import { getAllPosts } from '../utils/jobs.js';
+
+interface Props {
+  title: string;
+  description: string;
+  image?: string;
+  jobPosting?: any;
+  showFloatingAd?: boolean;
+  schemas?: Record<string, unknown>[];
+  keywords?: string;
+  article?: boolean;
+  robots?: string;
+}
+const {
+  title,
+  description,
+  image,
+  jobPosting = null,
+  showFloatingAd = true,
+  schemas = [],
+  keywords,
+  article = false,
+  robots,
+} = Astro.props as Props;
+
+const siteUrl = Astro.site?.toString().replace(/\/$/, '') ?? 'https://yakub.blog';
+const pathParts = Astro.url.pathname.split('/').filter(Boolean);
+const breadcrumbSchema = pathParts.length
+  ? {
+      '@context': 'https://schema.org',
+      '@type': 'BreadcrumbList',
+      itemListElement: [
+        { '@type': 'ListItem', position: 1, name: 'Home', item: `${siteUrl}/` },
+        ...pathParts.map((part, index) => ({
+          '@type': 'ListItem',
+          position: index + 2,
+          name: part.replace(/-/g, ' '),
+          item: `${siteUrl}/${pathParts.slice(0, index + 1).join('/')}/`,
+        })),
+      ],
+    }
+  : null;
+
+const globalSchemas = Astro.url.pathname === '/'
+  ? [
+      {
+        '@context': 'https://schema.org',
+        '@type': 'Organization',
+        name: 'Yakub Blog',
+        url: `${siteUrl}/`,
+        description: 'Bangladesh job circulars, results, notices, and career guidance.',
+      },
+      {
+        '@context': 'https://schema.org',
+        '@type': 'WebSite',
+        name: 'Yakub Blog',
+        url: `${siteUrl}/`,
+        potentialAction: {
+          '@type': 'SearchAction',
+          target: `${siteUrl}/?q={search_term_string}`,
+          'query-input': 'required name=search_term_string',
+        },
+      },
+    ]
+  : [];
+
+// Minimal fields only — keeps the embedded search index small and avoids
+// leaking full post bodies into client-side JS.
+const searchIndex = getAllPosts().map((p) => ({
+  id: p.id,
+  slug: p.slug,
+  title: p.title,
+  category: p.category,
+  postName: p.summaryTable?.find((r) => /post name/i.test(r.label))?.value ?? '',
+  image: p.image,
+}));
+---
+
+<!doctype html>
+<html lang="en" class="scroll-smooth">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <SEO title={title} description={description} image={image} jobPosting={jobPosting} keywords={keywords} article={article} robots={robots} schemas={[...globalSchemas, ...schemas, ...(breadcrumbSchema ? [breadcrumbSchema] : [])]} />
+
+    <!-- Set theme before first paint to avoid a flash of the wrong theme -->
+    <script is:inline>
+      (function () {
+        const stored = localStorage.getItem('theme');
+        const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+        if (stored === 'dark' || (!stored && prefersDark)) {
+          document.documentElement.classList.add('dark');
+        }
+      })();
+    </script>
+  </head>
+  <body class="bg-noise">
+    <Navbar />
+
+    <AdSlot variant="header-banner" slotId="global-header" />
+
+    <main>
+      <slot />
+    </main>
+
+    <Footer />
+
+    {showFloatingAd && <AdSlot variant="floating-sticky" slotId="global-floating" />}
+
+    <script type="application/json" id="search-index" set:html={JSON.stringify(searchIndex)} />
+
+    <script>
+      // Dark mode toggle
+      const themeToggle = document.getElementById('theme-toggle');
+      themeToggle?.addEventListener('click', () => {
+        const isDark = document.documentElement.classList.toggle('dark');
+        localStorage.setItem('theme', isDark ? 'dark' : 'light');
+      });
+
+      // Mobile drawer
+      const drawerToggle = document.getElementById('drawer-toggle');
+      const drawer = document.getElementById('mobile-drawer');
+      drawerToggle?.addEventListener('click', () => {
+        drawer?.classList.toggle('hidden');
+      });
+
+      // Live search overlay
+      const overlay = document.getElementById('search-overlay');
+      const backdrop = document.getElementById('search-backdrop');
+      const trigger = document.getElementById('search-trigger');
+      const input = document.getElementById('search-input');
+      const resultsEl = document.getElementById('search-results');
+      const emptyEl = document.getElementById('search-empty');
+
+      let index = [];
+      try {
+        index = JSON.parse(document.getElementById('search-index')?.textContent || '[]');
+      } catch {
+        index = [];
+      }
+
+      function openSearch() {
+        overlay?.classList.remove('hidden');
+        input?.focus();
+      }
+      function closeSearch() {
+        overlay?.classList.add('hidden');
+        if (input) input.value = '';
+        renderResults('');
+      }
+
+      function renderResults(query) {
+        const q = query.trim().toLowerCase();
+        const matches = !q
+          ? index.slice(0, 6)
+          : index.filter((item) =>
+              item.title.toLowerCase().includes(q) ||
+              item.category.toLowerCase().includes(q) ||
+              item.postName.toLowerCase().includes(q)
+            ).slice(0, 8);
+
+        if (resultsEl) {
+          resultsEl.innerHTML = matches
+            .map(
+              (item) => `
+              <li>
+                <a href="/posts/${item.slug}/" class="flex items-center gap-3 rounded-lg px-3 py-2.5 hover:bg-brand-500/10 transition-colors">
+                  <img src="${item.image}" alt="" class="h-10 w-10 rounded-md object-cover" loading="lazy" />
+                  <span class="min-w-0">
+                    <span class="block truncate text-sm font-medium text-ink dark:text-paper">${item.title}</span>
+                    <span class="block text-xs text-ink-muted dark:text-paper/40">${item.category}</span>
+                  </span>
+                </a>
+              </li>`
+            )
+            .join('');
+        }
+        if (emptyEl) emptyEl.classList.toggle('hidden', matches.length > 0);
+      }
+
+      trigger?.addEventListener('click', openSearch);
+      backdrop?.addEventListener('click', closeSearch);
+      document.addEventListener('keydown', (e) => {
+        if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
+          e.preventDefault();
+          openSearch();
+        }
+        if (e.key === 'Escape') closeSearch();
+      });
+      input?.addEventListener('input', (e) => renderResults(e.target.value));
+      renderResults('');
+    </script>
+  </body>
+</html>

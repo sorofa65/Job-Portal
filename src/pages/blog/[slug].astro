@@ -1,0 +1,25 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import AdSlot from '../../components/AdSlot.astro';
+import blog from '../../data/blog.json';
+
+export function getStaticPaths() {
+  return blog.map((post) => ({ params: { slug: post.slug }, props: { post } }));
+}
+const { post } = Astro.props;
+const faqSchema = post.faqs?.length ? [{ '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: post.faqs.map((faq) => ({ '@type': 'Question', name: faq.question, acceptedAnswer: { '@type': 'Answer', text: faq.answer } })) }] : [];
+const siteUrl = Astro.site?.toString().replace(/\/$/, '') ?? 'https://yakub.blog';
+const blogSchema = [{ '@context': 'https://schema.org', '@type': 'BlogPosting', headline: post.title, description: post.metaDescription, datePublished: post.date, author: { '@type': 'Person', name: post.author }, image: post.image, mainEntityOfPage: `${siteUrl}/blog/${post.slug}/` }];
+---
+<Layout title={`${post.title} — Yakub Blog`} description={post.metaDescription} image={post.image} article keywords={[...post.tags, 'Bangladesh career guidance', 'job preparation'].join(', ')} schemas={[...blogSchema, ...faqSchema]}>
+  <article class="mx-auto max-w-3xl px-4 py-10 sm:px-6 lg:px-8">
+    <a href="/blog/" class="text-sm font-medium text-brand-600 dark:text-brand-300">← Career blog</a>
+    <p class="mt-6 font-mono text-xs uppercase tracking-widest text-brand-600 dark:text-brand-300">{post.category} · {post.readTimeMinutes} min read</p>
+    <h1 class="mt-3 font-display text-3xl font-bold leading-tight text-ink dark:text-paper sm:text-5xl">{post.title}</h1>
+    <p class="mt-4 text-sm text-ink-muted dark:text-paper/50">By {post.author} · {post.date}</p>
+    <img src={post.image} alt={post.title} class="mt-8 aspect-[16/9] w-full rounded-xl2 object-cover" />
+    <div class="prose prose-sm mt-8 max-w-none sm:prose-base prose-headings:font-display dark:prose-invert" set:html={post.content} />
+    <AdSlot variant="in-content" slotId={`blog-${post.id}`} />
+    {post.faqs?.length > 0 && <section class="mt-8"><h2 class="font-display text-xl font-semibold text-ink dark:text-paper">Frequently asked questions</h2>{post.faqs.map((faq) => <details class="mt-3 rounded-lg border border-ink/10 p-4 dark:border-paper/10"><summary class="cursor-pointer font-medium text-ink dark:text-paper">{faq.question}</summary><p class="mt-2 text-sm text-ink-muted dark:text-paper/60">{faq.answer}</p></details>)}</section>}
+  </article>
+</Layout>

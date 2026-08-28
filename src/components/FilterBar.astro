@@ -1,0 +1,50 @@
+---
+import { getCategories } from '../utils/jobs.js';
+const categories = getCategories();
+---
+
+<div id="filter-bar" class="flex flex-wrap items-center gap-2">
+  <button class="pill" data-filter-type="category" data-filter-value="all" data-active="true">All Posts</button>
+  {categories.map((c) => (
+    <button class="pill" data-filter-type="category" data-filter-value={c}>{c}</button>
+  ))}
+
+  <span class="mx-1 hidden h-5 w-px bg-ink/10 dark:bg-paper/15 sm:block"></span>
+
+  <button class="pill" data-filter-type="status" data-filter-value="active" data-active="true">Active Only</button>
+  <button class="pill" data-filter-type="status" data-filter-value="expired">Show Expired</button>
+</div>
+
+<script>
+  // Pure client-side filtering over the already-rendered .job-card grid —
+  // no re-fetch, just toggling visibility based on data-* attributes that
+  // Layout/JobCard already stamped onto each card.
+  const bar = document.getElementById('filter-bar');
+  const cards = () => Array.from(document.querySelectorAll('.job-card'));
+
+  let state = { category: 'all', status: 'active' };
+
+  function applyFilters() {
+    cards().forEach((card) => {
+      const category = card.getAttribute('data-category');
+      const status = card.querySelector('[data-deadline-status]')?.getAttribute('data-deadline-status');
+      const matchesCategory = state.category === 'all' || category === state.category;
+      const matchesStatus = state.status === 'expired' ? true : status !== 'expired';
+      card.style.display = matchesCategory && matchesStatus ? '' : 'none';
+    });
+  }
+
+  bar?.addEventListener('click', (e) => {
+    const btn = e.target.closest('[data-filter-type]');
+    if (!btn) return;
+    const type = btn.getAttribute('data-filter-type');
+    const value = btn.getAttribute('data-filter-value');
+
+    bar.querySelectorAll(`[data-filter-type="${type}"]`).forEach((b) => b.setAttribute('data-active', 'false'));
+    btn.setAttribute('data-active', 'true');
+    state[type] = value;
+    applyFilters();
+  });
+
+  applyFilters();
+</script>

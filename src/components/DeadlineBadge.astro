@@ -1,0 +1,37 @@
+---
+import { getDeadlineStatus, getDaysLeft } from '../utils/jobs.js';
+
+interface Props {
+  post: any;
+}
+const { post } = Astro.props as Props;
+const status = getDeadlineStatus(post);
+const daysLeft = getDaysLeft(post);
+
+const label = {
+  urgent: daysLeft === 0 ? 'Closes today' : `${daysLeft}d left — Urgent`,
+  soon: `${daysLeft}d left`,
+  active: 'Active',
+  expired: 'Expired',
+  none: null,
+}[status];
+
+const cls = {
+  urgent: 'badge-urgent',
+  soon: 'badge-soon',
+  active: 'badge-active',
+  expired: 'badge-expired',
+  none: '',
+}[status];
+---
+
+{label && (
+  <span class={cls} data-deadline-status={status}>
+    {status === 'urgent' && (
+      <svg width="10" height="10" viewBox="0 0 10 10" fill="currentColor" aria-hidden="true">
+        <circle cx="5" cy="5" r="4" />
+      </svg>
+    )}
+    {label}
+  </span>
+)}

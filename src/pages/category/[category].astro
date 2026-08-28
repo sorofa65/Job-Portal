@@ -1,0 +1,44 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import JobCard from '../../components/JobCard.astro';
+import AdSlot from '../../components/AdSlot.astro';
+import { getAllPosts, getCategories, slugifyCategory } from '../../utils/jobs.js';
+
+export function getStaticPaths() {
+  const categories = [...new Set([
+    ...getCategories(),
+    'Govt Job',
+    'Bank Job',
+    'Private Job',
+    'Notice',
+    'Result',
+  ])];
+  return categories.map((category) => ({
+    params: { category: slugifyCategory(category) },
+    props: { category },
+  }));
+}
+
+const { category } = Astro.props;
+const posts = getAllPosts().filter((p) => p.category === category);
+---
+
+<Layout
+  title={`${category} Circulars — BDJobPortal`}
+  description={`Browse the latest ${category} circulars, deadlines, and application links, updated daily on BDJobPortal.`}
+>
+  <section class="mx-auto max-w-7xl px-4 pt-10 sm:px-6 lg:px-8">
+    <h1 class="font-display text-3xl font-bold text-ink dark:text-paper">{category} Circulars</h1>
+    <p class="mt-2 text-ink-muted dark:text-paper/50">{posts.length} post{posts.length === 1 ? '' : 's'} found.</p>
+  </section>
+
+  <section class="mx-auto max-w-7xl px-4 py-8 sm:px-6 lg:px-8">
+    <div class="grid grid-cols-1 gap-5 sm:grid-cols-2 lg:grid-cols-3">
+      {posts.map((post) => <JobCard post={post} />)}
+    </div>
+    {posts.length === 0 && (
+      <p class="py-16 text-center text-ink-muted dark:text-paper/40">No posts in this category yet — check back soon.</p>
+    )}
+    <AdSlot variant="in-content" slotId={`category-${slugifyCategory(category)}`} />
+  </section>
+</Layout>

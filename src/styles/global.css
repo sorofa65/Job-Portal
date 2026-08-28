@@ -1,0 +1,160 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    color-scheme: light;
+  }
+  html.dark {
+    color-scheme: dark;
+  }
+
+  * {
+    @apply border-brand-100/40 dark:border-brand-800/40;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-paper text-ink font-body antialiased;
+    @apply dark:bg-ink dark:text-paper;
+    transition: background-color 0.25s ease, color 0.25s ease;
+  }
+
+  h1, h2, h3, h4 {
+    @apply font-display tracking-tight;
+  }
+
+  /* Respect reduced-motion preferences site-wide */
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after {
+      animation-duration: 0.001ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.001ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+
+  /* Visible keyboard focus ring everywhere, not just :focus */
+  :focus-visible {
+    outline: 2px solid #0b6e4f;
+    outline-offset: 2px;
+    border-radius: 4px;
+  }
+  html.dark :focus-visible {
+    outline-color: #5cb890;
+  }
+}
+
+@layer components {
+  /* Sticky glassmorphic navbar surface */
+  .glass-nav {
+    @apply backdrop-blur-xl bg-paper/70 dark:bg-ink/70;
+    @apply border-b border-brand-900/5 dark:border-paper/10;
+  }
+
+  .glass-card {
+    @apply backdrop-blur-md bg-white/60 dark:bg-white/5;
+    @apply border border-white/40 dark:border-white/10;
+  }
+
+  /* Post / job card */
+  .job-card {
+    @apply relative flex flex-col rounded-xl2 bg-white dark:bg-ink-soft;
+    @apply border border-ink/5 dark:border-paper/10 shadow-card;
+    @apply transition-all duration-300 ease-out;
+    @apply hover:-translate-y-1 hover:shadow-card-hover;
+  }
+
+  .pill {
+    @apply inline-flex items-center gap-1.5 rounded-full px-3.5 py-1.5 text-sm font-medium;
+    @apply border border-ink/10 dark:border-paper/15 bg-white/70 dark:bg-white/5;
+    @apply transition-colors duration-200 cursor-pointer select-none;
+    @apply hover:border-brand-400 hover:text-brand-600 dark:hover:text-brand-300;
+  }
+  .pill[data-active="true"] {
+    @apply bg-brand-500 border-brand-500 text-white hover:text-white;
+  }
+
+  .badge-urgent {
+    @apply inline-flex items-center gap-1 rounded-md bg-urgent-50 text-urgent-600 dark:bg-urgent-500/15 dark:text-urgent-400;
+    @apply px-2 py-0.5 text-xs font-mono font-semibold animate-pulse-ring;
+  }
+  .badge-soon {
+    @apply inline-flex items-center gap-1 rounded-md bg-amber-500/10 text-amber-600 dark:text-amber-400;
+    @apply px-2 py-0.5 text-xs font-mono font-semibold;
+  }
+  .badge-active {
+    @apply inline-flex items-center gap-1 rounded-md bg-brand-500/10 text-brand-600 dark:text-brand-300;
+    @apply px-2 py-0.5 text-xs font-mono font-semibold;
+  }
+  .badge-expired {
+    @apply inline-flex items-center gap-1 rounded-md bg-ink/5 text-ink-muted dark:bg-paper/10 dark:text-paper/50;
+    @apply px-2 py-0.5 text-xs font-mono font-semibold;
+  }
+
+  .btn-primary {
+    @apply inline-flex items-center justify-center gap-2 rounded-lg bg-brand-500 text-white;
+    @apply px-5 py-2.5 font-semibold text-sm shadow-card transition-all duration-200;
+    @apply hover:bg-brand-600 hover:shadow-card-hover active:scale-[0.98];
+  }
+  .btn-urgent {
+    @apply inline-flex items-center justify-center gap-2 rounded-lg bg-urgent-500 text-white;
+    @apply px-5 py-2.5 font-semibold text-sm shadow-card transition-all duration-200;
+    @apply hover:bg-urgent-600 hover:shadow-card-hover active:scale-[0.98];
+  }
+  .btn-outline {
+    @apply inline-flex items-center justify-center gap-2 rounded-lg border border-ink/15 dark:border-paper/20;
+    @apply px-5 py-2.5 font-semibold text-sm transition-all duration-200;
+    @apply hover:border-brand-500 hover:text-brand-600 dark:hover:text-brand-300;
+  }
+
+  /* Departure-board ticker — the hero's signature element */
+  .flip-board {
+    @apply font-mono tracking-wide;
+    perspective: 400px;
+  }
+  .flip-board .flip-char {
+    display: inline-block;
+    transform-style: preserve-3d;
+  }
+
+  .summary-table th {
+    @apply text-left text-xs uppercase tracking-wide text-ink-muted dark:text-paper/50 font-semibold py-2.5 pr-4 w-2/5 align-top;
+  }
+  .summary-table td {
+    @apply text-sm py-2.5 align-top;
+  }
+  .summary-table tr {
+    @apply border-b border-ink/5 dark:border-paper/10 last:border-0;
+  }
+
+  .position-table {
+    @apply w-full text-sm border-collapse;
+  }
+  .position-table th {
+    @apply bg-brand-500 text-white text-left font-semibold px-4 py-3 first:rounded-tl-lg last:rounded-tr-lg;
+  }
+  .position-table td {
+    @apply px-4 py-3 border-b border-ink/5 dark:border-paper/10;
+  }
+  .position-table tbody tr {
+    @apply transition-colors hover:bg-brand-50 dark:hover:bg-brand-500/10;
+  }
+  .position-table tbody tr:nth-child(even) {
+    @apply bg-ink/[0.015] dark:bg-white/[0.02];
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+  .scrollbar-none::-webkit-scrollbar { display: none; }
+  .scrollbar-none { -ms-overflow-style: none; scrollbar-width: none; }
+}
