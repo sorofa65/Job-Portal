@@ -1,22 +1,15 @@
-[
-  {
-    "id": "BLOG-2026-001",
-    "slug": "url-friendly-blog-slug",
-    "title": "Your full blog title",
-    "category": "Exam Tips",
-    "author": "Yakub Ali",
-    "date": "2026-08-29",
-    "readTimeMinutes": 6,
-    "image": "https://your-image-url.example/blog-cover.jpg",
-    "metaDescription": "A clear SEO description of this article in about 150 to 160 characters.",
-    "excerpt": "A short summary shown on the blog archive page.",
-    "content": "<p>Write the complete article here using safe HTML.</p><h2>Use headings for sections</h2><p>Add useful, original and answer-first information.</p>",
-    "tags": ["Govt Job", "Exam Preparation"],
-    "faqs": [
-      {
-        "question": "Write a real user question about this article?",
-        "answer": "Give a direct, accurate answer in one or two clear paragraphs."
-      }
-    ]
-  }
-]
+{
+  "id": "BLOG-2026-001",
+  "slug": "url-friendly-blog-slug",
+  "title": "Your full blog title",
+  "category": "Exam Tips",
+  "author": "Yakub Ali",
+  "date": "2026-08-29",
+  "readTimeMinutes": 6,
+  "image": "https://your-image-url.example/blog-cover.jpg",
+  "metaDescription": "A clear SEO description of this article in about 150 to 160 characters.",
+  "excerpt": "A short summary shown on the blog archive page.",
+  "content": "<p>Write the complete article here using safe HTML.</p><h2>Use headings for sections</h2><p>Add useful, original and answer-first information.</p>",
+  "tags": ["Govt Job", "Exam Preparation"],
+  "faqs": [{"question": "Write a real user question?", "answer": "Give a direct, accurate answer."}]
+}

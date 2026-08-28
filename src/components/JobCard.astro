@@ -1,34 +1,37 @@
 ---
 import DeadlineBadge from './DeadlineBadge.astro';
-import { formatDate, getTotalVacancy, slugifyCategory } from '../utils/jobs.js';
+import { formatDate, getTotalVacancy } from '../utils/jobs.js';
 
 interface Props {
   post: any;
 }
 const { post } = Astro.props as Props;
+const title = post.title ?? post.seo?.metaTitle ?? post.seo?.metaTitleEn ?? post.slug ?? 'Job circular';
+const category = post.category ?? 'Job';
+const publishedDate = post.date ?? post.publishedAt;
 const vacancy = getTotalVacancy(post);
-const org = post.summaryTable?.find((r: any) => /organization/i.test(r.label))?.value ?? '';
+const org = post.organization?.nameBn ?? post.organization?.nameEn ?? post.summaryTable?.find((r: any) => /organization|প্রতিষ্ঠানের নাম/i.test(r.label))?.value ?? '';
 ---
 
 <a
   href={`/posts/${post.slug}/`}
   class="job-card group animate-fade-up"
   data-id={post.id}
-  data-category={post.category}
-  data-title={post.title.toLowerCase()}
+  data-category={category}
+  data-title={title.toLowerCase()}
   data-post-name={(post.summaryTable?.find((r: any) => /post name/i.test(r.label))?.value ?? '').toLowerCase()}
 >
   <div class="relative aspect-[16/9] overflow-hidden rounded-t-xl2">
     <img
       src={post.image}
-      alt={post.title}
+      alt={post.imageAlt ?? title}
       loading="lazy"
       decoding="async"
       class="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"
     />
     <div class="absolute inset-x-0 bottom-0 h-16 bg-gradient-to-t from-black/50 to-transparent"></div>
     <span class="absolute top-3 left-3 rounded-md bg-white/90 dark:bg-ink/80 px-2 py-1 text-[11px] font-mono font-semibold text-brand-700 dark:text-brand-300 shadow-sm">
-      {post.category}
+      {category}
     </span>
     <span class="absolute top-3 right-3">
       <DeadlineBadge post={post} />
@@ -42,11 +45,11 @@ const org = post.summaryTable?.find((r: any) => /organization/i.test(r.label))?.
       </span>
     )}
     <h3 class="font-display text-base font-semibold leading-snug text-ink dark:text-paper line-clamp-2 group-hover:text-brand-600 dark:group-hover:text-brand-300 transition-colors">
-      {post.title}
+      {title}
     </h3>
 
     <div class="mt-auto flex items-center justify-between pt-2 text-xs text-ink-muted dark:text-paper/50">
-      <span class="font-mono">{formatDate(post.date)}</span>
+      <span class="font-mono">{publishedDate && formatDate(publishedDate)}</span>
       {vacancy && (
         <span class="rounded-full bg-brand-500/10 px-2 py-1 font-mono font-semibold text-brand-700 dark:text-brand-300">
           {vacancy} posts

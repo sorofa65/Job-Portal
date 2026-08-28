@@ -19,9 +19,9 @@ job-portal/
 │   │   ├── AdSlot.astro          # header / in-content / floating ad units
 │   │   └── SEO.astro             # OpenGraph + Schema.org JobPosting
 │   ├── data/
-│   │   ├── posts.json            # Live job circular data: edit this file on GitHub
+│   │   ├── posts/                # One JSON object per job circular
+│   │   ├── blog/                 # One JSON object per blog article
 │   │   ├── posts.template.json   # Copy this structure for a new job
-│   │   ├── blog.json             # Live blog data: edit this file on GitHub
 │   │   └── blog.template.json    # Copy this structure for a new article
 │   ├── layouts/
 │   │   └── Layout.astro          # <head>, theme init, search index, ads
@@ -47,9 +47,10 @@ npm run preview    # preview the production build locally
 
 ## 3. Adding / updating content from GitHub
 
-Only edit `src/data/posts.json` for jobs or `src/data/blog.json` for articles. Keep the
-root value as a JSON array. Copy the matching `.template.json`, replace every example
-value, then paste the object into the live JSON file. Do not paste the outer array twice.
+Only edit one file inside `src/data/posts/` for each job or one file inside
+`src/data/blog/` for each article. Copy the matching `.template.json`, replace every
+example value, and save it as `<slug>.json`. Each file contains one object, not an array.
+The old root `posts.json` and `blog.json` files are kept empty for migration compatibility.
 
 Every GitHub push runs content validation before the Astro build. A build fails when a
 required field is missing, a date is not `YYYY-MM-DD`, a slug is duplicated, or a FAQ
@@ -91,7 +92,7 @@ organization, vacancy, deadline, qualifications, salary table, official notice i
 PDF link, application link, application steps, and FAQ data. The `summaryTable` must
 contain a label including `Deadline`, because the site uses it for deadline badges.
 
-After editing on GitHub, the deployment automatically creates the page, canonical SEO,
+After editing on GitHub, the deployment automatically discovers every JSON file and creates the page, canonical SEO,
 structured data, FAQ section, sitemap entry, and `llms.txt` entry.
 
 ### Publish checklist

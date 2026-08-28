@@ -14,8 +14,18 @@ export function getStaticPaths() {
 
 const { post } = Astro.props as { post: ReturnType<typeof getAllPosts>[number] };
 
-const org = post.summaryTable?.find((r) => /organization/i.test(r.label))?.value ?? post.title;
+const postTitle = post.title ?? post.seo?.metaTitle ?? post.seo?.metaTitleEn ?? post.slug ?? 'Job circular';
+const org = post.organization?.nameEn ?? post.organization?.nameBn ?? post.summaryTable?.find((r) => /organization|প্রতিষ্ঠানের নাম/i.test(r.label))?.value ?? postTitle;
 const deadline = getDeadline(post);
+const pageTitle = post.seo?.metaTitle ?? postTitle;
+const pageDescription = post.seo?.metaDescription ?? post.metaDescription;
+const publishedDate = post.publishedAt ?? post.date;
+const coverImage = post.image;
+const summaryTable = post.summaryTable ?? [];
+const positions = post.positions ?? [];
+const noticeImages = (post.noticeImages ?? []).map((notice) => typeof notice === 'string' ? { url: notice, alt: postTitle } : notice);
+const applicationSteps = (post.applicationSteps ?? []).map((step) => typeof step === 'string' ? { title: step, detail: '' } : { title: step.titleBn ?? step.titleEn ?? '', detail: step.detailBn ?? step.detailEn ?? '' });
+const introContent = String(post.introContent ?? '').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&amp;/g, '&');
 
 const related = getAllPosts()
   .filter((p) => p.category === post.category && p.slug !== post.slug)
@@ -35,15 +45,15 @@ const keywords = [post.category, 'Bangladesh job circular', 'job application', o
 ---
 
 <Layout
-  title={`${post.title} — BDJobPortal`}
-  description={post.metaDescription}
-  image={post.image}
+  title={`${pageTitle} — BDJobPortal`}
+  description={pageDescription ?? `${postTitle} details, eligibility, deadline and application information.`}
+  image={coverImage}
   keywords={keywords}
   schemas={faqSchema}
   jobPosting={{
-    title: post.title,
-    description: post.metaDescription,
-    datePosted: post.date,
+    title: postTitle,
+    description: pageDescription ?? postTitle,
+    datePosted: publishedDate,
     validThrough: deadline ? deadline.toISOString() : undefined,
     hiringOrganizationName: org,
     applyUrl: post.applyOnlineLink,
@@ -56,7 +66,7 @@ const keywords = [post.category, 'Bangladesh job circular', 'job application', o
       <span>/</span>
       <a href={`/category/${post.category.toLowerCase().replace(/[^a-z0-9]+/g, '-')}/`} class="hover:text-brand-600">{post.category}</a>
       <span>/</span>
-      <span class="truncate text-ink dark:text-paper/70">{post.title}</span>
+      <span class="truncate text-ink dark:text-paper/70">{postTitle}</span>
     </nav>
 
     <div class="flex flex-wrap items-center gap-2">
@@ -65,11 +75,11 @@ const keywords = [post.category, 'Bangladesh job circular', 'job application', o
     </div>
 
     <h1 class="mt-3 text-balance font-display text-2xl font-bold leading-tight text-ink dark:text-paper sm:text-3xl">
-      {post.title}
+      {postTitle}
     </h1>
 
     <div class="mt-3 flex items-center justify-between text-sm text-ink-muted dark:text-paper/50">
-      <span class="font-mono">Published {formatDate(post.date)}</span>
+      <span class="font-mono">Published {publishedDate && formatDate(publishedDate)}</span>
       <button
         id="bookmark-btn"
         data-post-id={post.id}
@@ -85,7 +95,7 @@ const keywords = [post.category, 'Bangladesh job circular', 'job application', o
     </div>
 
     <div class="mt-6 overflow-hidden rounded-xl2 border border-ink/5 dark:border-paper/10">
-      <img src={post.image} alt={post.title} class="aspect-[16/9] w-full object-cover" />
+      <img src={coverImage} alt={post.imageAlt ?? postTitle} class="aspect-[16/9] w-full object-cover" />
     </div>
 
     <!-- Key info summary card -->
@@ -93,7 +103,7 @@ const keywords = [post.category, 'Bangladesh job circular', 'job application', o
       <h2 class="font-display text-lg font-semibold text-ink dark:text-paper">Circular Summary</h2>
       <table class="summary-table mt-3 w-full">
         <tbody>
-          {post.summaryTable?.map((row) => (
+          {summaryTable.map((row) => (
             <tr>
               <th scope="row">{row.label}</th>
               <td>
@@ -121,18 +131,18 @@ const keywords = [post.category, 'Bangladesh job circular', 'job application', o
     </div>
 
     <!-- Position & salary table -->
-    {post.positionDetailsTable?.rows?.length > 0 && (
+    {(post.positionDetailsTable?.rows?.length > 0 || positions.length > 0) && (
       <div class="mt-8">
         <h2 class="font-display text-lg font-semibold text-ink dark:text-paper">Position &amp; Salary Details</h2>
         <div class="mt-3 overflow-x-auto rounded-lg border border-ink/5 dark:border-paper/10">
           <table class="position-table">
             <thead>
               <tr>
-                {post.positionDetailsTable.headers.map((h) => <th>{h}</th>)}
+                {(post.positionDetailsTable?.headers ?? ['Post Name', 'Vacancy', 'Educational Qualification', 'Salary Scale']).map((h) => <th>{h}</th>)}
               </tr>
             </thead>
             <tbody>
-              {post.positionDetailsTable.rows.map((row) => (
+              {(positions.length ? positions.map((position) => [position.nameBn ?? position.nameEn, position.vacancies, position.educationBn ?? position.educationEn, position.payScale]) : post.positionDetailsTable.rows).map((row) => (
                 <tr>
                   {row.map((cell) => <td>{cell}</td>)}
                 </tr>
@@ -144,23 +154,33 @@ const keywords = [post.category, 'Bangladesh job circular', 'job application', o
     )}
 
     <!-- Content -->
-    <div class="prose prose-sm sm:prose-base mt-8 max-w-none prose-headings:font-display prose-headings:text-ink dark:prose-invert prose-a:text-brand-600" set:html={post.introContent} />
+    <div class="prose prose-sm sm:prose-base mt-8 max-w-none prose-headings:font-display prose-headings:text-ink dark:prose-invert prose-a:text-brand-600" set:html={introContent} />
 
     <!-- Application steps -->
-    {post.applicationSteps?.length > 0 && (
+    {applicationSteps.length > 0 && (
       <div class="mt-8">
         <h2 class="font-display text-lg font-semibold text-ink dark:text-paper">How to Apply</h2>
         <ol class="mt-3 space-y-3">
-          {post.applicationSteps.map((step, i) => (
+          {applicationSteps.map((step, i) => (
             <li class="flex gap-3">
               <span class="flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-brand-500/10 text-xs font-mono font-semibold text-brand-700 dark:text-brand-300">
                 {i + 1}
               </span>
-              <span class="text-sm text-ink-muted dark:text-paper/60">{step}</span>
+              <span class="text-sm text-ink-muted dark:text-paper/60"><strong>{step.title}</strong>{step.detail && ` — ${step.detail}`}</span>
             </li>
           ))}
         </ol>
       </div>
+    )}
+
+    {post.organization?.aboutHtml && <div class="prose prose-sm mt-8 max-w-none dark:prose-invert" set:html={post.organization.aboutHtml.replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&amp;/g, '&')} />}
+
+    {post.eligibilityMatcher?.rows?.length > 0 && (
+      <section class="mt-8"><h2 class="font-display text-lg font-semibold text-ink dark:text-paper">{post.eligibilityMatcher.headingBn ?? 'Eligibility Guide'}</h2><p class="mt-2 text-sm text-ink-muted dark:text-paper/60" set:html={post.eligibilityMatcher.introHtml?.replace(/&lt;/g, '<').replace(/&gt;/g, '>')}></p><div class="mt-3 overflow-x-auto rounded-lg border border-ink/10"><table class="position-table"><thead><tr><th>যোগ্যতা</th><th>যে পদগুলোতে আবেদন করা যাবে</th><th>মোট পদ</th><th>ফি</th></tr></thead><tbody>{post.eligibilityMatcher.rows.map((row) => <tr><td>{row.yourQualification}</td><td>{row.eligiblePosts.join(', ')}</td><td>{row.totalVacancies}</td><td>{row.fee}</td></tr>)}</tbody></table></div></section>
+    )}
+
+    {post.salaryBreakdown?.rows?.length > 0 && (
+      <section class="mt-8"><h2 class="font-display text-lg font-semibold text-ink dark:text-paper">{post.salaryBreakdown.headingBn ?? 'Salary Breakdown'}</h2><div class="prose prose-sm mt-2 max-w-none dark:prose-invert" set:html={post.salaryBreakdown.introHtml?.replace(/&lt;/g, '<').replace(/&gt;/g, '>')}></div><div class="mt-3 overflow-x-auto rounded-lg border border-ink/10"><table class="position-table"><thead><tr>{post.salaryBreakdown.headers.map((header) => <th>{header}</th>)}</tr></thead><tbody>{post.salaryBreakdown.rows.map((row) => <tr>{row.map((cell) => <td>{cell}</td>)}</tr>)}</tbody></table></div></section>
     )}
 
     {post.faqs?.length > 0 && (
@@ -180,18 +200,18 @@ const keywords = [post.category, 'Bangladesh job circular', 'job application', o
     <AdSlot variant="in-content" post={post} slotId={`post-${post.id}`} />
 
     <!-- Notice image gallery -->
-    {post.noticeImages?.length > 0 && (
+    {noticeImages.length > 0 && (
       <div class="mt-8">
         <h2 class="font-display text-lg font-semibold text-ink dark:text-paper">Official Notice</h2>
         <div class="mt-3 grid grid-cols-1 gap-4 sm:grid-cols-2">
-          {post.noticeImages.map((img, i) => (
+          {noticeImages.map((img, i) => (
             <button
               type="button"
               class="notice-image-trigger overflow-hidden rounded-lg border border-ink/5 dark:border-paper/10"
-              data-image={img}
+              data-image={img.url}
               aria-label={`View notice page ${i + 1} full size`}
             >
-              <img src={img} alt={`Official notice page ${i + 1}`} loading="lazy" class="aspect-[3/4] w-full object-cover transition-transform duration-300 hover:scale-105" />
+              <img src={img.url} alt={img.alt ?? `Official notice page ${i + 1}`} loading="lazy" class="aspect-[3/4] w-full object-cover transition-transform duration-300 hover:scale-105" />
             </button>
           ))}
         </div>

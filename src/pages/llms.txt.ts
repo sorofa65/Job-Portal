@@ -1,16 +1,15 @@
 import type { APIRoute } from 'astro';
-import posts from '../data/posts.json';
-import blog from '../data/blog.json';
+import { getBlogs, getPosts } from '../utils/content.js';
 
 const siteUrl = 'https://yakub.blog';
 
 export const GET: APIRoute = ({ site }) => {
   const baseUrl = site?.toString().replace(/\/$/, '') || siteUrl;
-  const jobLinks = posts
+  const jobLinks = getPosts()
     .filter((post, index, all) => all.findIndex((candidate) => candidate.slug === post.slug) === index)
     .map((post) => `- [${post.title}](${baseUrl}/posts/${post.slug}/): ${post.metaDescription}`)
     .join('\n');
-  const blogLinks = blog
+  const blogLinks = getBlogs()
     .map((post) => `- [${post.title}](${baseUrl}/blog/${post.slug}/): ${post.metaDescription}`)
     .join('\n');
 

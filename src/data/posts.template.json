@@ -1,36 +1,19 @@
-[
-  {
-    "id": "JOB-2026-ORG-001",
-    "slug": "organization-job-circular-2026",
-    "title": "Organization Job Circular 2026",
-    "category": "Govt Job",
-    "isFeatured": false,
-    "targetVideoAd": false,
-    "date": "2026-08-29",
-    "image": "https://your-image-url.example/job-cover.jpg",
-    "noticeImages": ["https://your-image-url.example/notice-page-1.jpg"],
-    "metaDescription": "Organization Job Circular 2026 with vacancies, eligibility, deadline and official application link.",
-    "summaryTable": [
-      {"label": "Organization Name", "value": "Organization name"},
-      {"label": "Post Name", "value": "Post name"},
-      {"label": "Total Vacancies", "value": "10 Posts"},
-      {"label": "Job Type", "value": "Government Job"},
-      {"label": "Publish Date", "value": "29 August 2026"},
-      {"label": "Application Deadline", "value": "30 September 2026"},
-      {"label": "Official Website", "value": "official.example.gov.bd", "isLink": true, "url": "https://official.example.gov.bd"}
-    ],
-    "positionDetailsTable": {
-      "headers": ["Post Name", "Vacancy", "Educational Qualification", "Salary Scale"],
-      "rows": [["Post name", "10", "Required qualification", "9,300 - 22,490/-"]]
-    },
-    "introContent": "<p>Answer the main search question in the first paragraph: who is hiring, how many vacancies are available, who can apply and what is the deadline?</p>",
-    "applicationSteps": ["Visit the official website.", "Complete the application form.", "Pay the fee and save the applicant copy."],
-    "pdfNoticeLink": "https://official.example.gov.bd/job-circular.pdf",
-    "applyOnlineLink": "https://official.example.gov.bd/apply",
-    "faqs": [
-      {"question": "How many vacancies are available?", "answer": "There are 10 vacancies in this circular."},
-      {"question": "What is the application deadline?", "answer": "The application deadline is 30 September 2026."},
-      {"question": "Where can I apply?", "answer": "Apply through the official application link listed above."}
-    ]
-  }
-]
+{
+  "id": "JOB-2026-ORG-001",
+  "slug": "organization-job-circular-2026",
+  "title": "Organization Job Circular 2026",
+  "category": "Govt Job",
+  "isFeatured": false,
+  "targetVideoAd": false,
+  "date": "2026-08-29",
+  "image": "https://your-image-url.example/job-cover.jpg",
+  "noticeImages": ["https://your-image-url.example/notice-page-1.jpg"],
+  "metaDescription": "Organization Job Circular 2026 with vacancies, eligibility, deadline and official application link.",
+  "summaryTable": [{"label": "Organization Name", "value": "Organization name"}, {"label": "Post Name", "value": "Post name"}, {"label": "Total Vacancies", "value": "10 Posts"}, {"label": "Application Deadline", "value": "30 September 2026"}],
+  "positionDetailsTable": {"headers": ["Post Name", "Vacancy", "Educational Qualification", "Salary Scale"], "rows": [["Post name", "10", "Required qualification", "9,300 - 22,490/-"]]},
+  "introContent": "<p>Answer who is hiring, vacancies, eligibility and deadline in the first paragraph.</p>",
+  "applicationSteps": ["Visit the official website.", "Complete the application form.", "Pay the fee and save the applicant copy."],
+  "pdfNoticeLink": "https://official.example.gov.bd/job-circular.pdf",
+  "applyOnlineLink": "https://official.example.gov.bd/apply",
+  "faqs": [{"question": "How many vacancies are available?", "answer": "There are 10 vacancies."}, {"question": "What is the deadline?", "answer": "The deadline is 30 September 2026."}]
+}

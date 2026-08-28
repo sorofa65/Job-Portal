@@ -2,12 +2,16 @@
 // Keeping this logic in one place means the home page, category pages,
 // and the single-post page all agree on what "urgent" or "expired" means.
 
-import posts from '../data/posts.json';
+import { getPosts } from './content.js';
 
 /** Pull the application deadline (as a Date) out of a post's summaryTable. */
 export function getDeadline(post) {
+  if (post.keyDates?.applicationEnd) {
+    const keyDate = new Date(post.keyDates.applicationEnd);
+    if (!Number.isNaN(keyDate.getTime())) return keyDate;
+  }
   const row = post.summaryTable?.find((r) =>
-    /deadline/i.test(r.label)
+    /deadline|শেষ সময়|শেষ তারিখ/i.test(r.label)
   );
   if (!row) return null;
   const parsed = new Date(row.value);
@@ -42,8 +46,8 @@ export function formatDate(dateStr) {
 }
 
 export function getAllPosts() {
-  const uniquePosts = [...new Map(posts.map((post) => [post.slug, post])).values()];
-  return uniquePosts.sort((a, b) => new Date(b.date) - new Date(a.date));
+  const uniquePosts = [...new Map(getPosts().map((post) => [post.slug, post])).values()];
+  return uniquePosts.sort((a, b) => new Date(b.date || b.publishedAt) - new Date(a.date || a.publishedAt));
 }
 
 export function getFeaturedPosts() {
@@ -58,7 +62,7 @@ export function getUrgentPosts() {
 }
 
 export function getCategories() {
-  const set = new Set(posts.map((p) => p.category));
+  const set = new Set(getPosts().map((p) => p.category));
   return [...set];
 }
 
@@ -67,10 +71,17 @@ export function slugifyCategory(category) {
 }
 
 export function getPostBySlug(slug) {
-  return posts.find((p) => p.slug === slug) || null;
+  return getAllPosts().find((p) => p.slug === slug) || null;
 }
 
 export function getSalaryRange(post) {
+  if (post.positions?.length) {
+    const numbers = post.positions.flatMap((position) => {
+      const values = String(position.payScale || '').match(/[\d,]+/g) || [];
+      return values.map((value) => parseInt(value.replace(/,/g, ''), 10));
+    });
+    if (numbers.length) return { min: Math.min(...numbers), max: Math.max(...numbers) };
+  }
   const rows = post.positionDetailsTable?.rows || [];
   const numbers = [];
   for (const row of rows) {
@@ -85,6 +96,9 @@ export function getSalaryRange(post) {
 }
 
 export function getTotalVacancy(post) {
+  if (post.positions?.length) {
+    return String(post.positions.reduce((total, position) => total + Number(position.vacancies || 0), 0));
+  }
   const row = post.summaryTable?.find((r) => /vacanc/i.test(r.label));
   if (!row) return null;
   const match = row.value.match(/[\d,]+/);
