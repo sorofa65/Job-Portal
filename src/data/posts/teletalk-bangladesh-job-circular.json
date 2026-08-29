@@ -1,0 +1,530 @@
+[
+{
+"id": "",
+"slug": "teletalk-bangladesh-job-circular",
+"status": "upcoming",
+"category": "Govt Job",
+"subCategories": [
+"রাষ্ট্রায়ত্ত প্রতিষ্ঠান",
+"চিকিৎসক চাকরি",
+"খণ্ডকালীন চাকরি"
+],
+"isFeatured": false,
+"targetVideoAd": false,
+"seo": {
+"metaTitle": "টেলিটক নিয়োগ বিজ্ঞপ্তি ২০২৬ | ০১ পদ",
+"metaTitleEn": "Teletalk Bangladesh Job Circular 2026 | 1 Post",
+"metaDescription": "টেলিটক বাংলাদেশ লিমিটেডে চুক্তিভিত্তিক খণ্ডকালীন চিকিৎসক নিয়োগ। আবেদন শুরু ২৭ আগস্ট ২০২৬, শেষ ১৫ সেপ্টেম্বর ২০২৬ বিকাল ৫টা।",
+"focusKeyword": "টেলিটক বাংলাদেশ নিয়োগ বিজ্ঞপ্তি ২০২৬",
+"focusKeywordEn": "Teletalk Bangladesh Job Circular 2026",
+"secondaryKeywords": [
+"টেলিটক চাকরি",
+"TBL Job Circular",
+"চুক্তিভিত্তিক চিকিৎসক",
+"খণ্ডকালীন ডাক্তার চাকরি",
+"Teletalk Doctor Job",
+"রাষ্ট্রায়ত্ত চাকরি",
+"টেলিটক নিয়োগ",
+"Teletalk Bangladesh Limited"
+],
+"canonical": "https://yakub.blog/teletalk-bangladesh-job-circular",
+"ogTitle": "টেলিটক বাংলাদেশ লিমিটেড নিয়োগ বিজ্ঞপ্তি ২০২৬",
+"ogDescription": "টেলিটকে ০১ জন চুক্তিভিত্তিক খণ্ডকালীন চিকিৎসক নিয়োগের আবেদন ১৫ সেপ্টেম্বর ২০২৬ বিকাল ৫টা পর্যন্ত।",
+"ogImage": "https://i.ibb.co.com/4wrDD7Yt/Teletalk-Bangladesh-Limited.webp",
+"twitterCard": "summary_large_image",
+"robots": "index,follow",
+"language": "bn-BD",
+"readingTimeMinutes": 5
+},
+"author": {
+"name": "Yakub",
+"role": "সরকারি চাকরি কনটেন্ট এডিটর",
+"profileUrl": "https://yakub.blog",
+"credentialNote": ""
+},
+"publishedAt": "2026-08-27",
+"lastUpdatedAt": "2026-08-29",
+"lastUpdatedLabel": "সর্বশেষ আপডেট: ২৯ আগস্ট ২০২৬",
+"updateLog": [
+{
+"date": "2026-08-27",
+"note": "নিয়োগ বিজ্ঞপ্তির তথ্য যুক্ত করা হয়েছে।"
+},
+{
+"date": "2026-08-29",
+"note": "প্রদত্ত সার্কুলার ডেটা অনুযায়ী তথ্য পর্যালোচনা করা হয়েছে।"
+}
+],
+"verification": {
+"verified": true,
+"source": "অফিসিয়াল ওয়েবসাইট",
+"sourceUrl": "https://teletalk.com.bd",
+"verifiedOn": "2026-08-27",
+"badgeText": "অফিশিয়াল সার্কুলার থেকে যাচাইকৃত"
+},
+"image": "https://i.ibb.co.com/4wrDD7Yt/Teletalk-Bangladesh-Limited.webp",
+"imageAlt": "টেলিটক বাংলাদেশ লিমিটেড নিয়োগ বিজ্ঞপ্তি ২০২৬",
+"noticeImages": [],
+"pdfNoticeLink": "https://jobs.teletalk.com.bd/docs/20260817.pdf",
+"applyOnlineLink": "https://jobs.teletalk.com.bd",
+"keyDates": {
+"memoIssuedOn": "2026-08-17",
+"publishedOn": "2026-08-27",
+"applicationStart": "2026-08-27 10:00",
+"applicationEnd": "2026-09-15 17:00",
+"ageCalculatedAsOn": "2026-08-27",
+"feePaymentWindowNote": "অনলাইন আবেদন জমা দেওয়ার পর পরবর্তী ৭২ ঘণ্টার মধ্যে Teletalk Pre-paid নম্বর থেকে নির্ধারিত SMS-এর মাধ্যমে ফি দিতে হবে।"
+},
+"countdown": {
+"enabled": true,
+"targetIso": "2026-09-15T17:00:00+06:00",
+"labelTemplate": "আবেদনের শেষ সময়: ১৫ সেপ্টেম্বর ২০২৬ বিকাল ০৫:০০",
+"expiredLabel": "আবেদনের সময় শেষ হয়েছে"
+},
+"expiryPolicy": {
+"onExpiryShowBanner": true,
+"bannerText": "এই নিয়োগের অনলাইন আবেদনের সময়সীমা শেষ হয়েছে।",
+"removeJobPostingSchemaOnExpiry": true,
+"keepPageIndexed": true,
+"redirectOnNextYearCircular": false
+},
+"organization": {
+"nameBn": "টেলিটক বাংলাদেশ লিমিটেড",
+"nameEn": "Teletalk Bangladesh Limited",
+"shortName": "TBL",
+"ministry": "ডাক, টেলিযোগাযোগ ও তথ্যপ্রযুক্তি মন্ত্রণালয়ের ডাক ও টেলিযোগাযোগ বিভাগ",
+"website": "https://teletalk.com.bd",
+"email": "alljobs.query@teletalk.com.bd",
+"phone": "০১৫৫০-৬৬৬৭৬৬",
+"address": "টেলিটক বাংলাদেশ লিমিটেড, বাড়ি নম্বর: ৩/এ, ৫/এ, ৭/এ, রোড নম্বর: ১৭, গুলশান-১, ঢাকা-১২১২ (রাজউক কমার্শিয়াল কমপ্লেক্স, লেভেল-১০)",
+"addressLocality": "গুলশান-১, ঢাকা",
+"addressRegion": "ঢাকা",
+"postalCode": "১২১২",
+"addressCountry": "বাংলাদেশ",
+"aboutHtml": "<p>টেলিটক বাংলাদেশ লিমিটেড বাংলাদেশের রাষ্ট্রায়ত্ত মোবাইল নেটওয়ার্ক সেবাদানকারী প্রতিষ্ঠান। ২০০৪ সালের ২৬ ডিসেম্বর প্রতিষ্ঠানটির বাণিজ্যিক যাত্রা শুরু হয়।</p><p>প্রদত্ত বিজ্ঞপ্তিতে প্রতিষ্ঠানের কর্মকর্তা ও কর্মচারীদের নিয়মিত স্বাস্থ্যসেবা দেওয়ার জন্য চুক্তিভিত্তিক খণ্ডকালীন চিকিৎসক নিয়োগের কথা বলা হয়েছে।</p>"
+},
+"summaryTable": [
+{
+"label": "প্রতিষ্ঠানের নাম",
+"value": "টেলিটক বাংলাদেশ লিমিটেড",
+"isLink": false,
+"url": ""
+},
+{
+"label": "পদের সংখ্যা",
+"value": "০১টি",
+"isLink": false,
+"url": ""
+},
+{
+"label": "শূন্যপদ",
+"value": "০১ জন",
+"isLink": false,
+"url": ""
+},
+{
+"label": "পদের নাম",
+"value": "চুক্তিভিত্তিক খণ্ডকালীন চিকিৎসক",
+"isLink": false,
+"url": ""
+},
+{
+"label": "কর্মস্থল",
+"value": "ঢাকা (গুলশান-১)",
+"isLink": false,
+"url": ""
+},
+{
+"label": "শিক্ষাগত যোগ্যতা",
+"value": "এমবিবিএস ও বিএমডিসি নিবন্ধন",
+"isLink": false,
+"url": ""
+},
+{
+"label": "অভিজ্ঞতা",
+"value": "কমপক্ষে ১০ বছরের বাস্তব অভিজ্ঞতা",
+"isLink": false,
+"url": ""
+},
+{
+"label": "বয়সসীমা",
+"value": "সর্বোচ্চ ৫৫ বছর",
+"isLink": false,
+"url": ""
+},
+{
+"label": "মাসিক সম্মানী",
+"value": "সর্বসাকুল্যে ৪৫,০০০/- টাকা",
+"isLink": false,
+"url": ""
+},
+{
+"label": "আবেদন ফি",
+"value": "১,০০০/- টাকা",
+"isLink": false,
+"url": ""
+},
+{
+"label": "আবেদনের শেষ সময়",
+"value": "১৫ সেপ্টেম্বর ২০২৬ বিকাল ০৫:০০",
+"isLink": false,
+"url": ""
+},
+{
+"label": "অনলাইন আবেদন",
+"value": "jobs.teletalk.com.bd",
+"isLink": true,
+"url": "https://jobs.teletalk.com.bd"
+}
+],
+"positions": [
+{
+"serial": 1,
+"nameBn": "চুক্তিভিত্তিক খণ্ডকালীন চিকিৎসক",
+"nameEn": "Contractual Part-Time Doctor",
+"vacancies": 1,
+"grade": "",
+"gradeNumber": "",
+"payScale": "মাসিক সর্বসাকুল্যে ৪৫,০০০/- টাকা ও উৎসব ভাতা",
+"basicPay": "",
+"educationBn": "সরকার কর্তৃক স্বীকৃত কোনো বিশ্ববিদ্যালয়/চিকিৎসা মহাবিদ্যালয় হতে এমবিবিএস পরীক্ষায় উত্তীর্ণ এবং বিএমডিসি-এর নিবন্ধিত হতে হবে। মেডিকেল সায়েন্সের যেকোনো বিষয়ে উচ্চতর ডিগ্রিধারীদের অতিরিক্ত যোগ্যতা হিসেবে বিবেচনা করা হবে।",
+"educationEn": "MBBS from a government-recognized university or medical college and registration with BMDC are required. A higher degree in any field of Medical Science will be considered an additional qualification.",
+"skillsBn": "চিকিৎসক হিসেবে কমপক্ষে ১০ বছরের বাস্তব অভিজ্ঞতা থাকতে হবে। সরকারি মালিকানাধীন বা রাষ্ট্রায়ত্ত প্রতিষ্ঠানে কাজের অভিজ্ঞতা এবং মহিলা প্রার্থীদের অগ্রাধিকার দেওয়া হবে।",
+"feeTier": "১,০০০/- টাকা",
+"competitionNote": "শূন্যপদ মাত্র ০১টি; তাই যোগ্য প্রার্থীদের মধ্যেই প্রতিযোগিতা ঘন হওয়ার সম্ভাবনা বেশি।"
+}
+],
+"eligibilityMatcher": {
+"headingBn": "আপনার যোগ্যতা অনুযায়ী আবেদনযোগ্য পদ",
+"headingEn": "Eligibility Matcher",
+"introHtml": "<p>আপনার শিক্ষাগত যোগ্যতা, BMDC registration এবং অভিজ্ঞতা মিলিয়ে নিচের তথ্য দেখুন। এখানে একমাত্র পদটির যোগ্যতাই প্রযোজ্য।</p>",
+"rows": [
+{
+"yourQualification": "এমবিবিএস + BMDC নিবন্ধন + চিকিৎসক হিসেবে কমপক্ষে ১০ বছরের বাস্তব অভিজ্ঞতা",
+"eligiblePosts": [
+"চুক্তিভিত্তিক খণ্ডকালীন চিকিৎসক"
+],
+"totalVacancies": 1,
+"fee": "১,০০০/- টাকা"
+}
+],
+"noteHtml": "<p>শুধু MBBS ডিগ্রি থাকলেই যথেষ্ট নয়; বিজ্ঞপ্তিতে BMDC registration এবং কমপক্ষে ১০ বছরের বাস্তব চিকিৎসা-অভিজ্ঞতা দুটিই চাওয়া হয়েছে।</p>"
+},
+"salaryBreakdown": {
+"headingBn": "বেতন ও সুবিধার হিসাব",
+"headingEn": "Salary Breakdown",
+"introHtml": "<p>বিজ্ঞপ্তিতে এই পদের জন্য মাসিক সর্বসাকুল্যে ৪৫,০০০/- টাকা উল্লেখ আছে। কোনো গ্রেডভিত্তিক basic pay দেওয়া হয়নি, তাই আলাদা করে basic, house rent বা medical allowance যোগ করে নতুন gross amount হিসাব করা হয়নি।</p>",
+"headers": [
+"বেতন/সুবিধা",
+"বিজ্ঞপ্তিতে উল্লেখিত তথ্য"
+],
+"rows": [
+[
+"মাসিক সম্মানী",
+"৪৫,০০০/- টাকা"
+],
+[
+"ঈদ উৎসব ভাতা",
+"প্রতি বছর দুই ঈদে পূর্ণ বেতনের সমপরিমাণ দুটি উৎসব বোনাস"
+],
+[
+"নববর্ষ ভাতা",
+"১লা বৈশাখে মূল বেতনের ১০%"
+]
+],
+"disclaimerHtml": "<p>আনুমানিক gross salary হিসাব করা হয়নি, কারণ বিজ্ঞপ্তিতে basic pay ও ভাতার আলাদা হার দেওয়া নেই। তাই ৪৫,০০০/- টাকাকেই বিজ্ঞপ্তিতে উল্লেখিত মাসিক সর্বসাকুল্য অর্থ হিসেবে ধরা হয়েছে।</p>",
+"extraBenefitsBn": [
+"প্রতি বছর দুই ঈদে পূর্ণ বেতনের সমপরিমাণ দুটি উৎসব বোনাস",
+"১লা বৈশাখে মূল বেতনের ১০% নববর্ষ ভাতা",
+"প্রাথমিকভাবে ২ বছরের চুক্তির মেয়াদ"
+]
+},
+"ageEligibility": {
+"headingBn": "বয়সসীমা ও জন্মতারিখ",
+"asOnDateBn": "২৭ আগস্ট ২০২৬",
+"minAge": "",
+"maxAge": 55,
+"quotaSameAsGeneral": "",
+"bornBetweenBn": "",
+"bodyHtml": "<p>২৭ আগস্ট ২০২৬ তারিখে আবেদনকারীর বয়স সর্বোচ্চ ৫৫ বছর হতে হবে। জন্মতারিখের নির্দিষ্ট সীমা বিজ্ঞপ্তির প্রদত্ত তথ্য থেকে আলাদা করে উল্লেখ করা হয়নি।</p><p>জন্মতারিখের রেঞ্জ হিসাব করা হয়নি, কারণ এখানে হিসাব করা তথ্য হলে তা আনুমানিক হিসেবে disclaimer-সহ দিতে হবে এবং raw data-তে সরাসরি জন্মতারিখের সীমা নেই।</p>",
+"calculatorLink": {
+"text": "",
+"url": ""
+}
+},
+"districtEligibility": {
+"headingBn": "কোন জেলার প্রার্থী আবেদন করতে পারবেন?",
+"eligibleOnly": true,
+"districts": [
+"বাংলাদেশের সকল জেলা"
+],
+"bodyHtml": "<p>বিজ্ঞপ্তি অনুযায়ী বাংলাদেশের সকল জেলার যোগ্য নারী ও পুরুষ প্রার্থী আবেদন করতে পারবেন। তবে মূল যোগ্যতা—MBBS, BMDC registration এবং প্রয়োজনীয় অভিজ্ঞতা—অবশ্যই পূরণ করতে হবে।</p>"
+},
+"introContent": "<p>টেলিটক বাংলাদেশ লিমিটেড ২০২৬ সালে ০১টি শূন্যপদে চুক্তিভিত্তিক খণ্ডকালীন চিকিৎসক নিয়োগের বিজ্ঞপ্তি দিয়েছে। আবেদন শুরু হয়েছে ২৭ আগস্ট ২০২৬ সকাল ১০:০০টায় এবং শেষ হবে ১৫ সেপ্টেম্বর ২০২৬ বিকাল ০৫:০০টায়।</p><p>এই নিয়োগটি সাধারণ entry-level চাকরি নয়। MBBS-এর পাশাপাশি BMDC registration এবং চিকিৎসক হিসেবে কমপক্ষে ১০ বছরের বাস্তব অভিজ্ঞতা দরকার, ফলে অভিজ্ঞ চিকিৎসকরাই মূল আবেদনকারী।</p><p>কাজের সময় রবিবার থেকে বৃহস্পতিবার সকাল ১০:০০টা থেকে দুপুর ০১:০০টা পর্যন্ত, সরকারি ছুটির দিন বাদে। মাসিক সর্বসাকুল্যে ৪৫,০০০/- টাকা এবং নির্দিষ্ট উৎসব ও নববর্ষ ভাতার কথাও বিজ্ঞপ্তিতে আছে।</p><p>আবেদন করার আগে Applicant's Copy-তে থাকা তথ্য একবার ভালোভাবে মিলিয়ে নিন। বিশেষ করে BMDC registration, অভিজ্ঞতার তথ্য, ছবি এবং স্বাক্ষরের specification-এ ভুল হলে পরে সমস্যা হতে পারে।</p>",
+"englishSummary": {
+"headingEn": "Teletalk Bangladesh Job Circular 2026",
+"bodyHtml": "<p>Teletalk Bangladesh Limited is hiring one Contractual Part-Time Doctor for its Gulshan-1, Dhaka office. The position is intended to provide regular healthcare services to the organization's officers and employees.</p><p>Applicants must hold an MBBS degree from a government-recognized university or medical college and must be registered with BMDC. At least 10 years of practical experience as a doctor is required. Higher qualifications in Medical Science may be considered an additional qualification.</p><p>The position offers a consolidated monthly payment of BDT 45,000, along with two festival bonuses and a Bengali New Year allowance as stated in the notice. The working schedule is Sunday to Thursday, from 10:00 AM to 1:00 PM, excluding government holidays.</p><p>Applications must be submitted online through the Teletalk job portal. The application period starts on August 27, 2026 at 10:00 AM and ends on September 15, 2026 at 5:00 PM. The application fee is BDT 1,000.</p>"
+},
+"bestFitFor": {
+"headingBn": "কার জন্য পদটি বেশি মানানসই?",
+"items": [
+{
+"who": "অভিজ্ঞ MBBS চিকিৎসক",
+"why": "কমপক্ষে ১০ বছরের বাস্তব চিকিৎসা-অভিজ্ঞতা এই পদের সরাসরি শর্ত।"
+},
+{
+"who": "BMDC-registered চিকিৎসক",
+"why": "আবেদনের জন্য BMDC registration বাধ্যতামূলক।"
+},
+{
+"who": "রাষ্ট্রায়ত্ত প্রতিষ্ঠানে অভিজ্ঞ চিকিৎসক",
+"why": "সরকারি মালিকানাধীন বা রাষ্ট্রায়ত্ত প্রতিষ্ঠানে কাজের অভিজ্ঞতাকে অগ্রাধিকার দেওয়ার কথা বিজ্ঞপ্তিতে বলা হয়েছে।"
+},
+{
+"who": "মহিলা চিকিৎসক",
+"why": "বিজ্ঞপ্তিতে মহিলা প্রার্থীদের অগ্রাধিকার দেওয়ার কথা উল্লেখ আছে।"
+}
+]
+},
+"applicationSteps": [
+{
+"step": 1,
+"titleBn": "অফিশিয়াল আবেদন পোর্টালে যান",
+"detailBn": "jobs.teletalk.com.bd ওয়েবসাইটে প্রবেশ করে Application Form নির্বাচন করুন।"
+},
+{
+"step": 2,
+"titleBn": "পদ নির্বাচন করুন",
+"detailBn": "চুক্তিভিত্তিক খণ্ডকালীন চিকিৎসক পদ নির্বাচন করে Next বাটনে এগিয়ে যান।"
+},
+{
+"step": 3,
+"titleBn": "আবেদন ফরম পূরণ করুন",
+"detailBn": "ব্যক্তিগত তথ্য, শিক্ষাগত যোগ্যতা, BMDC registration, অভিজ্ঞতা এবং ঠিকানা নির্ভুলভাবে পূরণ করুন।"
+},
+{
+"step": 4,
+"titleBn": "ছবি ও স্বাক্ষর আপলোড করুন",
+"detailBn": "নির্ধারিত specification অনুযায়ী রঙিন ছবি ও স্বাক্ষর আপলোড করুন।"
+},
+{
+"step": 5,
+"titleBn": "Applicant's Copy সংরক্ষণ করুন",
+"detailBn": "Submit করার পর User ID-সহ Applicant's Copy ডাউনলোড করে সংরক্ষণ করুন।"
+},
+{
+"step": 6,
+"titleBn": "SMS-এ আবেদন ফি দিন",
+"detailBn": "Teletalk Pre-paid নম্বর ব্যবহার করে পরবর্তী ৭২ ঘণ্টার মধ্যে ১,০০০/- টাকা ফি জমা দিন।"
+}
+],
+"photoSpec": {
+"dimensions": "৩০০ × ৩০০ পিক্সেল",
+"maxSize": "সর্বোচ্চ ১০০ KB",
+"format": "JPG",
+"noteBn": "সদ্য তোলা রঙিন ছবি ব্যবহার করতে হবে।"
+},
+"signatureSpec": {
+"dimensions": "৩০০ × ৮০ পিক্সেল",
+"maxSize": "সর্বোচ্চ ৬০ KB",
+"format": "JPG",
+"noteBn": "নির্ধারিত মাপ ও file size অনুযায়ী স্পষ্ট স্বাক্ষর আপলোড করুন।"
+},
+"applicationFee": {
+"headingBn": "আবেদন ফি ও SMS পেমেন্ট",
+"headers": [
+"বিবরণ",
+"ফি"
+],
+"rows": [
+[
+"চুক্তিভিত্তিক খণ্ডকালীন চিকিৎসক",
+"১,০০০/- টাকা"
+]
+],
+"smsPayment": {
+"shortCode": "১৬২২২",
+"prefix": "teletalk",
+"step1Format": "teletalk <space> User ID",
+"step1Example": "teletalk ABCDEF",
+"step2Format": "teletalk <space> YES <space> PIN Code",
+"step2Example": "teletalk YES 12345678",
+"noteBn": "Applicant's Copy-তে দেওয়া SMS নির্দেশনা অনুসরণ করুন। ফি জমা না হওয়া পর্যন্ত আবেদন সম্পন্ন হয়েছে বলে গণ্য হবে না।"
+}
+},
+"rejectionRisks": {
+"headingBn": "আবেদন বাতিল হওয়ার সম্ভাব্য কারণ",
+"introHtml": "<p>আবেদন করার সময় ছোট ভুলও পরে জটিলতা তৈরি করতে পারে। তাই Submit করার আগে নিচের বিষয়গুলো মিলিয়ে নিন।</p>",
+"items": [
+"নির্ধারিত সময়ের মধ্যে ১,০০০/- টাকা আবেদন ফি জমা না দেওয়া।",
+"আবেদন ফরমে BMDC registration নম্বর বা অভিজ্ঞতার তথ্য ভুলভাবে দেওয়া।",
+"বিজ্ঞপ্তির নির্ধারিত মাপ বা file size না মেনে ছবি আপলোড করা।",
+"ভুল বা অস্পষ্ট স্বাক্ষর আপলোড করা।",
+"সর্বোচ্চ ৫৫ বছরের বয়সসীমা পূরণ না করা।",
+"শিক্ষাগত যোগ্যতা বা ১০ বছরের প্রয়োজনীয় অভিজ্ঞতার প্রমাণে গরমিল থাকা।",
+"শেষ সময়ের কাছাকাছি আবেদন করতে গিয়ে technical বা server সমস্যার কারণে আবেদন সম্পূর্ণ না হওয়া।"
+]
+},
+"timeline": {
+"headingBn": "নিয়োগের সময়সূচি",
+"steps": [
+{
+"event": "বিজ্ঞপ্তি জারি",
+"date": "১৭ আগস্ট ২০২৬",
+"state": "done"
+},
+{
+"event": "বিজ্ঞপ্তি প্রকাশ",
+"date": "২৭ আগস্ট ২০২৬",
+"state": "done"
+},
+{
+"event": "অনলাইন আবেদন শুরু",
+"date": "২৭ আগস্ট ২০২৬ সকাল ১০:০০",
+"state": "done"
+},
+{
+"event": "অনলাইন আবেদন শেষ",
+"date": "১৫ সেপ্টেম্বর ২০২৬ বিকাল ০৫:০০",
+"state": "upcoming"
+},
+{
+"event": "Admit Card প্রকাশ",
+"date": "এখনো ঘোষণা হয়নি",
+"state": "tba"
+},
+{
+"event": "পরীক্ষা",
+"date": "এখনো ঘোষণা হয়নি",
+"state": "tba"
+},
+{
+"event": "ভাইভা",
+"date": "এখনো ঘোষণা হয়নি",
+"state": "tba"
+}
+],
+"admitCardHtml": "<p>সফল আবেদনকারীদের Admit Card প্রকাশের তারিখ পরে SMS এবং jobs.teletalk.com.bd ওয়েবসাইটের মাধ্যমে জানানো হবে। পরীক্ষার নির্দিষ্ট তারিখ বিজ্ঞপ্তির প্রদত্ত তথ্যের মধ্যে ঘোষণা করা হয়নি।</p>"
+},
+"preparation": {
+"headingBn": "আবেদনের আগে যা প্রস্তুত রাখবেন",
+"items": [
+{
+"titleBn": "BMDC তথ্য যাচাই",
+"detailBn": "আবেদন ফরমে দেওয়ার আগে BMDC registration নম্বর সঠিক আছে কি না মিলিয়ে নিন।"
+},
+{
+"titleBn": "অভিজ্ঞতার কাগজপত্র",
+"detailBn": "চিকিৎসক হিসেবে কমপক্ষে ১০ বছরের বাস্তব অভিজ্ঞতার প্রমাণপত্র প্রস্তুত রাখুন।"
+},
+{
+"titleBn": "ছবি ও স্বাক্ষর",
+"detailBn": "৩০০ × ৩০০ পিক্সেল ছবি এবং ৩০০ × ৮০ পিক্সেল স্বাক্ষর নির্ধারিত file size-এর মধ্যে রাখুন।"
+},
+{
+"titleBn": "আবেদনের সময়",
+"detailBn": "১৫ সেপ্টেম্বর ২০২৬ বিকাল ০৫:০০টার শেষ সময়ের আগে আবেদন সম্পন্ন করুন; শুধু ফরম পূরণ নয়, fee payment-ও নিশ্চিত করুন।"
+}
+]
+},
+"vivaDocuments": {
+"headingBn": "ভাইভায় প্রয়োজনীয় কাগজপত্র",
+"items": [
+"সকল শিক্ষাগত যোগ্যতার মূল সনদপত্র।",
+"নাগরিকত্ব সনদ বা ইউনিয়ন পরিষদ চেয়ারম্যান/পৌরসভা মেয়র কর্তৃক প্রদত্ত চারিত্রিক সনদপত্র।",
+"জাতীয় পরিচয়পত্র (NID)-এর মূল কপি।",
+"প্রথম শ্রেণির গেজেটেড কর্মকর্তা কর্তৃক সত্যায়িত সদ্য তোলা রঙিন ছবি।",
+"মুক্তিযোদ্ধা বা অন্যান্য কোটার ক্ষেত্রে সংশ্লিষ্ট কর্তৃপক্ষের দেওয়া মূল সনদ।"
+]
+},
+"faqs": [
+{
+"question": "টেলিটক বাংলাদেশ লিমিটেডে কতজন নিয়োগ দেওয়া হবে?",
+"answer": "এই বিজ্ঞপ্তিতে ০১টি পদে মোট ০১ জন নিয়োগের কথা বলা হয়েছে। পদটি হলো চুক্তিভিত্তিক খণ্ডকালীন চিকিৎসক। কর্মস্থল ঢাকা, গুলশান-১। শূন্যপদ মাত্র একটি হওয়ায় আবেদন করার আগে আপনার MBBS, BMDC registration এবং প্রয়োজনীয় ১০ বছরের অভিজ্ঞতা বিজ্ঞপ্তির শর্তের সঙ্গে মিলিয়ে নেওয়া ভালো।"
+},
+{
+"question": "এই পদে শিক্ষাগত যোগ্যতা কী?",
+"answer": "আবেদনকারীর সরকার স্বীকৃত বিশ্ববিদ্যালয় বা চিকিৎসা মহাবিদ্যালয় থেকে MBBS পাস হতে হবে এবং BMDC-তে নিবন্ধিত থাকতে হবে। Medical Science-এর যেকোনো বিষয়ে higher degree থাকলে সেটি অতিরিক্ত যোগ্যতা হিসেবে বিবেচিত হবে। তবে শুধু উচ্চতর ডিগ্রি থাকলেই অভিজ্ঞতার শর্ত বাদ যাবে না।"
+},
+{
+"question": "What is the application deadline?",
+"answer": "The online application deadline is September 15, 2026 at 5:00 PM. Applications must be submitted through the official Teletalk job portal. After submitting the form, the applicant must also complete the required fee payment through the specified Teletalk SMS process within the stated payment window."
+},
+{
+"question": "আবেদন ফি কত টাকা?",
+"answer": "এই পদের আবেদন ফি ১,০০০/- টাকা। অনলাইন আবেদন ফরম Submit করার পর User ID ব্যবহার করে Teletalk Pre-paid মোবাইল নম্বর থেকে নির্ধারিত SMS পাঠিয়ে ফি জমা দিতে হবে। ফি জমা দেওয়ার আগে Applicant's Copy-তে থাকা নির্দেশনা মিলিয়ে নেওয়া নিরাপদ।"
+},
+{
+"question": "বয়সসীমা কত?",
+"answer": "২৭ আগস্ট ২০২৬ তারিখে আবেদনকারীর বয়স সর্বোচ্চ ৫৫ বছর হতে হবে। প্রদত্ত বিজ্ঞপ্তির তথ্য অনুযায়ী এর চেয়ে বেশি বয়সী প্রার্থী আবেদনযোগ্য নন। নির্দিষ্ট জন্মতারিখের range সরাসরি দেওয়া হয়নি, তাই এখানে আলাদা করে জন্মতারিখের হিসাব দেখানো হয়নি।"
+},
+{
+"question": "কাজের সময় কত ঘণ্টা?",
+"answer": "কাজের সময় রবিবার থেকে বৃহস্পতিবার সকাল ১০:০০টা থেকে দুপুর ০১:০০টা পর্যন্ত। অর্থাৎ প্রতিদিনের নির্ধারিত কর্মসময় তিন ঘণ্টা। সরকারি ছুটির দিন এই সময়সূচির বাইরে থাকবে। পদটি part-time হওয়ায় আবেদন করার আগে আপনার বর্তমান পেশাগত দায়িত্বের সঙ্গে সময়সূচিটি সামঞ্জস্যপূর্ণ কি না দেখে নেওয়া দরকার।"
+},
+{
+"question": "How much does the position pay?",
+"answer": "The notice states a consolidated monthly payment of BDT 45,000. It also mentions two festival bonuses equal to full salary and a Bengali New Year allowance of 10% of the basic salary. A separate gross-salary calculation is not provided because the notice does not specify a basic pay scale."
+},
+{
+"question": "কোন জেলার প্রার্থীরা আবেদন করতে পারবেন?",
+"answer": "বাংলাদেশের সকল জেলার যোগ্য নারী ও পুরুষ প্রার্থী এই পদে আবেদন করতে পারবেন। জেলা-ভিত্তিক কোনো সীমাবদ্ধতা উল্লেখ করা হয়নি। তবে জেলা সবার জন্য খোলা হলেও পদের মূল যোগ্যতা একই থাকবে—MBBS, BMDC registration এবং চিকিৎসক হিসেবে কমপক্ষে ১০ বছরের বাস্তব অভিজ্ঞতা।"
+},
+{
+"question": "আবেদনে ছবির মাপ কত?",
+"answer": "ছবির মাপ ৩০০ × ৩০০ পিক্সেল এবং সর্বোচ্চ file size ১০০ KB। ছবিটি JPG format-এ হতে হবে এবং সদ্য তোলা রঙিন ছবি ব্যবহার করতে বলা হয়েছে। স্বাক্ষরের জন্য আলাদা specification রয়েছে, তাই ছবি ও signature একই মাপে বানিয়ে আপলোড করা ঠিক হবে না।"
+},
+{
+"question": "পরীক্ষার তারিখ কি প্রকাশ হয়েছে?",
+"answer": "প্রদত্ত বিজ্ঞপ্তির তথ্য অনুযায়ী পরীক্ষার নির্দিষ্ট তারিখ এখনো ঘোষণা করা হয়নি। Admit Card প্রকাশের তথ্য SMS এবং jobs.teletalk.com.bd ওয়েবসাইটের মাধ্যমে জানানো হবে। তাই আবেদন সম্পন্ন করার পর Applicant's Copy সংরক্ষণ করুন এবং পরবর্তী নির্দেশনার জন্য অফিসিয়াল portal নজরে রাখুন।"
+}
+],
+"internalLinks": [],
+"relatedCirculars": [],
+"closingContent": "<p>এই নিয়োগে শূন্যপদ মাত্র ০১টি এবং যোগ্যতার সঙ্গে ১০ বছরের বাস্তব অভিজ্ঞতার শর্ত যুক্ত আছে। তাই আবেদন করার আগে নিজের qualification ও experience দুটোই মিলিয়ে নেওয়াই সবচেয়ে নিরাপদ।</p><p>অনলাইন ফরম Submit করার পর fee payment বাদ দেবেন না। শেষ সময় ১৫ সেপ্টেম্বর ২০২৬ বিকাল ০৫:০০; এর আগেই পুরো আবেদন প্রক্রিয়া শেষ করুন।</p>",
+"tableOfContents": [
+"জব সামারি",
+"প্রতিষ্ঠানের পরিচিতি",
+"পদের বিবরণ ও যোগ্যতা",
+"Eligibility Matcher",
+"বেতন ও সুবিধা",
+"বয়সসীমা",
+"জেলা যোগ্যতা",
+"অনলাইনে আবেদন করার নিয়ম",
+"আবেদন ফি ও SMS পেমেন্ট",
+"আবেদন বাতিল হওয়ার সম্ভাব্য কারণ",
+"নিয়োগের সময়সূচি",
+"প্রস্তুতি",
+"ভাইভায় প্রয়োজনীয় কাগজপত্র",
+"সাধারণ জিজ্ঞাসা"
+],
+"schema": {
+"generateJobPostingPerPosition": true,
+"jobPostingDefaults": {
+"title": "চুক্তিভিত্তিক খণ্ডকালীন চিকিৎসক",
+"employmentType": "CONTRACTOR",
+"hiringOrganization": "টেলিটক বাংলাদেশ লিমিটেড",
+"jobLocation": "ঢাকা (গুলশান-১)",
+"baseSalary": "মাসিক সর্বসাকুল্যে ৪৫,০০০/- টাকা",
+"validThrough": "2026-09-15T17:00:00+06:00"
+},
+"generateFaqPage": true,
+"generateBreadcrumb": [
+{
+"name": "হোম",
+"url": "https://yakub.blog"
+},
+{
+"name": "চাকরির বিজ্ঞপ্তি",
+"url": "https://yakub.blog"
+},
+{
+"name": "টেলিটক বাংলাদেশ নিয়োগ বিজ্ঞপ্তি",
+"url": "https://yakub.blog/teletalk-bangladesh-job-circular"
+}
+],
+"generateArticle": true,
+"articleType": "JobPosting"
+}
+}
+]
