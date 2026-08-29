@@ -1,0 +1,873 @@
+{
+  "id": "bhtpa-job-circular",
+  "slug": "bhtpa-job-circular",
+  "status": "published",
+  "category": "Govt Job",
+  "subCategories": [
+    "Teletalk Application",
+    "All BD Jobs"
+  ],
+  "isFeatured": true,
+  "targetVideoAd": "",
+  "seo": {
+    "metaTitle": "হাই-টেক পার্ক কর্তৃপক্ষ নিয়োগ ৪২ পদ ২০২৬",
+    "metaTitleEn": "BHTPA Job Circular 2026 – 42 Posts",
+    "metaDescription": "বাংলাদেশ হাই-টেক পার্ক কর্তৃপক্ষের ৪২ পদে নিয়োগ। ৩০ আগস্ট ২০২৬ আবেদন শুরু, শেষ ২৬ সেপ্টেম্বর ২০২৬ বিকাল ৫টা।",
+    "focusKeyword": "হাই-টেক পার্ক কর্তৃপক্ষ নিয়োগ ২০২৬",
+    "focusKeywordEn": "BHTPA Job Circular 2026",
+    "secondaryKeywords": [
+      "বাংলাদেশ হাই-টেক পার্ক কর্তৃপক্ষ চাকরি",
+      "BHTPA নিয়োগ বিজ্ঞপ্তি",
+      "হাই-টেক পার্ক চাকরি ২০২৬",
+      "BHTPA Job Circular",
+      "সরকারি চাকরি ২০২৬",
+      "Teletalk চাকরির আবেদন",
+      "বাংলাদেশে সরকারি চাকরি",
+      "BHTPA recruitment"
+    ],
+    "canonical": "https://yakub.blog/bhtpa-job-circular/",
+    "ogTitle": "বাংলাদেশ হাই-টেক পার্ক কর্তৃপক্ষ নিয়োগ ২০২৬",
+    "ogDescription": "১৪ ক্যাটাগরিতে ৪২ পদে নিয়োগের তথ্য, যোগ্যতা ও অনলাইন আবেদন নির্দেশিকা।",
+    "ogImage": "https://i.ibb.co.com/TDbxC7NJ/bhtpa-job-circular.webp",
+    "twitterCard": "summary_large_image",
+    "robots": "index,follow",
+    "language": "bn-BD",
+    "readingTimeMinutes": 8
+  },
+  "author": {
+    "name": "Yakub",
+    "role": "সরকারি চাকরি কনটেন্ট এডিটর",
+    "profileUrl": "",
+    "credentialNote": "অফিশিয়াল সার্কুলার ও প্রদত্ত RAW DATA ভিত্তিক কনটেন্ট প্রস্তুত করা হয়েছে।"
+  },
+  "publishedAt": "2026-08-29",
+  "lastUpdatedAt": "2026-08-29",
+  "lastUpdatedLabel": "সর্বশেষ আপডেট: ২৯ আগস্ট ২০২৬",
+  "updateLog": [
+    {
+      "date": "2026-08-29",
+      "note": "RAW DATA অনুযায়ী নিয়োগ তথ্য সাজানো ও আপডেট করা হয়েছে।"
+    }
+  ],
+  "verification": {
+    "verified": true,
+    "source": "দৈনিক ইত্তেফাক",
+    "sourceUrl": "",
+    "verifiedOn": "2026-08-29",
+    "badgeText": "অফিশিয়াল সার্কুলার ও ওয়েবসাইট থেকে তথ্য যাচাইকৃত"
+  },
+  "image": "https://i.ibb.co.com/TDbxC7NJ/bhtpa-job-circular.webp",
+  "imageAlt": "বাংলাদেশ হাই-টেক পার্ক কর্তৃপক্ষ নিয়োগ বিজ্ঞপ্তি ২০২৬",
+  "noticeImages": [
+    {
+      "url": "https://i.ibb.co.com/TDbxC7NJ/bhtpa-job-circular.webp",
+      "alt": "BHTPA চাকরির সার্কুলারের অফিসিয়াল বিজ্ঞপ্তির ছবি"
+    }
+  ],
+  "pdfNoticeLink": "",
+  "applyOnlineLink": "https://bhtpa.teletalk.com.bd/",
+  "keyDates": {
+    "memoIssuedOn": "2026-08-29",
+    "publishedOn": "2026-08-28",
+    "applicationStart": "2026-08-30 09:00",
+    "applicationEnd": "2026-09-26 17:00",
+    "ageCalculatedAsOn": "2026-08-18",
+    "feePaymentWindowNote": "অনলাইন আবেদন সাবমিট করার পর প্রাপ্ত User ID ব্যবহার করে পরবর্তী ৭২ ঘণ্টার মধ্যে Teletalk Pre-paid নম্বর থেকে ফি দিতে হবে। সঠিক ফি ও SMS নির্দেশনা Applicant’s Copy-তে অনুসরণ করতে হবে।"
+  },
+  "countdown": {
+    "enabled": true,
+    "targetIso": "2026-09-26T17:00:00+06:00",
+    "labelTemplate": "আবেদনের শেষ তারিখ: ২৬ সেপ্টেম্বর ২০২৬ বিকাল ০৫:০০",
+    "expiredLabel": "আবেদনের সময় শেষ হয়েছে"
+  },
+  "expiryPolicy": {
+    "onExpiryShowBanner": true,
+    "bannerText": "এই নিয়োগের অনলাইন আবেদনের সময়সীমা শেষ হয়েছে।",
+    "removeJobPostingSchemaOnExpiry": true,
+    "keepPageIndexed": true,
+    "redirectOnNextYearCircular": ""
+  },
+  "organization": {
+    "nameBn": "বাংলাদেশ হাই-টেক পার্ক কর্তৃপক্ষ",
+    "nameEn": "Bangladesh Hi-Tech Park Authority",
+    "shortName": "BHTPA",
+    "ministry": "ডাক, টেলিযোগাযোগ ও তথ্যপ্রযুক্তি মন্ত্রণালয়ের তথ্য ও যোগাযোগ প্রযুক্তি বিভাগ",
+    "website": "https://bhtpa.gov.bd/",
+    "email": "info@bhtpa.gov.bd",
+    "phone": "০২-৫৫০০৬৯৭৫",
+    "address": "বাংলাদেশ হাই-টেক পার্ক কর্তৃপক্ষ, আইসিটি টাওয়ার (১০ম তলা), ই-১৪/এক্স, আগারগাঁও, ঢাকা-১২০৭",
+    "addressLocality": "আগারগাঁও",
+    "addressRegion": "ঢাকা",
+    "postalCode": "১২০৭",
+    "addressCountry": "BD",
+    "aboutHtml": "<p>বাংলাদেশ হাই-টেক পার্ক কর্তৃপক্ষ তথ্য ও যোগাযোগ প্রযুক্তি বিভাগের আওতাধীন একটি স্বায়ত্তশাসিত প্রতিষ্ঠান। RAW DATA অনুযায়ী এটি ২০১০ সালে প্রতিষ্ঠিত এবং তথ্যপ্রযুক্তি শিল্প, সফটওয়্যার পার্ক, ইনকিউবেশন সেন্টার, কর্মসংস্থান ও বিনিয়োগ সংশ্লিষ্ট কার্যক্রমে কাজ করে।</p>"
+  },
+  "summaryTable": [
+    {
+      "label": "প্রতিষ্ঠানের নাম",
+      "value": "বাংলাদেশ হাই-টেক পার্ক কর্তৃপক্ষ",
+      "isLink": false,
+      "url": ""
+    },
+    {
+      "label": "জব লোকেশন",
+      "value": "ঢাকা (আগারগাঁও)",
+      "isLink": false,
+      "url": ""
+    },
+    {
+      "label": "পদের ক্যাটাগরি",
+      "value": "১৪ টি",
+      "isLink": false,
+      "url": ""
+    },
+    {
+      "label": "মোট শূন্যপদ",
+      "value": "৪২ জন",
+      "isLink": false,
+      "url": ""
+    },
+    {
+      "label": "চাকরির ধরন",
+      "value": "সরকারি চাকরি",
+      "isLink": true,
+      "url": "https://bdgovtjob.net/category/government-jobs-circular/"
+    },
+    {
+      "label": "বয়সসীমা",
+      "value": "অনূর্ধ্ব ৩২ বছর; নির্দিষ্ট বিভাগীয় প্রার্থীর জন্য ৩৪ বছর পর্যন্ত",
+      "isLink": false,
+      "url": ""
+    },
+    {
+      "label": "শিক্ষাগত যোগ্যতা",
+      "value": "স্নাতক / বিএসসি ইঞ্জিনিয়ারিং / মাস্টার্স বা ডিপ্লোমা",
+      "isLink": false,
+      "url": ""
+    },
+    {
+      "label": "জেলা",
+      "value": "বাংলাদেশের সকল জেলার প্রার্থী আবেদনযোগ্য",
+      "isLink": false,
+      "url": ""
+    },
+    {
+      "label": "বেতন/গ্রেড",
+      "value": "জাতীয় বেতন স্কেল ২০১৫ অনুযায়ী ৯ম ও ১০ম গ্রেড",
+      "isLink": false,
+      "url": ""
+    },
+    {
+      "label": "আবেদনের ফি",
+      "value": "টেলিটক ও বিজ্ঞপ্তি অনুযায়ী; RAW DATA-তে টাকার অঙ্ক উল্লেখ নেই",
+      "isLink": false,
+      "url": ""
+    },
+    {
+      "label": "স্মারক নম্বর",
+      "value": "৫৬.০২.০০০০.০০০.০২৩.১১.০০০৪.২৬-১৫০",
+      "isLink": false,
+      "url": ""
+    },
+    {
+      "label": "বিজ্ঞপ্তি প্রকাশের তারিখ",
+      "value": "২৮ আগস্ট ২০২৬",
+      "isLink": false,
+      "url": ""
+    },
+    {
+      "label": "আবেদন শুরুর তারিখ",
+      "value": "৩০ আগস্ট ২০২৬ সকাল ০৯:০০ টা",
+      "isLink": false,
+      "url": ""
+    },
+    {
+      "label": "আবেদনের শেষ তারিখ",
+      "value": "২৬ সেপ্টেম্বর ২০২৬ বিকাল ০৫:০০ টা",
+      "isLink": false,
+      "url": ""
+    },
+    {
+      "label": "আবেদন পদ্ধতি",
+      "value": "অনলাইন — bhtpa.teletalk.com.bd",
+      "isLink": true,
+      "url": "https://bhtpa.teletalk.com.bd/"
+    }
+  ],
+  "positions": [
+    {
+      "serial": 1,
+      "nameBn": "অ্যাসিস্ট্যান্ট মেইনটেন্যান্স ইঞ্জিনিয়ার",
+      "nameEn": "Assistant Maintenance Engineer",
+      "vacancies": 2,
+      "grade": "৯ম গ্রেড",
+      "gradeNumber": 9,
+      "payScale": "২২,০০০-৫৩,০৬০/-",
+      "basicPay": "২২,০০০-৫৩,০৬০/- টাকা",
+      "educationBn": "স্বীকৃত বিশ্ববিদ্যালয় থেকে কম্পিউটার সায়েন্স / কম্পিউটার ইঞ্জিনিয়ারিং / সংশ্লিষ্ট বিষয়ে বিএসসি ইঞ্জিনিয়ারিং বা সমমানের ডিগ্রি।",
+      "educationEn": "BSc Engineering or equivalent in Computer Science, Computer Engineering, or a related subject from a recognized university.",
+      "skillsBn": "আইসিটি কাজে দক্ষতা অগ্রাধিকারযোগ্য।",
+      "feeTier": "",
+      "competitionNote": "মাত্র ২টি পদ থাকায় আসন সংখ্যা সীমিত; একই সঙ্গে technical background প্রয়োজন।"
+    },
+    {
+      "serial": 2,
+      "nameBn": "সহকারী পরিচালক (প্রশাসন)",
+      "nameEn": "Assistant Director (Administration)",
+      "vacancies": 1,
+      "grade": "৯ম গ্রেড",
+      "gradeNumber": 9,
+      "payScale": "২২,০০০-৫৩,০৬০/-",
+      "basicPay": "২২,০০০-৫৩,০৬০/- টাকা",
+      "educationBn": "স্বীকৃত বিশ্ববিদ্যালয় থেকে ১ম শ্রেণি বা সমমানের সিজিপিএতে স্নাতকোত্তর অথবা ২য় শ্রেণি বা সমমানের সিজিপিএতে স্নাতক (সম্মান) সহ ২য় শ্রেণি বা সমমানের সিজিপিএতে স্নাতকোত্তর ডিগ্রি।",
+      "educationEn": "A master's degree with first class/equivalent CGPA, or a second-class/equivalent bachelor's (honours) plus a second-class/equivalent master's degree.",
+      "skillsBn": "প্রশাসনিক কাজে দক্ষতা। বিভাগীয় প্রার্থীদের বয়সসীমা ৩৪ বছর পর্যন্ত শিথিলযোগ্য।",
+      "feeTier": "",
+      "competitionNote": "একটি মাত্র পদ হওয়ায় shortlist করার ক্ষেত্রে আসনটি খুবই সীমিত; প্রশাসনিক দক্ষতার সঙ্গে বয়সের শর্তও খেয়াল করুন।"
+    },
+    {
+      "serial": 3,
+      "nameBn": "সহকারী পরিচালক (প্রকিউরমেন্ট)",
+      "nameEn": "Assistant Director (Procurement)",
+      "vacancies": 1,
+      "grade": "৯ম গ্রেড",
+      "gradeNumber": 9,
+      "payScale": "২২,০০০-৫৩,০৬০/-",
+      "basicPay": "২২,০০০-৫৩,০৬০/- টাকা",
+      "educationBn": "স্বীকৃত বিশ্ববিদ্যালয় থেকে অর্থনীতি, বাণিজ্য বা সংশ্লিষ্ট বিষয়ে স্নাতকোত্তর বা সমমানের ডিগ্রি।",
+      "educationEn": "A master's degree or equivalent in Economics, Commerce, or a related subject from a recognized university.",
+      "skillsBn": "সরকারি ক্রয়/প্রকিউরমেন্ট কাজে অভিজ্ঞতা সম্পন্ন প্রার্থীদের অগ্রাধিকার। বিভাগীয় প্রার্থীদের বয়সসীমা ৩৪ বছর পর্যন্ত শিথিলযোগ্য।",
+      "feeTier": "",
+      "competitionNote": "শূন্যপদ ১টি; procurement-related experience-কে অগ্রাধিকার দেওয়া হয়েছে, তাই relevant experience এখানে বাড়তি গুরুত্ব পাবে।"
+    },
+    {
+      "serial": 4,
+      "nameBn": "সহকারী পরিচালক (বিনিয়োগ)",
+      "nameEn": "Assistant Director (Investment)",
+      "vacancies": 1,
+      "grade": "৯ম গ্রেড",
+      "gradeNumber": 9,
+      "payScale": "২২,০০০-৫৩,০৬০/-",
+      "basicPay": "২২,০০০-৫৩,০৬০/- টাকা",
+      "educationBn": "স্বীকৃত বিশ্ববিদ্যালয় থেকে অর্থনীতি, ফাইন্যান্স বা ব্যবসায় প্রশাসনে স্নাতকোত্তর বা সমমানের ডিগ্রি।",
+      "educationEn": "A master's degree or equivalent in Economics, Finance, or Business Administration from a recognized university.",
+      "skillsBn": "বিনিয়োগ সংক্রান্ত বিশ্লেষণ ও কাজে অভিজ্ঞতা। বিভাগীয় প্রার্থীদের বয়সসীমা ৩৪ বছর পর্যন্ত শিথিলযোগ্য।",
+      "feeTier": "",
+      "competitionNote": "পদ ১টি এবং qualification নির্দিষ্ট; investment analysis-এ কাজের অভিজ্ঞতা থাকলে তা বিজ্ঞপ্তির requirement-এর সঙ্গে সরাসরি মেলে।"
+    },
+    {
+      "serial": 5,
+      "nameBn": "সহকারী পরিচালক",
+      "nameEn": "Assistant Director",
+      "vacancies": 9,
+      "grade": "৯ম গ্রেড",
+      "gradeNumber": 9,
+      "payScale": "২২,০০০-৫৩,০৬০/-",
+      "basicPay": "২২,০০০-৫৩,০৬০/- টাকা",
+      "educationBn": "স্বীকৃত বিশ্ববিদ্যালয় থেকে ১ম শ্রেণি বা সমমানের সিজিপিএতে স্নাতকোত্তর অথবা ৪ বছর মেয়াদি ২য় শ্রেণির স্নাতক (সম্মান) ডিগ্রি।",
+      "educationEn": "A first-class/equivalent master's degree or a four-year second-class/equivalent bachelor's (honours) degree from a recognized university.",
+      "skillsBn": "সাধারণ প্রশাসনিক ও প্রাতিষ্ঠানিক কাজে দক্ষতা। বিভাগীয় প্রার্থীদের বয়সসীমা ৩৪ বছর পর্যন্ত শিথিলযোগ্য।",
+      "feeTier": "",
+      "competitionNote": "এই পদে ৯টি শূন্যপদ রয়েছে, যা তালিকার বড় পদগুলোর একটি; তবে degree requirement স্পষ্ট হওয়ায় qualification মিলিয়ে আবেদন করা জরুরি।"
+    },
+    {
+      "serial": 6,
+      "nameBn": "সহকারী প্রকৌশলী (ই/এম)",
+      "nameEn": "Assistant Engineer (E/M)",
+      "vacancies": 10,
+      "grade": "৯ম গ্রেড",
+      "gradeNumber": 9,
+      "payScale": "২২,০০০-৫৩,০৬০/-",
+      "basicPay": "২২,০০০-৫৩,০৬০/- টাকা",
+      "educationBn": "স্বীকৃত বিশ্ববিদ্যালয় থেকে ইলেকট্রিক্যাল বা মেকানিক্যাল ইঞ্জিনিয়ারিং বিষয়ে বিএসসি ইঞ্জিনিয়ারিং ডিগ্রি।",
+      "educationEn": "BSc Engineering degree in Electrical or Mechanical Engineering from a recognized university.",
+      "skillsBn": "সংশ্লিষ্ট ফিল্ডে বাস্তব অভিজ্ঞতা অগ্রাধিকারযোগ্য। বিভাগীয় প্রার্থীদের বয়সসীমা ৩৪ বছর পর্যন্ত শিথিলযোগ্য।",
+      "feeTier": "",
+      "competitionNote": "তালিকার সর্বোচ্চ ১০টি শূন্যপদ এখানে; তবে Electrical/Mechanical engineering degree না থাকলে এই পদে আবেদন করার সুযোগ নেই।"
+    },
+    {
+      "serial": 7,
+      "nameBn": "সহকারী প্রকৌশলী (সিভিল)",
+      "nameEn": "Assistant Engineer (Civil)",
+      "vacancies": 1,
+      "grade": "৯ম গ্রেড",
+      "gradeNumber": 9,
+      "payScale": "২২,০০০-৫৩,০৬০/-",
+      "basicPay": "২২,০০০-৫৩,০৬০/- টাকা",
+      "educationBn": "স্বীকৃত বিশ্ববিদ্যালয় থেকে সিভিল ইঞ্জিনিয়ারিং বিষয়ে বিএসসি ইঞ্জিনিয়ারিং ডিগ্রি।",
+      "educationEn": "BSc Engineering degree in Civil Engineering from a recognized university.",
+      "skillsBn": "ভবন ও অবকাঠামো নির্মাণ সংক্রান্ত কাজে বাস্তব অভিজ্ঞতা। বিভাগীয় প্রার্থীদের বয়সসীমা ৩৪ বছর পর্যন্ত শিথিলযোগ্য।",
+      "feeTier": "",
+      "competitionNote": "পদ ১টি; Civil Engineering degree-এর পাশাপাশি building/infrastructure work experience-কে গুরুত্ব দেওয়া হয়েছে।"
+    },
+    {
+      "serial": 8,
+      "nameBn": "রিসার্চ অফিসার",
+      "nameEn": "Research Officer",
+      "vacancies": 1,
+      "grade": "৯ম গ্রেড",
+      "gradeNumber": 9,
+      "payScale": "২২,০০০-৫৩,০৬০/-",
+      "basicPay": "২২,০০০-৫৩,০৬০/- টাকা",
+      "educationBn": "স্বীকৃত বিশ্ববিদ্যালয় থেকে পরিসংখ্যান, অর্থনীতি বা প্রাসঙ্গিক বিষয়ে ১ম শ্রেণির স্নাতকোত্তর অথবা ২য় শ্রেণির সম্মানসহ ২য় শ্রেণির স্নাতকোত্তর ডিগ্রি।",
+      "educationEn": "A first-class master's degree in Statistics, Economics, or a relevant subject, or a second-class honours degree plus a second-class master's degree.",
+      "skillsBn": "গবেষণা ও ডাটা বিশ্লেষণ কাজে অভিজ্ঞতা এবং কম্পিউটার চালনায় পারদর্শিতা।",
+      "feeTier": "",
+      "competitionNote": "শূন্যপদ মাত্র ১টি; research ও data analysis experience সরাসরি চাওয়া হয়েছে, তাই academic qualification একা যথেষ্ট নাও হতে পারে।"
+    },
+    {
+      "serial": 9,
+      "nameBn": "জনসংযোগ কর্মকর্তা",
+      "nameEn": "Public Relations Officer",
+      "vacancies": 1,
+      "grade": "৯ম গ্রেড",
+      "gradeNumber": 9,
+      "payScale": "২২,০০০-৫৩,০৬০/-",
+      "basicPay": "২২,০০০-৫৩,০৬০/- টাকা",
+      "educationBn": "স্বীকৃত বিশ্ববিদ্যালয় থেকে গণযোগাযোগ ও সাংবাদিকতা বা সংশ্লিষ্ট বিষয়ে ১ম শ্রেণির স্নাতকোত্তর অথবা ২য় শ্রেণির সম্মানসহ ২য় শ্রেণির স্নাতকোত্তর ডিগ্রি।",
+      "educationEn": "A first-class master's degree in Mass Communication and Journalism or a related subject, or a second-class honours degree plus a second-class master's degree.",
+      "skillsBn": "মিডিয়া ও জনসংযোগ কাজে বাস্তব অভিজ্ঞতা; বাংলা ও ইংরেজিতে যোগাযোগ দক্ষতা।",
+      "feeTier": "",
+      "competitionNote": "একটি পদ হলেও media/PR experience ও bilingual communication skill-এর সমন্বয় প্রয়োজন, যা এই পদের profile-কে তুলনামূলকভাবে নির্দিষ্ট করে।"
+    },
+    {
+      "serial": 10,
+      "nameBn": "সহকারী প্রোগ্রামার",
+      "nameEn": "Assistant Programmer",
+      "vacancies": 8,
+      "grade": "৯ম গ্রেড",
+      "gradeNumber": 9,
+      "payScale": "২২,০০০-৫৩,০৬০/-",
+      "basicPay": "২২,০০০-৫৩,০৬০/- টাকা",
+      "educationBn": "স্বীকৃত বিশ্ববিদ্যালয় থেকে কম্পিউটার সায়েন্স / কম্পিউটার সায়েন্স অ্যান্ড ইঞ্জিনিয়ারিং / ইনফরমেশন অ্যান্ড কমিউনিকেশন টেকনোলজি বিষয়ে বিএসসি ইঞ্জিনিয়ারিং বা সমমানের ডিগ্রি।",
+      "educationEn": "BSc Engineering or equivalent in Computer Science, Computer Science and Engineering, or Information and Communication Technology from a recognized university.",
+      "skillsBn": "সফটওয়্যার ডেভেলপমেন্ট বা প্রোগ্রামিংয়ে বাস্তব জ্ঞান এবং প্রমিত যোগ্যতা পরীক্ষায় উত্তীর্ণ হতে হবে।",
+      "feeTier": "",
+      "competitionNote": "৮টি পদ থাকলেও programming-related practical knowledge এবং standard qualification test requirement থাকায় শুধু academic degree-র ওপর নির্ভর করা ঠিক হবে না।"
+    },
+    {
+      "serial": 11,
+      "nameBn": "উপ সহকারী প্রকৌশলী (ই/এম)",
+      "nameEn": "Sub-Assistant Engineer (E/M)",
+      "vacancies": 1,
+      "grade": "১০ম গ্রেড",
+      "gradeNumber": 10,
+      "payScale": "১৬,০০০-৩৮,৬৪০/-",
+      "basicPay": "১৬,০০০-৩৮,৬৪০/- টাকা",
+      "educationBn": "স্বীকৃত পলিটেকনিক ইনস্টিটিউট হতে ইলেকট্রিক্যাল বা মেকানিক্যাল ইঞ্জিনিয়ারিংয়ে ডিপ্লোমা।",
+      "educationEn": "Diploma in Electrical or Mechanical Engineering from a recognized polytechnic institute.",
+      "skillsBn": "ইলেকট্রো-মেকানিক্যাল মেইনটেন্যান্স কাজে অভিজ্ঞতা এবং কম্পিউটার অ্যাপ্লিকেশনে দক্ষতা।",
+      "feeTier": "",
+      "competitionNote": "১০ম গ্রেডের এই পদে ১টি শূন্যপদ; Diploma qualification-এর সঙ্গে maintenance experience থাকলে requirement বেশি সরাসরি পূরণ হয়।"
+    },
+    {
+      "serial": 12,
+      "nameBn": "উপ সহকারী প্রকৌশলী (সিভিল)",
+      "nameEn": "Sub-Assistant Engineer (Civil)",
+      "vacancies": 2,
+      "grade": "১০ম গ্রেড",
+      "gradeNumber": 10,
+      "payScale": "১৬,০০০-৩৮,৬৪০/-",
+      "basicPay": "১৬,০০০-৩৮,৬৪০/- টাকা",
+      "educationBn": "স্বীকৃত পলিটেকনিক ইনস্টিটিউট হতে সিভিল ইঞ্জিনিয়ারিংয়ে ডিপ্লোমা।",
+      "educationEn": "Diploma in Civil Engineering from a recognized polytechnic institute.",
+      "skillsBn": "সিভিল কন্সট্রাকশন ও সাইট সুপারভিশনে অভিজ্ঞতা এবং কম্পিউটার ড্রয়িং ও অ্যাপ্লিকেশনে দক্ষতা।",
+      "feeTier": "",
+      "competitionNote": "মাত্র ২টি পদ; Civil diploma-এর পাশাপাশি site supervision ও computer drawing/application skill-এ বাস্তব দক্ষতা বাড়তি সুবিধা দিতে পারে।"
+    },
+    {
+      "serial": 13,
+      "nameBn": "প্রশাসনিক কর্মকর্তা",
+      "nameEn": "Administrative Officer",
+      "vacancies": 1,
+      "grade": "১০ম গ্রেড",
+      "gradeNumber": 10,
+      "payScale": "১৬,০০০-৩৮,৬৪০/-",
+      "basicPay": "১৬,০০০-৩৮,৬৪০/- টাকা",
+      "educationBn": "স্বীকৃত বিশ্ববিদ্যালয় হতে স্নাতক বা সমমানের ডিগ্রি।",
+      "educationEn": "Bachelor's degree or equivalent from a recognized university.",
+      "skillsBn": "দাপ্তরিক নথি ও প্রশাসন পরিচালনায় বাস্তব অভিজ্ঞতা এবং কম্পিউটার টাইপিং ও অফিস অ্যাপ্লিকেশনে দক্ষতা।",
+      "feeTier": "",
+      "competitionNote": "যোগ্যতার শিক্ষাগত অংশ তুলনামূলকভাবে বিস্তৃত হলেও পদ ১টি; office documentation ও computer application skill এখানে বাস্তবভাবে কাজে লাগবে।"
+    },
+    {
+      "serial": 14,
+      "nameBn": "উপ সহকারী পরিচালক",
+      "nameEn": "Sub-Assistant Director",
+      "vacancies": 3,
+      "grade": "১০ম গ্রেড",
+      "gradeNumber": 10,
+      "payScale": "১৬,০০০-৩৮,৬৪০/-",
+      "basicPay": "১৬,০০০-৩৮,৬৪০/- টাকা",
+      "educationBn": "স্বীকৃত বিশ্ববিদ্যালয় হতে স্নাতক বা সমমানের ডিগ্রি।",
+      "educationEn": "Bachelor's degree or equivalent from a recognized university.",
+      "skillsBn": "প্রকল্প ও মাঠপর্যায়ের কার্যক্রম তদারকিতে অভিজ্ঞতা এবং কম্পিউটার ব্যবহারে পারদর্শিতা।",
+      "feeTier": "",
+      "competitionNote": "৩টি পদ আছে; একই Bachelor-level entry qualification-এর মধ্যে project/field supervision experience এই পদের আলাদা দিক।"
+    }
+  ],
+  "eligibilityMatcher": {
+    "headingBn": "আপনার যোগ্যতা অনুযায়ী কোন পদগুলোতে আবেদন করা যায়",
+    "headingEn": "Eligibility Matcher",
+    "introHtml": "<p>আপনার সর্বোচ্চ শিক্ষাগত যোগ্যতা ও প্রাসঙ্গিক দক্ষতা মিলিয়ে নিচের তালিকা দেখুন। একই degree নাম থাকলেই সব পদে আবেদন করা যাবে না; subject, class/CGPA, diploma এবং experience-এর শর্তও দেখতে হবে।</p>",
+    "rows": [
+      {
+        "yourQualification": "CSE / Computer Science / Computer Engineering / ICT-এ BSc Engineering বা সমমান",
+        "eligiblePosts": [
+          "অ্যাসিস্ট্যান্ট মেইনটেন্যান্স ইঞ্জিনিয়ার",
+          "সহকারী প্রোগ্রামার"
+        ],
+        "totalVacancies": 10,
+        "fee": ""
+      },
+      {
+        "yourQualification": "Electrical / Mechanical Engineering-এ BSc Engineering",
+        "eligiblePosts": [
+          "সহকারী প্রকৌশলী (ই/এম)"
+        ],
+        "totalVacancies": 10,
+        "fee": ""
+      },
+      {
+        "yourQualification": "Civil Engineering-এ BSc Engineering",
+        "eligiblePosts": [
+          "সহকারী প্রকৌশলী (সিভিল)"
+        ],
+        "totalVacancies": 1,
+        "fee": ""
+      },
+      {
+        "yourQualification": "অর্থনীতি / বাণিজ্য / সংশ্লিষ্ট বিষয়ে Master’s",
+        "eligiblePosts": [
+          "সহকারী পরিচালক (প্রকিউরমেন্ট)"
+        ],
+        "totalVacancies": 1,
+        "fee": ""
+      },
+      {
+        "yourQualification": "অর্থনীতি / Finance / Business Administration-এ Master’s",
+        "eligiblePosts": [
+          "সহকারী পরিচালক (বিনিয়োগ)"
+        ],
+        "totalVacancies": 1,
+        "fee": ""
+      },
+      {
+        "yourQualification": "প্রথম শ্রেণির Master’s বা নির্ধারিত honours + Master’s",
+        "eligiblePosts": [
+          "সহকারী পরিচালক (প্রশাসন)",
+          "সহকারী পরিচালক",
+          "রিসার্চ অফিসার",
+          "জনসংযোগ কর্মকর্তা"
+        ],
+        "totalVacancies": 12,
+        "fee": ""
+      },
+      {
+        "yourQualification": "নির্ধারিত ৪ বছর মেয়াদি দ্বিতীয় শ্রেণির Bachelor (Honours)",
+        "eligiblePosts": [
+          "সহকারী পরিচালক"
+        ],
+        "totalVacancies": 9,
+        "fee": ""
+      },
+      {
+        "yourQualification": "Statistics / Economics / relevant subject-এ নির্ধারিত Master’s",
+        "eligiblePosts": [
+          "রিসার্চ অফিসার"
+        ],
+        "totalVacancies": 1,
+        "fee": ""
+      },
+      {
+        "yourQualification": "Mass Communication and Journalism / related subject-এ নির্ধারিত Master’s",
+        "eligiblePosts": [
+          "জনসংযোগ কর্মকর্তা"
+        ],
+        "totalVacancies": 1,
+        "fee": ""
+      },
+      {
+        "yourQualification": "Electrical / Mechanical Engineering-এ Diploma",
+        "eligiblePosts": [
+          "উপ সহকারী প্রকৌশলী (ই/এম)"
+        ],
+        "totalVacancies": 1,
+        "fee": ""
+      },
+      {
+        "yourQualification": "Civil Engineering-এ Diploma",
+        "eligiblePosts": [
+          "উপ সহকারী প্রকৌশলী (সিভিল)"
+        ],
+        "totalVacancies": 2,
+        "fee": ""
+      },
+      {
+        "yourQualification": "স্নাতক বা সমমানের degree",
+        "eligiblePosts": [
+          "প্রশাসনিক কর্মকর্তা",
+          "উপ সহকারী পরিচালক"
+        ],
+        "totalVacancies": 4,
+        "fee": ""
+      }
+    ],
+    "noteHtml": "<p>মনে রাখবেন, কিছু qualification একাধিক পদের সঙ্গে মিলে গেলেও পদভেদে subject, class/CGPA, experience বা skill আলাদা। <strong>ফি-এর সঠিক টাকার অঙ্ক RAW DATA-তে নেই</strong>, তাই এখানে তা ফাঁকা রাখা হয়েছে।</p>"
+  },
+  "salaryBreakdown": {
+    "headingBn": "বেতনস্কেল ও আনুমানিক মাসিক সর্বমোট বেতন",
+    "headingEn": "Salary Breakdown",
+    "introHtml": "<p>৯ম ও ১০ম গ্রেডের মূল বেতন RAW DATA-তে স্পষ্টভাবে দেওয়া আছে। তবে বাড়িভাড়া ও চিকিৎসা ভাতা যোগ করে নিচের মোট অঙ্কগুলো <strong>আনুমানিক</strong>; প্রকৃত প্রাপ্যতা এলাকা, বেতনস্তর ও প্রযোজ্য সরকারি বিধিমালা অনুযায়ী বদলাতে পারে।</p>",
+    "headers": [
+      "গ্রেড",
+      "মূল বেতন",
+      "বাড়িভাড়া ভাতা",
+      "চিকিৎসা ভাতা",
+      "আনুমানিক মোট"
+    ],
+    "rows": [
+      [
+        "৯ম গ্রেড",
+        "২২,০০০-৫৩,০৬০ টাকা",
+        "মূল বেতনের ৪০%-৫০% ধরে আনুমানিক",
+        "১,৫০০ টাকা",
+        "প্রারম্ভিক মূল বেতন ২২,০০০ ধরে আনুমানিক ৩২,৩০০-৩৪,৫০০ টাকা"
+      ],
+      [
+        "১০ম গ্রেড",
+        "১৬,০০০-৩৮,৬৪০ টাকা",
+        "মূল বেতনের ৪০%-৫০% ধরে আনুমানিক",
+        "১,৫০০ টাকা",
+        "প্রারম্ভিক মূল বেতন ১৬,০০০ ধরে আনুমানিক ২৩,৯০০-২৫,৫০০ টাকা"
+      ]
+    ],
+    "disclaimerHtml": "<p><strong>আনুমানিক হিসাবের disclaimer:</strong> উপরের মোট বেতন কোনো অফিসিয়াল payroll figure নয়। RAW DATA-তে বাড়িভাড়া ভাতার হার ৪০%-৫০% এবং চিকিৎসা ভাতা ১,৫০০ টাকা বলা হয়েছে; কোন হার আপনার ক্ষেত্রে কার্যকর হবে এবং অন্যান্য প্রাপ্যতা কী হবে, তা সরকারি বিধিমালা ও কর্মস্থলের অবস্থার ওপর নির্ভর করতে পারে।</p>",
+    "extraBenefitsBn": [
+      "উৎসব বোনাস",
+      "নববর্ষ ভাতা",
+      "প্রযোজ্য অন্যান্য সরকারি সুযোগ-সুবিধা"
+    ]
+  },
+  "ageEligibility": {
+    "headingBn": "আবেদনের বয়সসীমা",
+    "asOnDateBn": "১৮ আগস্ট ২০২৬",
+    "minAge": 18,
+    "maxAge": 32,
+    "quotaSameAsGeneral": false,
+    "bornBetweenBn": "জন্মতারিখ ১৯ আগস্ট ১৯৯৩ থেকে ১৮ আগস্ট ২০০৮-এর মধ্যে হলে ১৮–৩২ বছরের সাধারণ বয়সসীমার মধ্যে পড়বে—এটি ১৮ আগস্ট ২০২৬ তারিখকে ভিত্তি করে করা আনুমানিক/হিসাবভিত্তিক রূপান্তর। বিভাগীয় নির্দিষ্ট প্রার্থীদের সর্বোচ্চ বয়স ৩৪ বছর পর্যন্ত শিথিলযোগ্য।",
+    "bodyHtml": "<p><strong>হিসাবের ভিত্তি:</strong> ১৮ আগস্ট ২০২৬ তারিখে সর্বনিম্ন ১৮ এবং সর্বোচ্চ ৩২ বছর ধরে জন্মতারিখের রেঞ্জটি আনুমানিকভাবে রূপান্তর করা হয়েছে। চূড়ান্ত যোগ্যতা যাচাইয়ের ক্ষেত্রে অফিসিয়াল সার্কুলারের বয়স গণনার ভাষা অনুসরণ করুন।</p>",
+    "calculatorLink": {
+      "text": "বয়স বের করার ক্যালকুলেটর",
+      "url": "https://bdgovtjob.net/age-calculator/"
+    }
+  },
+  "districtEligibility": {
+    "headingBn": "জেলার যোগ্যতা",
+    "eligibleOnly": false,
+    "districts": [
+      "বাংলাদেশের সকল জেলা"
+    ],
+    "bodyHtml": "<p>RAW DATA অনুযায়ী বাংলাদেশের সকল জেলার যোগ্য নারী ও পুরুষ প্রার্থী এই নিয়োগের পদগুলোতে আবেদন করতে পারবেন।</p>"
+  },
+  "introContent": "<p>বাংলাদেশ হাই-টেক পার্ক কর্তৃপক্ষ (BHTPA) ২০২৬ সালের নিয়োগ বিজ্ঞপ্তিতে ১৪টি ক্যাটাগরিতে মোট ৪২ জনকে নেওয়ার কথা জানিয়েছে। পদগুলো মূলত ICT, engineering, research, public relations ও administration-ভিত্তিক। আপনার degree subject, experience এবং বয়স আগে মিলিয়ে নিন; কারণ পদসংখ্যা দেখলেই সব পদের জন্য যোগ্য হওয়া যায় না।</p><p>আবেদন অনলাইনে হবে <a href=\"https://bhtpa.teletalk.com.bd/\">bhtpa.teletalk.com.bd</a> পোর্টালে। আবেদন শুরু ৩০ আগস্ট ২০২৬ সকাল ০৯:০০ টায় এবং শেষ ২৬ সেপ্টেম্বর ২০২৬ বিকাল ০৫:০০ টায়। একটি বাস্তব সতর্কতা হলো, Applicant’s Copy সংরক্ষণ করে User ID-ভিত্তিক fee payment ৭২ ঘণ্টার মধ্যে শেষ না করলে আবেদন গ্রহণ হবে না।</p>",
+  "englishSummary": {
+    "headingEn": "BHTPA Job Circular 2026 Summary",
+    "bodyHtml": "<p>Bangladesh Hi-Tech Park Authority (BHTPA), under the ICT Division of the Ministry of Posts, Telecommunications and Information Technology, is recruiting for 42 vacancies across 14 categories.</p><p>The posts include Assistant Maintenance Engineer, Assistant Director roles, Assistant Engineer, Research Officer, Public Relations Officer, Assistant Programmer, Sub-Assistant Engineer, Administrative Officer and Sub-Assistant Director. Most posts are Grade 9, while four post categories are Grade 10.</p><p>Eligibility varies by position. Applicants may need BSc Engineering, a master’s degree, a bachelor’s degree, or a relevant diploma, along with position-specific experience and skills. The general maximum age is 32 years as of August 18, 2026; certain departmental candidates may receive relaxation up to 34 years.</p><p>Applications must be submitted online through bhtpa.teletalk.com.bd. The application window starts on August 30, 2026 at 9:00 AM and closes on September 26, 2026 at 5:00 PM. The exact application fee amount is not stated in the supplied RAW DATA, so applicants should follow the official Applicant’s Copy and Teletalk instructions.</p>"
+  },
+  "bestFitFor": {
+    "headingBn": "কার জন্য কোন ধরনের পদ মানানসই",
+    "items": [
+      {
+        "who": "CSE / CS / ICT degreeধারী",
+        "why": "Assistant Programmer এবং Assistant Maintenance Engineer-এর qualification-এর সঙ্গে বিষয়গত মিল আছে; তবে পদভেদে skill requirement আলাদা।"
+      },
+      {
+        "who": "Electrical / Mechanical Engineering graduate",
+        "why": "Assistant Engineer (E/M)-এ ১০টি পদ রয়েছে, তাই এই তালিকার engineering posts-এর মধ্যে vacancy সবচেয়ে বেশি।"
+      },
+      {
+        "who": "Civil Engineering graduate বা diploma holder",
+        "why": "Assistant Engineer (Civil) এবং Sub-Assistant Engineer (Civil) qualification অনুযায়ী আলাদা দুই স্তরের পদ আছে।"
+      },
+      {
+        "who": "প্রশাসন/সাধারণ স্নাতকোত্তর background-এর প্রার্থী",
+        "why": "Assistant Director (Administration), Assistant Director ও Administrative Officer-এর মতো পদে qualification তুলনামূলকভাবে office-oriented।"
+      },
+      {
+        "who": "Research বা data analysis background-এর প্রার্থী",
+        "why": "Research Officer পদে subject qualification-এর সঙ্গে research ও data analysis experience চাওয়া হয়েছে।"
+      }
+    ]
+  },
+  "applicationSteps": [
+    {
+      "step": 1,
+      "titleBn": "Teletalk পোর্টালে প্রবেশ করুন",
+      "detailBn": "bhtpa.teletalk.com.bd ভিজিট করে আবেদন শুরু করুন।"
+    },
+    {
+      "step": 2,
+      "titleBn": "পদ নির্বাচন করুন",
+      "detailBn": "Application Form থেকে আপনার যোগ্যতার সঙ্গে মেলে এমন পদ নির্বাচন করে Next চাপুন।"
+    },
+    {
+      "step": 3,
+      "titleBn": "তথ্য পূরণ করুন",
+      "detailBn": "ব্যক্তিগত তথ্য, শিক্ষাগত যোগ্যতা, স্থায়ী ও বর্তমান ঠিকানা এবং quota-সংক্রান্ত তথ্য নির্ভুলভাবে পূরণ করুন।"
+    },
+    {
+      "step": 4,
+      "titleBn": "ছবি ও স্বাক্ষর আপলোড করুন",
+      "detailBn": "রঙিন ছবি ৩০০×৩০০ পিক্সেল এবং স্বাক্ষর ৩০০×৮০ পিক্সেল নির্ধারিত file size-এর মধ্যে আপলোড করুন।"
+    },
+    {
+      "step": 5,
+      "titleBn": "Applicant’s Copy সংরক্ষণ করুন",
+      "detailBn": "Submit করার পর User ID-সহ Applicant’s Copy ডাউনলোড ও প্রিন্ট করে রাখুন।"
+    },
+    {
+      "step": 6,
+      "titleBn": "Teletalk SMS-এ ফি দিন",
+      "detailBn": "Applicant’s Copy-তে থাকা নির্দেশনা অনুযায়ী পরবর্তী ৭২ ঘণ্টার মধ্যে দুইটি SMS পাঠিয়ে ফি পরিশোধ করুন।"
+    }
+  ],
+  "photoSpec": {
+    "dimensions": "৩০০ × ৩০০ পিক্সেল",
+    "maxSize": "১০০ KB",
+    "format": "JPG",
+    "noteBn": "রঙিন, সদ্য তোলা ছবি নির্ধারিত মাপ ও file size-এর মধ্যে রাখতে হবে।"
+  },
+  "signatureSpec": {
+    "dimensions": "৩০০ × ৮০ পিক্সেল",
+    "maxSize": "৬০ KB",
+    "format": "JPG",
+    "noteBn": "স্বাক্ষর পরিষ্কারভাবে স্ক্যান করে নির্ধারিত মাপ ও file size-এর মধ্যে আপলোড করুন।"
+  },
+  "applicationFee": {
+    "headingBn": "আবেদন ফি ও SMS পেমেন্ট",
+    "headers": [
+      "বিষয়",
+      "তথ্য"
+    ],
+    "rows": [
+      [
+        "আবেদন ফি",
+        "RAW DATA-তে নির্দিষ্ট টাকার অঙ্ক উল্লেখ নেই"
+      ],
+      [
+        "পেমেন্ট মাধ্যম",
+        "Teletalk Pre-paid মোবাইল"
+      ],
+      [
+        "Payment window",
+        "আবেদন Submit-এর পর ৭২ ঘণ্টার মধ্যে"
+      ]
+    ],
+    "smsPayment": {
+      "shortCode": "16222",
+      "prefix": "bhtpa",
+      "step1Format": "bhtpa &lt;space&gt; User ID",
+      "step1Example": "bhtpa ABCDEF",
+      "step2Format": "bhtpa &lt;space&gt; YES &lt;space&gt; PIN Code",
+      "step2Example": "bhtpa YES 12345678",
+      "noteBn": "ফি-এর সঠিক টাকার অঙ্ক RAW DATA-তে নেই। Applicant’s Copy-তে দেওয়া নির্দেশনা অনুযায়ী সঠিক SMS code ও fee অনুসরণ করতে হবে; ফি না দিলে আবেদন গৃহীত হবে না।"
+    }
+  },
+  "rejectionRisks": {
+    "headingBn": "যে ভুলগুলো হলে আবেদন বাতিল হতে পারে",
+    "introHtml": "<p>নিয়োগের আবেদন শুধু form submit করলেই শেষ নয়। আপনার তথ্য, file size এবং fee payment—সবগুলো ঠিক থাকা দরকার। নিচের বিষয়গুলো বিশেষভাবে যাচাই করে আবেদন করুন।</p>",
+    "items": [
+      "নির্ধারিত সময়ের মধ্যে আবেদন Submit না করা।",
+      "Submit করার পর ৭২ ঘণ্টার মধ্যে Teletalk fee payment সম্পন্ন না করা।",
+      "ছবি ৩০০×৩০০ পিক্সেল বা ১০০ KB সীমা না মানা।",
+      "স্বাক্ষর ৩০০×৮০ পিক্সেল বা ৬০ KB সীমা না মানা।",
+      "শিক্ষাগত যোগ্যতা, subject, class/CGPA বা অভিজ্ঞতার তথ্য বাস্তব সনদের সঙ্গে না মেলা।",
+      "বয়সসীমা বা প্রযোজ্য বিভাগীয় বয়স-শিথিলতার শর্ত পূরণ না করা।",
+      "শেষ সময়ের কাছাকাছি আবেদন করতে গিয়ে technical/server সমস্যা হলে সময়সীমার বাইরে চলে যাওয়া; তাই আগে আবেদন করা নিরাপদ।"
+    ]
+  },
+  "timeline": {
+    "headingBn": "নিয়োগের সময়রেখা",
+    "steps": [
+      {
+        "event": "বিজ্ঞপ্তি প্রকাশ",
+        "date": "২৮ আগস্ট ২০২৬",
+        "state": "done"
+      },
+      {
+        "event": "স্মারক/বিজ্ঞপ্তি জারির তারিখ",
+        "date": "২৯ আগস্ট ২০২৬",
+        "state": "done"
+      },
+      {
+        "event": "অনলাইন আবেদন শুরু",
+        "date": "৩০ আগস্ট ২০২৬ সকাল ০৯:০০",
+        "state": "upcoming"
+      },
+      {
+        "event": "আবেদনের শেষ সময়",
+        "date": "২৬ সেপ্টেম্বর ২০২৬ বিকাল ০৫:০০",
+        "state": "upcoming"
+      },
+      {
+        "event": "Admit Card প্রকাশ",
+        "date": "এখনো ঘোষণা হয়নি",
+        "state": "tba"
+      },
+      {
+        "event": "পরীক্ষার তারিখ",
+        "date": "এখনো ঘোষণা হয়নি",
+        "state": "tba"
+      },
+      {
+        "event": "Viva/চূড়ান্ত ধাপ",
+        "date": "এখনো ঘোষণা হয়নি",
+        "state": "tba"
+      }
+    ],
+    "admitCardHtml": "<p>সফল অনলাইন আবেদনের পর Admit Card প্রকাশের সময় SMS এবং bhtpa.teletalk.com.bd ও bhtpa.gov.bd-এর মাধ্যমে জানানো হবে। RAW DATA-তে পরীক্ষার নির্দিষ্ট তারিখ নেই, তাই সেটি এখনো <strong>TBA</strong>।</p>"
+  },
+  "preparation": {
+    "headingBn": "প্রস্তুতি ও এক্সপার্ট টিপস",
+    "items": [
+      {
+        "titleBn": "পদভিত্তিক syllabus ধরুন",
+        "detailBn": "৯ম ও ১০ম গ্রেডের পরীক্ষায় বাংলা, ইংরেজি, গণিত ও সাধারণ জ্ঞানের পাশাপাশি পদ-সংশ্লিষ্ট technical বিষয়ও পড়ুন।"
+      },
+      {
+        "titleBn": "Assistant Programmer-এর অতিরিক্ত শর্ত দেখুন",
+        "detailBn": "সফটওয়্যার development বা programming knowledge-এর পাশাপাশি standard qualification test-এর শর্ত আছে।"
+      },
+      {
+        "titleBn": "ছবি ও স্বাক্ষর আগে প্রস্তুত রাখুন",
+        "detailBn": "আবেদনের আগে ৩০০×৩০০ ছবি এবং ৩০০×৮০ স্বাক্ষর নির্ধারিত file size-এ প্রস্তুত করলে শেষ মুহূর্তের ভুল কমে।"
+      },
+      {
+        "titleBn": "আগের আবেদনকারীর তথ্য খেয়াল করুন",
+        "detailBn": "১২ অক্টোবর ২০২৫-এর বিজ্ঞপ্তিতে Assistant Director (Administration) ও Sub-Assistant Engineer (E/M ও Civil) পদে আবেদনকারীদের পুনরায় আবেদন করতে হবে না বলে RAW DATA-তে উল্লেখ আছে।"
+      },
+      {
+        "titleBn": "শেষ সময়ের আগে fee payment করুন",
+        "detailBn": "আবেদন Submit করার পর User ID দিয়ে SMS payment সম্পন্ন হয়েছে কি না নিশ্চিত করুন; শুধু form submit করে থেমে যাবেন না।"
+      }
+    ]
+  },
+  "vivaDocuments": {
+    "headingBn": "ভাইভা পরীক্ষায় প্রয়োজনীয় কাগজপত্র",
+    "items": [
+      "সকল শিক্ষাগত যোগ্যতার সনদপত্রের মূল কপি।",
+      "নাগরিকত্ব সনদ বা ইউনিয়ন পরিষদ চেয়ারম্যান/পৌরসভা মেয়র কর্তৃক প্রদত্ত চারিত্রিক সনদপত্র।",
+      "জাতীয় পরিচয়পত্র (NID) এর মূল কপি।",
+      "প্রথম শ্রেণির গেজেটেড কর্মকর্তা কর্তৃক সত্যায়িত সদ্য তোলা রঙিন ছবি।",
+      "মুক্তিযোদ্ধা বা অন্যান্য কোটার ক্ষেত্রে সংশ্লিষ্ট কর্তৃপক্ষের দেওয়া মূল সনদ।"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "বাংলাদেশ হাই-টেক পার্ক কর্তৃপক্ষ নিয়োগ ২০২৬-এ মোট কতটি পদ?",
+      "answer": "এই নিয়োগে ১৪টি ক্যাটাগরিতে মোট ৪২টি শূন্যপদ রয়েছে। এর মধ্যে Assistant Engineer (E/M)-এ ১০টি, Assistant Director-এ ৯টি এবং Assistant Programmer-এ ৮টি পদ আছে। বাকি পদগুলোর সংখ্যা ১ থেকে ৩-এর মধ্যে। তাই আপনার subject ও experience অনুযায়ী পদ বেছে নেওয়াই গুরুত্বপূর্ণ।"
+    },
+    {
+      "question": "আবেদন কবে শুরু হবে এবং শেষ হবে?",
+      "answer": "অনলাইন আবেদন শুরু হবে ৩০ আগস্ট ২০২৬ সকাল ০৯:০০ টায়। আবেদনের শেষ সময় ২৬ সেপ্টেম্বর ২০২৬ বিকাল ০৫:০০ টা। নির্ধারিত সময়ের মধ্যে form submit করার পাশাপাশি Teletalk-এর fee payment-ও সম্পন্ন করতে হবে। শেষ মুহূর্তে আবেদন না করে আগে করলে technical সমস্যার ঝুঁকি কম থাকে।"
+    },
+    {
+      "question": "BHTPA Job Circular 2026-এ কোন কোন শিক্ষাগত যোগ্যতা আছে?",
+      "answer": "পদভেদে BSc Engineering, master’s degree, bachelor’s degree এবং relevant diploma গ্রহণ করা হয়েছে। তবে শুধু ডিগ্রি থাকলেই সব পদে আবেদন করা যায় না। Subject, class/CGPA, professional experience এবং technical skill-এর শর্ত আলাদা হতে পারে। তাই আপনার academic background-এর সঙ্গে নির্দিষ্ট post-এর qualification মিলিয়ে আবেদন করুন।"
+    },
+    {
+      "question": "বয়সসীমা কত?",
+      "answer": "১৮ আগস্ট ২০২৬ তারিখে সাধারণ প্রার্থীর সর্বোচ্চ বয়স ৩২ বছর। ক্রমিক ২ থেকে ৭ নম্বর পদের ক্ষেত্রে বিভাগীয় প্রার্থীদের জন্য বয়সসীমা ৩৪ বছর পর্যন্ত শিথিলযোগ্য। ১৮ বছরের ন্যূনতম বয়সসীমাও প্রযোজ্য। জন্মতারিখ রূপান্তরটি এখানে হিসাবভিত্তিক ও আনুমানিক; চূড়ান্ত সিদ্ধান্তে বিজ্ঞপ্তির ভাষাই অনুসরণ করতে হবে।"
+    },
+    {
+      "question": "সব জেলার প্রার্থীরা কি আবেদন করতে পারবেন?",
+      "answer": "হ্যাঁ। RAW DATA অনুযায়ী বাংলাদেশের সকল জেলার যোগ্য নারী ও পুরুষ প্রার্থী এই নিয়োগে আবেদন করতে পারবেন। তবে জেলার যোগ্যতা থাকা মানেই সব পদে যোগ্যতা নিশ্চিত নয়। আপনার degree, subject, experience এবং বয়সসীমা নির্দিষ্ট পদের শর্তের সঙ্গে মিলতে হবে।"
+    },
+    {
+      "question": "আবেদন ফি কত টাকা?",
+      "answer": "সরবরাহ করা RAW DATA-তে নির্দিষ্ট আবেদন ফি-এর টাকার অঙ্ক নেই। সেখানে শুধু Teletalk-এর মাধ্যমে fee payment এবং দুইটি SMS-এর ধাপ দেওয়া হয়েছে। তাই নির্দিষ্ট টাকার অঙ্ক অনুমান করে দেওয়া হয়নি। আপনার Applicant’s Copy-তে প্রদর্শিত fee এবং SMS instruction-ই চূড়ান্তভাবে অনুসরণ করা উচিত।"
+    },
+    {
+      "question": "What is the BHTPA application website?",
+      "answer": "The online application portal is bhtpa.teletalk.com.bd. Applicants should select the appropriate post, complete the form accurately, upload the required photo and signature, submit the application, and then complete the Teletalk SMS payment process within the stated 72-hour window."
+    },
+    {
+      "question": "When will the admit card and exam date be announced?",
+      "answer": "The supplied RAW DATA does not provide a fixed admit card release date or examination date. It states that applicants will be informed through SMS and the BHTPA and Teletalk websites. Therefore, these events are currently marked as TBA rather than being assigned an unverified date."
+    },
+    {
+      "question": "ছবির সাইজ কত হতে হবে?",
+      "answer": "আবেদনের ছবির মাপ ৩০০×৩০০ পিক্সেল এবং সর্বোচ্চ file size ১০০ KB। Format হিসেবে JPG উল্লেখ আছে। ছবি upload-এর সময় মাপ বা file size না মিললে form submission-এ সমস্যা হতে পারে। তাই আবেদন শুরু করার আগেই ছবিটি নির্ধারিত specification-এ প্রস্তুত করে রাখা ভালো।"
+    },
+    {
+      "question": "স্বাক্ষরের মাপ কত এবং কিভাবে fee দিতে হবে?",
+      "answer": "স্বাক্ষর ৩০০×৮০ পিক্সেল এবং সর্বোচ্চ ৬০ KB, JPG format-এ দিতে হবে। Form submit করার পর User ID ব্যবহার করে 16222 নম্বরে প্রথমে bhtpa User ID এবং পরে bhtpa YES PIN Code format-এ SMS পাঠাতে হবে। সঠিক SMS instruction Applicant’s Copy থেকে মিলিয়ে নিন।"
+    }
+  ],
+  "internalLinks": [
+    {
+      "anchor": "বয়স বের করার ক্যালকুলেটর",
+      "url": "https://bdgovtjob.net/age-calculator/"
+    },
+    {
+      "anchor": "সরকারি চাকরির সার্কুলার",
+      "url": "https://bdgovtjob.net/category/government-jobs-circular/"
+    },
+    {
+      "anchor": "Teletalk Application",
+      "url": "https://bdgovtjob.net/category/teletalk-application/"
+    }
+  ],
+  "relatedCirculars": [
+    {
+      "title": "কারিগরি ও মাদ্রাসা শিক্ষা বিভাগ নিয়োগ বিজ্ঞপ্তি ২০২৬ TMED Job Circular 2026",
+      "url": "https://bdgovtjob.net/tmed-job-circular/"
+    }
+  ],
+  "closingContent": "<p>BHTPA-এর এই নিয়োগে আপনার degree ও experience ঠিক কোন পদের সঙ্গে মেলে, সেটি আগে নিশ্চিত করুন। আবেদন করার সময় Applicant’s Copy সংরক্ষণ করুন, তারপর ৭২ ঘণ্টার মধ্যে fee payment সম্পন্ন করুন। Admit Card ও পরীক্ষার তারিখের জন্য SMS এবং BHTPA/Teletalk website-এর update অনুসরণ করতে হবে।</p>",
+  "tableOfContents": [
+    "এক নজরে বাংলাদেশ হাই-টেক পার্ক কর্তৃপক্ষ নিয়োগ ২০২৬",
+    "কোম্পানি বা প্রতিষ্ঠানের পরিচিতি",
+    "পদভিত্তিক শিক্ষাগত যোগ্যতা ও অভিজ্ঞতা",
+    "বেতনস্কেল ও আনুমানিক মাসিক সর্বমোট বেতন",
+    "কার জন্য কোন ধরনের পদ মানানসই",
+    "আবেদনের বয়সসীমা",
+    "জেলার যোগ্যতা",
+    "অনলাইনে আবেদন করার পদ্ধতি",
+    "আবেদন ফি ও SMS পেমেন্ট",
+    "যে ভুলগুলো হলে আবেদন বাতিল হতে পারে",
+    "নিয়োগের সময়রেখা",
+    "প্রস্তুতি ও এক্সপার্ট টিপস",
+    "অফিশিয়াল নিয়োগ বিজ্ঞপ্তির ছবি",
+    "সাধারণ জিজ্ঞাসা",
+    "ভাইভা পরীক্ষায় প্রয়োজনীয় কাগজপত্র"
+  ],
+  "schema": {
+    "generateJobPostingPerPosition": true,
+    "jobPostingDefaults": {
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": "Bangladesh Hi-Tech Park Authority",
+      "jobLocation": "Dhaka (Agargaon), Bangladesh",
+      "validThrough": "2026-09-26T17:00:00+06:00",
+      "directApply": true
+    },
+    "generateFaqPage": true,
+    "generateBreadcrumb": [
+      {
+        "name": "হোম",
+        "url": "https://yakub.blog/"
+      },
+      {
+        "name": "সরকারি চাকরি",
+        "url": "https://yakub.blog/category/government-jobs-circular/"
+      },
+      {
+        "name": "BHTPA Job Circular 2026",
+        "url": "https://yakub.blog/bhtpa-job-circular/"
+      }
+    ],
+    "generateArticle": true,
+    "articleType": "Article"
+  }
+}
