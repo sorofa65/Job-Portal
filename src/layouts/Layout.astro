@@ -92,6 +92,16 @@ const searchIndex = getAllPosts().map((p) => ({
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <SEO title={title} description={description} image={image} jobPosting={jobPosting} keywords={keywords} article={article} robots={robots} schemas={[...globalSchemas, ...schemas, ...(breadcrumbSchema ? [breadcrumbSchema] : [])]} />
 <meta name="google-site-verification" content="lU84iOa0FE29rLW5-1XS7wTH19ybdG6tkx3sfp2y9Og" />
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MTMBD70XV8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-MTMBD70XV8');
+</script>
     
 <!-- Set theme before first paint to avoid a flash of the wrong theme -->
     <script is:inline>
