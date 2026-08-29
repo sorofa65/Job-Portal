@@ -1,0 +1,596 @@
+[
+{
+"id": "niport-job-circular",
+"slug": "niport-job-circular",
+"status": "published",
+"category": "সরকারি চাকরি",
+"subCategories": [
+"NIPORT Job Circular",
+"গবেষণা প্রকল্প",
+"স্বায়ত্তশাসিত প্রতিষ্ঠান"
+],
+"isFeatured": "",
+"targetVideoAd": "",
+"seo": {
+"metaTitle": "নিপোর্ট নিয়োগ বিজ্ঞপ্তি ২০২৬: ৮৫ পদ",
+"metaTitleEn": "NIPORT Job Circular 2026: 85 Posts",
+"metaDescription": "নিপোর্ট নিয়োগ বিজ্ঞপ্তিতে ৫ ক্যাটাগরিতে ৮৫ পদ। স্নাতক ও মাস্টার্স পাসে আবেদন, ফি নেই। ডাকযোগে বা সরাসরি আবেদন শেষ ০৮ সেপ্টেম্বর ২০২৬।",
+"focusKeyword": "নিপোর্ট নিয়োগ বিজ্ঞপ্তি ২০২৬",
+"focusKeywordEn": "NIPORT Job Circular 2026",
+"secondaryKeywords": [
+"NIPORT চাকরি",
+"নিপোর্ট চাকরি ২০২৬",
+"সরকারি গবেষণা চাকরি",
+"Data Entry Operator",
+"Data Analyst",
+"NIPORT Job",
+"এডিটর কোডার চাকরি",
+"স্বায়ত্তশাসিত প্রতিষ্ঠানে চাকরি"
+],
+"canonical": "",
+"ogTitle": "নিপোর্ট নিয়োগ বিজ্ঞপ্তি ২০২৬: ৮৫ পদ",
+"ogDescription": "৫ ক্যাটাগরিতে ৮৫ জন নিয়োগ। স্নাতক ও মাস্টার্স যোগ্যতায় আবেদন করা যাবে। শেষ তারিখ ০৮ সেপ্টেম্বর ২০২৬।",
+"ogImage": "https://i.ibb.co.com/DD0xMsTb/niport-job-circular.webp",
+"twitterCard": "summary_large_image",
+"robots": "index,follow",
+"language": "bn-BD",
+"readingTimeMinutes": 8
+},
+"author": {
+"name": "Yakub",
+"role": "সরকারি চাকরি কনটেন্ট এডিটর",
+"profileUrl": "",
+"credentialNote": "৫ বছর ধরে বাংলাদেশি সরকারি ও দপ্তরভিত্তিক নিয়োগ বিজ্ঞপ্তি সম্পাদনার অভিজ্ঞতা।"
+},
+"publishedAt": "2026-08-27",
+"lastUpdatedAt": "",
+"lastUpdatedLabel": "সর্বশেষ আপডেট: ২৭ আগস্ট ২০২৬",
+"updateLog": [
+{
+"date": "2026-08-27",
+"note": "নিয়োগ বিজ্ঞপ্তির তথ্য সংকলন ও যাচাই করা হয়েছে।"
+}
+],
+"verification": {
+"verified": true,
+"source": "NIPORT-এর অফিসিয়াল ওয়েবসাইট",
+"sourceUrl": "https://niport.gov.bd",
+"verifiedOn": "2026-08-27",
+"badgeText": "অফিশিয়াল সোর্সভিত্তিক তথ্য"
+},
+"image": "https://i.ibb.co.com/DD0xMsTb/niport-job-circular.webp",
+"imageAlt": "নিপোর্ট নিয়োগ বিজ্ঞপ্তি ২০২৬-এর সার্কুলার",
+"noticeImages": [
+{
+"url": "",
+"alt": "NIPORT-এর ৮৫ পদে নিয়োগ বিজ্ঞপ্তির প্রথম অংশ"
+},
+{
+"url": "",
+"alt": "নিপোর্ট চাকরির পদ ও আবেদনসংক্রান্ত নির্দেশনা"
+}
+],
+"pdfNoticeLink": "https://niport.gov.bd/pages/notices/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A6%B2%E0%A7%8D%E0%A6%AA%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A6%AC%E0%A6%B2-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%8B%E0%A6%97-%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BF-lp4dbv-6a9001011424e9094b2f528e",
+"applyOnlineLink": "https://niport.gov.bd",
+"keyDates": {
+"memoIssuedOn": "২৭ আগস্ট ২০২৬",
+"publishedOn": "২৭ আগস্ট ২০২৬",
+"applicationStart": "",
+"applicationEnd": "০৮ সেপ্টেম্বর ২০২৬ অফিস চলাকালীন সময় পর্যন্ত",
+"ageCalculatedAsOn": "",
+"feePaymentWindowNote": "আবেদন ফি নেই; তাই fee payment window প্রযোজ্য নয়।"
+},
+"countdown": {
+"enabled": true,
+"targetIso": "2026-09-08",
+"labelTemplate": "আবেদনের শেষ তারিখ: ০৮ সেপ্টেম্বর ২০২৬",
+"expiredLabel": "আবেদনের সময়সীমা শেষ হয়েছে"
+},
+"expiryPolicy": {
+"onExpiryShowBanner": true,
+"bannerText": "এই নিয়োগের আবেদন গ্রহণের শেষ তারিখ ০৮ সেপ্টেম্বর ২০২৬।",
+"removeJobPostingSchemaOnExpiry": true,
+"keepPageIndexed": true,
+"redirectOnNextYearCircular": false
+},
+"organization": {
+"nameBn": "জাতীয় জনসংখ্যা গবেষণা ও প্রশিক্ষণ ইনস্টিটিউট",
+"nameEn": "National Institute of Population Research and Training",
+"shortName": "NIPORT",
+"ministry": "স্বাস্থ্য ও পরিবার কল্যাণ মন্ত্রণালয়",
+"website": "https://niport.gov.bd",
+"email": "info@niport.gov.bd",
+"phone": "৮৮-০২-৯৬৬২৪৯৫, ৯৬১২১৯৩, ৫৮৬১১৪১৮, ৫৮৬১১২০৬",
+"address": "জাতীয় জনসংখ্যা গবেষণা ও প্রশিক্ষণ ইনস্টিটিউট (NIPORT), ১৩/১ শেখ সাহেব বাজার, আজিমপুর, ঢাকা-১২০৫, বাংলাদেশ",
+"addressLocality": "আজিমপুর",
+"addressRegion": "ঢাকা",
+"postalCode": "১২০৫",
+"addressCountry": "বাংলাদেশ",
+"aboutHtml": "<p>জাতীয় জনসংখ্যা গবেষণা ও প্রশিক্ষণ ইনস্টিটিউট বা <strong>NIPORT</strong> স্বাস্থ্য ও পরিবার কল্যাণ মন্ত্রণালয়ের আওতাধীন একটি জাতীয় পর্যায়ের স্বায়ত্তশাসিত গবেষণা ও প্রশিক্ষণ প্রতিষ্ঠান।</p><p>বিজ্ঞপ্তিতে বলা হয়েছে, প্রতিষ্ঠানটি ১৯৭৭ সালে প্রতিষ্ঠিত এবং পরিবার পরিকল্পনা, জনস্বাস্থ্য, প্রজনন স্বাস্থ্য, পুষ্টি ও জনসংখ্যা বিষয়ক গবেষণা ও প্রশিক্ষণ কার্যক্রমে কাজ করে।</p>"
+},
+"summaryTable": [
+{
+"label": "প্রতিষ্ঠান",
+"value": "NIPORT",
+"isLink": true,
+"url": "https://niport.gov.bd"
+},
+{
+"label": "মোট পদ",
+"value": "৮৫টি",
+"isLink": false,
+"url": ""
+},
+{
+"label": "পদের ক্যাটাগরি",
+"value": "০৫টি",
+"isLink": false,
+"url": ""
+},
+{
+"label": "চাকরির ধরন",
+"value": "সরকারি চাকরি",
+"isLink": false,
+"url": ""
+},
+{
+"label": "কর্মস্থল",
+"value": "ঢাকা, আজিমপুর",
+"isLink": false,
+"url": ""
+},
+{
+"label": "আবেদন ফি",
+"value": "বিনামূল্যে",
+"isLink": false,
+"url": ""
+},
+{
+"label": "আবেদনের শেষ তারিখ",
+"value": "০৮ সেপ্টেম্বর ২০২৬",
+"isLink": false,
+"url": ""
+},
+{
+"label": "আবেদন পদ্ধতি",
+"value": "ডাকযোগে বা সরাসরি",
+"isLink": false,
+"url": ""
+}
+],
+"positions": [
+{
+"serial": 1,
+"nameBn": "ডাটা এন্ট্রি অপারেটর",
+"nameEn": "Data Entry Operator",
+"vacancies": 50,
+"grade": "",
+"gradeNumber": "",
+"payScale": "মাসিক সর্বসাকুল্যে ১৯,৮২৫/- টাকা ও মাঠ ভাতাদি",
+"basicPay": "",
+"educationBn": "যেকোনো স্বীকৃত বিশ্ববিদ্যালয় থেকে স্নাতক বা সমমানের ডিগ্রি। গবেষণা সংক্রান্ত ডাটা এন্ট্রির কাজে বাস্তব অভিজ্ঞতা থাকতে হবে।",
+"educationEn": "A Bachelor's degree or equivalent from any recognized university, with practical experience in research-related data entry work.",
+"skillsBn": "গবেষণা কাজে অভিজ্ঞতাসম্পন্ন প্রার্থীদের অগ্রাধিকার দেওয়া হবে।",
+"feeTier": "বিনামূল্যে",
+"competitionNote": "এই পদে ৫০টি শূন্যপদ থাকায় পাঁচটি পদের মধ্যে সংখ্যার দিক থেকে সবচেয়ে বড় নিয়োগ এখানে; তবে আবেদনকারীর সংখ্যা বিজ্ঞপ্তিতে দেওয়া নেই।"
+},
+{
+"serial": 2,
+"nameBn": "এডিটর/কোডার",
+"nameEn": "Editor/Coder",
+"vacancies": 20,
+"grade": "",
+"gradeNumber": "",
+"payScale": "মাসিক সর্বসাকুল্যে ১৯,৮২৫/- টাকা ও মাঠ ভাতাদি",
+"basicPay": "",
+"educationBn": "যেকোনো স্বীকৃত বিশ্ববিদ্যালয় থেকে স্নাতক বা সমমানের ডিগ্রি। গবেষণা সংক্রান্ত ডাটা এডিটিং কাজে বাস্তব অভিজ্ঞতা থাকতে হবে।",
+"educationEn": "A Bachelor's degree or equivalent from any recognized university, with practical experience in research-related data editing.",
+"skillsBn": "গবেষণা কাজে অভিজ্ঞতাসম্পন্ন প্রার্থীদের অগ্রাধিকার দেওয়া হবে।",
+"feeTier": "বিনামূল্যে",
+"competitionNote": "২০টি পদ থাকলেও এই পদের জন্য ডাটা এডিটিংয়ের বাস্তব অভিজ্ঞতা চাওয়া হয়েছে; শুধু স্নাতক ডিগ্রি থাকলেই যোগ্যতা পূর্ণ হচ্ছে না।"
+},
+{
+"serial": 3,
+"nameBn": "ডাটা এনালিস্ট",
+"nameEn": "Data Analyst",
+"vacancies": 5,
+"grade": "",
+"gradeNumber": "",
+"payScale": "দৈনিক ৩,০০০/- টাকা সম্মানী, সর্বোচ্চ ৪০ দিন",
+"basicPay": "",
+"educationBn": "যেকোনো স্বীকৃত বিশ্ববিদ্যালয় থেকে ন্যূনতম মাস্টার্স ডিগ্রি। প্রথম শ্রেণি বা সমপর্যায়ের কর্মকর্তা অথবা কোনো বিশ্ববিদ্যালয়ে শিক্ষকতায় নিয়োজিত হতে হবে এবং ডাটা অ্যানালাইসিস সংক্রান্ত কাজে অভিজ্ঞতা থাকতে হবে।",
+"educationEn": "At least a Master's degree from a recognized university; the applicant must be a first-class or equivalent officer or employed as a university teacher, with experience in data analysis.",
+"skillsBn": "গবেষণা কাজে অভিজ্ঞতাসম্পন্ন প্রার্থীদের অগ্রাধিকার দেওয়া হবে।",
+"feeTier": "বিনামূল্যে",
+"competitionNote": "মাত্র ৫টি পদ এবং একাধিক পেশাগত শর্ত থাকায় এটি সাধারণ স্নাতক প্রার্থীদের জন্য নয়; আবেদনকারীর সংখ্যা বিজ্ঞপ্তিতে উল্লেখ নেই।"
+},
+{
+"serial": 4,
+"nameBn": "রিভিউয়ার",
+"nameEn": "Reviewer",
+"vacancies": 5,
+"grade": "",
+"gradeNumber": "",
+"payScale": "দৈনিক ৩,০০০/- টাকা সম্মানী, সর্বোচ্চ ৪০ দিন",
+"basicPay": "",
+"educationBn": "যেকোনো স্বীকৃত বিশ্ববিদ্যালয় থেকে ন্যূনতম মাস্টার্স ডিগ্রি। প্রথম শ্রেণি বা সমপর্যায়ের কর্মকর্তা অথবা কোনো বিশ্ববিদ্যালয়ে শিক্ষকতায় নিয়োজিত হতে হবে এবং প্রতিবেদন রিভিউ কাজে অভিজ্ঞতা থাকতে হবে।",
+"educationEn": "At least a Master's degree from a recognized university; the applicant must be a first-class or equivalent officer or employed as a university teacher, with experience in report review.",
+"skillsBn": "গবেষণা কাজে অভিজ্ঞতাসম্পন্ন প্রার্থীদের অগ্রাধিকার দেওয়া হবে।",
+"feeTier": "বিনামূল্যে",
+"competitionNote": "৫টি শূন্যপদের পাশাপাশি রিপোর্ট review-এর অভিজ্ঞতা চাওয়া হয়েছে; তাই সাধারণ মাস্টার্স ডিগ্রিধারীর জন্য এটি সরাসরি প্রযোজ্য নয়।"
+},
+{
+"serial": 5,
+"nameBn": "প্রতিবেদন সম্পাদক",
+"nameEn": "Report Editor",
+"vacancies": 5,
+"grade": "",
+"gradeNumber": "",
+"payScale": "দৈনিক ৩,০০০/- টাকা সম্মানী, সর্বোচ্চ ৪০ দিন",
+"basicPay": "",
+"educationBn": "যেকোনো স্বীকৃত বিশ্ববিদ্যালয় থেকে ন্যূনতম মাস্টার্স ডিগ্রি। প্রথম শ্রেণি বা সমপর্যায়ের কর্মকর্তা অথবা কোনো বিশ্ববিদ্যালয়ে শিক্ষকতায় নিয়োজিত হতে হবে এবং প্রতিবেদন সম্পাদনা কাজে অভিজ্ঞতা থাকতে হবে।",
+"educationEn": "At least a Master's degree from a recognized university; the applicant must be a first-class or equivalent officer or employed as a university teacher, with experience in report editing.",
+"skillsBn": "গবেষণা কাজে অভিজ্ঞতাসম্পন্ন প্রার্থীদের অগ্রাধিকার দেওয়া হবে।",
+"feeTier": "বিনামূল্যে",
+"competitionNote": "এখানেও ৫টি পদ; মাস্টার্সের পাশাপাশি রিপোর্ট editing-এর অভিজ্ঞতা এবং নির্দিষ্ট পেশাগত অবস্থানের শর্ত পূরণ করতে হবে।"
+}
+],
+"eligibilityMatcher": {
+"headingBn": "আপনার যোগ্যতায় কোন পদে আবেদন করবেন?",
+"headingEn": "Eligibility Matcher",
+"introHtml": "<p>শুধু ডিগ্রির নাম দেখলে এই বিজ্ঞপ্তির যোগ্যতা বোঝা কঠিন। <strong>অভিজ্ঞতা এবং পেশাগত অবস্থার শর্তও</strong> সংশ্লিষ্ট পদের সঙ্গে মিলিয়ে দেখতে হবে।</p>",
+"rows": [
+{
+"yourQualification": "স্নাতক বা সমমানের ডিগ্রি + গবেষণা-সংক্রান্ত ডাটা এন্ট্রির বাস্তব অভিজ্ঞতা",
+"eligiblePosts": [
+"ডাটা এন্ট্রি অপারেটর"
+],
+"totalVacancies": 50,
+"fee": "বিনামূল্যে"
+},
+{
+"yourQualification": "স্নাতক বা সমমানের ডিগ্রি + গবেষণা-সংক্রান্ত ডাটা এডিটিংয়ের বাস্তব অভিজ্ঞতা",
+"eligiblePosts": [
+"এডিটর/কোডার"
+],
+"totalVacancies": 20,
+"fee": "বিনামূল্যে"
+},
+{
+"yourQualification": "ন্যূনতম মাস্টার্স + প্রথম শ্রেণি বা সমপর্যায়ের কর্মকর্তা অথবা বিশ্ববিদ্যালয়ের শিক্ষক + ডাটা অ্যানালাইসিসের অভিজ্ঞতা",
+"eligiblePosts": [
+"ডাটা এনালিস্ট"
+],
+"totalVacancies": 5,
+"fee": "বিনামূল্যে"
+},
+{
+"yourQualification": "ন্যূনতম মাস্টার্স + প্রথম শ্রেণি বা সমপর্যায়ের কর্মকর্তা অথবা বিশ্ববিদ্যালয়ের শিক্ষক + প্রতিবেদন রিভিউয়ের অভিজ্ঞতা",
+"eligiblePosts": [
+"রিভিউয়ার"
+],
+"totalVacancies": 5,
+"fee": "বিনামূল্যে"
+},
+{
+"yourQualification": "ন্যূনতম মাস্টার্স + প্রথম শ্রেণি বা সমপর্যায়ের কর্মকর্তা অথবা বিশ্ববিদ্যালয়ের শিক্ষক + প্রতিবেদন সম্পাদনার অভিজ্ঞতা",
+"eligiblePosts": [
+"প্রতিবেদন সম্পাদক"
+],
+"totalVacancies": 5,
+"fee": "বিনামূল্যে"
+}
+],
+"noteHtml": "<p>এই ম্যাপিংয়ে পাঁচটি পদের শূন্যপদ আলাদা যোগ করলে মোট <strong>৮৫টি</strong> হয়। মাস্টার্স ডিগ্রি থাকলেই শেষের তিনটি পদে আবেদন করা যাবে না; সংশ্লিষ্ট পেশাগত ও কাজের অভিজ্ঞতার শর্তও আছে।</p>"
+},
+"salaryBreakdown": {
+"headingBn": "বেতন ও সম্মানীর হিসাব",
+"headingEn": "Salary Breakdown",
+"introHtml": "<p>বিজ্ঞপ্তিতে ডাটা এন্ট্রি অপারেটর ও এডিটর/কোডারের জন্য মাসিক সর্বসাকুল্যে ১৯,৮২৫ টাকা এবং বাকি তিন পদের জন্য দৈনিক ৩,০০০ টাকা সম্মানী উল্লেখ আছে।</p><p><strong>আনুমানিক গ্রস বেতন হিসাব করা হয়নি</strong>, কারণ বিজ্ঞপ্তিতে basic pay, grade এবং বাড়িভাড়া ও চিকিৎসা ভাতার নির্দিষ্ট হার দেওয়া নেই।</p>",
+"headers": [
+"পদ",
+"বিজ্ঞপ্তিতে উল্লেখিত অর্থ"
+],
+"rows": [
+[
+"ডাটা এন্ট্রি অপারেটর",
+"মাসিক সর্বসাকুল্যে ১৯,৮২৫/- টাকা ও মাঠ ভাতাদি"
+],
+[
+"এডিটর/কোডার",
+"মাসিক সর্বসাকুল্যে ১৯,৮২৫/- টাকা ও মাঠ ভাতাদি"
+],
+[
+"ডাটা এনালিস্ট",
+"দৈনিক ৩,০০০/- টাকা সম্মানী, সর্বোচ্চ ৪০ দিন"
+],
+[
+"রিভিউয়ার",
+"দৈনিক ৩,০০০/- টাকা সম্মানী, সর্বোচ্চ ৪০ দিন"
+],
+[
+"প্রতিবেদন সম্পাদক",
+"দৈনিক ৩,০০০/- টাকা সম্মানী, সর্বোচ্চ ৪০ দিন"
+]
+],
+"disclaimerHtml": "<p><strong>Disclaimer:</strong> বিজ্ঞপ্তিতে grade, basic pay এবং ভাতার আলাদা হার না থাকায় কোনো আনুমানিক gross salary সংখ্যা দেওয়া হয়নি। তাই বিজ্ঞপ্তিতে উল্লেখিত অর্থের বাইরে হাতে পাওয়া টাকার পরিমাণ নির্ণয় করা যাবে না।</p>",
+"extraBenefitsBn": [
+"ডাটা এন্ট্রি অপারেটর ও এডিটর/কোডার পদের ক্ষেত্রে মাঠপর্যায়ে অবস্থান বা প্রশিক্ষণের জন্য সরকারি বিধি মোতাবেক অতিরিক্ত ভাতাদি প্রাপ্য হতে পারে।",
+"এই ভাতাদির নির্দিষ্ট পরিমাণ বিজ্ঞপ্তিতে উল্লেখ নেই।"
+]
+},
+"ageEligibility": {
+"headingBn": "আবেদনের বয়সসীমা",
+"asOnDateBn": "",
+"minAge": 18,
+"maxAge": 32,
+"quotaSameAsGeneral": "",
+"bornBetweenBn": "",
+"bodyHtml": "<p>বিজ্ঞপ্তির তথ্য অনুযায়ী বয়সসীমা <strong>১৮ থেকে ৩২ বছর</strong>। তবে কোন তারিখে বয়স গণনা করতে হবে তা প্রদত্ত তথ্যে নির্দিষ্ট করা হয়নি। তাই জন্মতারিখের নির্দিষ্ট range হিসাব করে দেওয়া নিরাপদ নয়।</p><p>অভিজ্ঞ প্রার্থীদের ক্ষেত্রে বয়স ও অভিজ্ঞতা শিথিলযোগ্য বা অগ্রাধিকারযোগ্য বলে তথ্যটিতে উল্লেখ আছে; এর বিস্তারিত প্রয়োগের নিয়ম আলাদা করে দেওয়া হয়নি।</p>",
+"calculatorLink": {
+"text": "",
+"url": ""
+}
+},
+"districtEligibility": {
+"headingBn": "কোন জেলার প্রার্থী আবেদন করতে পারবেন?",
+"eligibleOnly": false,
+"districts": [
+"বাংলাদেশের সকল জেলা"
+],
+"bodyHtml": "<p>প্রদত্ত বিজ্ঞপ্তির তথ্য অনুযায়ী <strong>বাংলাদেশের সকল জেলার</strong> যোগ্য নারী ও পুরুষ প্রার্থী আবেদন করতে পারবেন। জেলা-ভিত্তিক কোনো নিষেধাজ্ঞা উল্লেখ করা হয়নি।</p>"
+},
+"introContent": "<p>জাতীয় জনসংখ্যা গবেষণা ও প্রশিক্ষণ ইনস্টিটিউটের <strong>NIPORT Job Circular 2026</strong>-এ ৫টি ক্যাটাগরিতে মোট ৮৫ জন নেওয়ার কথা বলা হয়েছে। নিয়োগটি সমন্বিত উন্নয়ন প্রকল্পের গবেষণা কার্যক্রম শেষ করার কাজের সঙ্গে যুক্ত।</p><p>আপনার যদি গবেষণাভিত্তিক Data Entry বা Data Editing-এর বাস্তব অভিজ্ঞতা থাকে, প্রথম দুইটি পদ বেশি প্রাসঙ্গিক। অন্যদিকে Data Analyst, Reviewer ও Report Editor পদ তিনটির ক্ষেত্রে শুধু মাস্টার্স যথেষ্ট নয়; নির্দিষ্ট পেশাগত পরিচয় এবং সংশ্লিষ্ট কাজের অভিজ্ঞতাও দরকার।</p><p>আবেদন অনলাইনে নয়। আবেদনপত্র ও CV ডাকযোগে অথবা সরাসরি NIPORT-এর প্রধান কার্যালয়ে পৌঁছাতে হবে। শেষ সময় <strong>০৮ সেপ্টেম্বর ২০২৬, অফিস চলাকালীন সময়</strong>।</p>",
+"englishSummary": {
+"headingEn": "NIPORT Job Circular 2026",
+"bodyHtml": "<p>The National Institute of Population Research and Training (NIPORT), under the Ministry of Health and Family Welfare, is recruiting for activities related to an integrated development project.</p><p>The circular covers 5 categories and 85 vacancies: Data Entry Operator, Editor/Coder, Data Analyst, Reviewer, and Report Editor.</p><p>Graduates may apply for the Data Entry Operator and Editor/Coder roles with relevant practical experience. The three specialist roles require at least a Master's degree plus specific professional status and relevant experience.</p><p>Applications must be submitted by post or in person to the NIPORT head office in Azimpur by September 8, 2026 during office hours. There is no application fee mentioned in the circular data.</p>"
+},
+"bestFitFor": {
+"headingBn": "কার জন্য কোন পদ বেশি মানানসই",
+"items": [
+{
+"who": "স্নাতক ডিগ্রিধারী ও গবেষণা-সংক্রান্ত Data Entry অভিজ্ঞ প্রার্থী",
+"why": "ডাটা এন্ট্রি অপারেটর পদে ৫০টি শূন্যপদ এবং সরাসরি Data Entry experience-এর শর্ত রয়েছে।"
+},
+{
+"who": "স্নাতক ডিগ্রিধারী ও research data editing অভিজ্ঞ প্রার্থী",
+"why": "এডিটর/কোডার পদে ২০টি শূন্যপদ এবং গবেষণা-সংক্রান্ত data editing-এর বাস্তব অভিজ্ঞতা চাওয়া হয়েছে।"
+},
+{
+"who": "মাস্টার্সধারী কর্মকর্তা বা বিশ্ববিদ্যালয়ের শিক্ষক",
+"why": "ডাটা এনালিস্ট, রিভিউয়ার ও প্রতিবেদন সম্পাদক পদে নির্দিষ্ট পেশাগত অবস্থার পাশাপাশি সংশ্লিষ্ট কাজের অভিজ্ঞতা চাওয়া হয়েছে।"
+}
+]
+},
+"applicationSteps": [
+{
+"step": 1,
+"titleBn": "আবেদনপত্র ও CV প্রস্তুত করুন",
+"detailBn": "A4 কাগজে স্বহস্তে লিখিত বা টাইপকৃত আবেদনপত্র তৈরি করে পূর্ণাঙ্গ জীবনবৃত্তান্ত সংযুক্ত করুন।"
+},
+{
+"step": 2,
+"titleBn": "CV-তে তথ্য পূরণ করুন",
+"detailBn": "নাম, বাবা-মায়ের নাম, স্থায়ী ও বর্তমান ঠিকানা, মোবাইল নম্বর, জন্মতারিখ, জাতীয়তা, শিক্ষাগত যোগ্যতা এবং অভিজ্ঞতার বিস্তারিত লিখুন।"
+},
+{
+"step": 3,
+"titleBn": "ছবি ও সনদের কপি দিন",
+"detailBn": "সদ্য তোলা ০২ কপি রঙিন পাসপোর্ট সাইজের ছবি এবং শিক্ষাগত ও অভিজ্ঞতার সনদের সত্যায়িত কপি সংযুক্ত করুন।"
+},
+{
+"step": 4,
+"titleBn": "খামে পদের নাম লিখুন",
+"detailBn": "আবেদনপত্রের খামের ওপর যে পদের জন্য আবেদন করছেন তার নাম স্পষ্টভাবে লিখুন।"
+},
+{
+"step": 5,
+"titleBn": "আবেদন জমা দিন",
+"detailBn": "০৮ সেপ্টেম্বর ২০২৬ তারিখ অফিস চলাকালীন সময়ের মধ্যে নির্ধারিত ঠিকানায় ডাকযোগে অথবা সরাসরি আবেদন পৌঁছাতে হবে।"
+},
+{
+"step": 6,
+"titleBn": "সাক্ষাৎকারে উপস্থিত হন",
+"detailBn": "বাছাই শেষে নির্বাচিত প্রার্থীদের ১০ সেপ্টেম্বর ২০২৬ সকাল ১১:০০টায় NIPORT প্রধান কার্যালয়ে মূল সনদপত্রসহ উপস্থিত হতে বলা হয়েছে।"
+}
+],
+"photoSpec": {
+"dimensions": "পাসপোর্ট সাইজ",
+"maxSize": "",
+"format": "রঙিন ছবি",
+"noteBn": "সদ্য তোলা ০২ কপি পাসপোর্ট সাইজের রঙিন ছবি দিতে হবে। নির্দিষ্ট pixel বা file size বিজ্ঞপ্তির প্রদত্ত তথ্যে নেই।"
+},
+"signatureSpec": {
+"dimensions": "",
+"maxSize": "",
+"format": "",
+"noteBn": "আবেদনপত্র ও CV-তে প্রার্থীর পূর্ণ স্বাক্ষর থাকার কথা বলা হয়েছে।"
+},
+"applicationFee": {
+"headingBn": "আবেদন ফি",
+"headers": [
+"বিষয়",
+"তথ্য"
+],
+"rows": [
+[
+"আবেদন ফি",
+"বিনামূল্যে"
+],
+[
+"SMS payment",
+"প্রযোজ্য নয়"
+]
+],
+"smsPayment": {
+"shortCode": "",
+"prefix": "",
+"step1Format": "",
+"step1Example": "",
+"step2Format": "",
+"step2Example": "",
+"noteBn": "প্রদত্ত বিজ্ঞপ্তির তথ্যে আবেদন ফি নেওয়ার কোনো SMS payment পদ্ধতি নেই।"
+}
+},
+"rejectionRisks": {
+"headingBn": "যেসব ভুলে আবেদন ঝুঁকিতে পড়তে পারে",
+"introHtml": "<p>বিজ্ঞপ্তির আবেদন নির্দেশনা মেনে কাগজপত্র সাজানো জরুরি। এখানে শুধু প্রদত্ত তথ্য থেকে সরাসরি বোঝা যায় এমন ঝুঁকিগুলো রাখা হয়েছে।</p>",
+"items": [
+"০৮ সেপ্টেম্বর ২০২৬ অফিস সময়ের পর আবেদন পৌঁছানো।",
+"আবেদনপত্রের সঙ্গে পূর্ণাঙ্গ CV না দেওয়া।",
+"নির্ধারিত ০২ কপি রঙিন পাসপোর্ট সাইজের ছবি না দেওয়া।",
+"শিক্ষাগত যোগ্যতা বা অভিজ্ঞতার সনদের সত্যায়িত কপি সংযুক্ত না করা।",
+"খামের ওপর সংশ্লিষ্ট পদের নাম স্পষ্টভাবে না লেখা।",
+"আবেদনে বয়সসীমার শর্ত পূরণ না করা।",
+"সাক্ষাৎকারে চাওয়া মূল সনদপত্রসহ উপস্থিত না হওয়া।"
+]
+},
+"timeline": {
+"headingBn": "আবেদন থেকে সাক্ষাৎকার: Timeline",
+"steps": [
+{
+"event": "বিজ্ঞপ্তি জারি",
+"date": "২৭ আগস্ট ২০২৬",
+"state": "done"
+},
+{
+"event": "আবেদন জমা দেওয়ার শেষ সময়",
+"date": "০৮ সেপ্টেম্বর ২০২৬ অফিস চলাকালীন সময়",
+"state": "upcoming"
+},
+{
+"event": "বাছাইকৃত প্রার্থীদের সাক্ষাৎকার",
+"date": "১০ সেপ্টেম্বর ২০২৬ সকাল ১১:০০টা",
+"state": "upcoming"
+},
+{
+"event": "লিখিত পরীক্ষা",
+"date": "এখনো ঘোষণা হয়নি",
+"state": "tba"
+},
+{
+"event": "নিয়োগের চূড়ান্ত ফলাফল",
+"date": "এখনো ঘোষণা হয়নি",
+"state": "tba"
+}
+],
+"admitCardHtml": "<p>প্রদত্ত তথ্য অনুযায়ী নির্বাচিত প্রার্থীদের সরাসরি সাক্ষাৎকারে অংশগ্রহণের কথা বলা হয়েছে। আলাদা Admit Card প্রকাশের তথ্য দেওয়া নেই।</p>"
+},
+"preparation": {
+"headingBn": "সাক্ষাৎকারের প্রস্তুতি",
+"items": [
+{
+"titleBn": "নিজের অভিজ্ঞতা পরিষ্কারভাবে বলুন",
+"detailBn": "আপনার Data Entry, Data Editing, Data Analysis বা report-related কাজের অভিজ্ঞতা থাকলে কোন ধরনের গবেষণা কাজে করেছেন তা সংক্ষেপে ব্যাখ্যা করার প্রস্তুতি নিন।"
+},
+{
+"titleBn": "গবেষণা ও স্বাস্থ্যবিষয়ক ধারণা ঝালিয়ে নিন",
+"detailBn": "স্বাস্থ্য ও পরিবার পরিকল্পনা বিষয়ক মৌলিক তথ্য এবং সমসাময়িক সমীক্ষা সম্পর্কে প্রাথমিক ধারণা নিয়ে সাক্ষাৎকারে যাওয়ার পরামর্শ দেওয়া হয়েছে।"
+},
+{
+"titleBn": "মূল কাগজপত্র গুছিয়ে রাখুন",
+"detailBn": "শিক্ষাগত যোগ্যতার মূল সনদ, অভিজ্ঞতার প্রমাণক এবং প্রয়োজনীয় ছবি আগে থেকেই প্রস্তুত রাখুন।"
+},
+{
+"titleBn": "আবেদনের ঠিকানা মিলিয়ে নিন",
+"detailBn": "ডাকযোগে পাঠানোর আগে নির্ধারিত প্রাপকের নাম ও NIPORT প্রধান কার্যালয়ের ঠিকানা আবেদনপত্রে সঠিকভাবে ব্যবহার করুন।"
+}
+]
+},
+"vivaDocuments": {
+"headingBn": "ভাইভায় সঙ্গে রাখার কাগজপত্র",
+"items": [
+"সকল শিক্ষাগত যোগ্যতার মূল সনদপত্র।",
+"নাগরিকত্ব সনদ বা ইউনিয়ন পরিষদ চেয়ারম্যান/পৌরসভা মেয়র কর্তৃক প্রদত্ত চারিত্রিক সনদপত্র।",
+"জাতীয় পরিচয়পত্রের মূল কপি।",
+"প্রথম শ্রেণির গেজেটেড কর্মকর্তা কর্তৃক সত্যায়িত সদ্য তোলা রঙিন ছবি।",
+"মুক্তিযোদ্ধা বা অন্যান্য কোটার ক্ষেত্রে সংশ্লিষ্ট কর্তৃপক্ষের দেওয়া মূল সনদ।",
+"অভিজ্ঞতার প্রমাণপত্র।"
+]
+},
+"faqs": [
+{
+"question": "NIPORT নিয়োগে মোট কতজন নেওয়া হবে?",
+"answer": "এই বিজ্ঞপ্তিতে ৫টি ক্যাটাগরিতে মোট ৮৫ জন নিয়োগের কথা বলা হয়েছে। এর মধ্যে ডাটা এন্ট্রি অপারেটর ৫০ জন, এডিটর/কোডার ২০ জন এবং ডাটা এনালিস্ট, রিভিউয়ার ও প্রতিবেদন সম্পাদক পদে ৫ জন করে নেওয়া হবে।"
+},
+{
+"question": "আবেদনের শেষ তারিখ কবে?",
+"answer": "আবেদনপত্র ০৮ সেপ্টেম্বর ২০২৬ তারিখ অফিস চলাকালীন সময়ের মধ্যে NIPORT প্রধান কার্যালয়ে পৌঁছাতে হবে। আবেদন ডাকযোগে পাঠানো অথবা সরাসরি জমা দেওয়া যাবে। শেষ দিনের জন্য অপেক্ষা না করে আগে পৌঁছানো নিরাপদ।"
+},
+{
+"question": "NIPORT চাকরিতে আবেদন ফি কত?",
+"answer": "প্রদত্ত বিজ্ঞপ্তির তথ্যে আবেদন ফি নেই। অর্থাৎ প্রার্থীকে কোনো application fee জমা দেওয়ার নির্দেশ দেওয়া হয়নি। একই কারণে SMS payment-এর কোনো short code, format বা transaction procedure-ও এই তথ্যের মধ্যে নেই।"
+},
+{
+"question": "স্নাতক পাসে কোন পদে আবেদন করা যাবে?",
+"answer": "স্নাতক বা সমমানের ডিগ্রিধারীরা ডাটা এন্ট্রি অপারেটর ও এডিটর/কোডার পদ বিবেচনা করতে পারেন, তবে সংশ্লিষ্ট গবেষণা-সংক্রান্ত Data Entry অথবা Data Editing-এর বাস্তব অভিজ্ঞতা থাকতে হবে। শুধু ডিগ্রি থাকলেই অভিজ্ঞতার শর্ত পূরণ হবে না।"
+},
+{
+"question": "মাস্টার্স পাস করলেই কি Data Analyst পদে আবেদন করা যাবে?",
+"answer": "না। Data Analyst পদের জন্য ন্যূনতম মাস্টার্স ডিগ্রির পাশাপাশি প্রথম শ্রেণি বা সমপর্যায়ের কর্মকর্তা অথবা বিশ্ববিদ্যালয়ে শিক্ষকতায় নিয়োজিত থাকার শর্ত এবং Data Analysis-সংক্রান্ত অভিজ্ঞতা চাওয়া হয়েছে। তাই শুধু মাস্টার্স ডিগ্রি দিয়ে এই পদের সব শর্ত পূরণ হয় না।"
+},
+{
+"question": "How should I submit the application?",
+"answer": "The application must be prepared with a complete CV and submitted either by post or in person. The application should reach the specified NIPORT office in Azimpur by September 8, 2026 during office hours. The envelope should clearly mention the applied position."
+},
+{
+"question": "Is there an online application portal?",
+"answer": "No online application portal is mentioned in the provided circular data. The stated method is submission by post or in person. Therefore, applicants should follow the physical application instructions and use the specified office address rather than assuming an online application system is available."
+},
+{
+"question": "সাক্ষাৎকার কবে হবে?",
+"answer": "প্রদত্ত তথ্য অনুযায়ী বাছাই করা প্রার্থীদের ১০ সেপ্টেম্বর ২০২৬ তারিখ বৃহস্পতিবার সকাল ১১:০০টায় NIPORT প্রধান কার্যালয়ে সরাসরি সাক্ষাৎকারে অংশ নিতে হবে। সাক্ষাৎকারের সময় মূল সনদপত্রসহ প্রয়োজনীয় কাগজপত্র সঙ্গে রাখার নির্দেশনা দেওয়া হয়েছে।"
+},
+{
+"question": "সব জেলার প্রার্থী কি আবেদন করতে পারবেন?",
+"answer": "হ্যাঁ। প্রদত্ত বিজ্ঞপ্তির তথ্য অনুযায়ী বাংলাদেশের সকল জেলার যোগ্য নারী ও পুরুষ প্রার্থী আবেদন করতে পারবেন। কোনো নির্দিষ্ট জেলার প্রার্থীদের বাদ দেওয়ার কথা উল্লেখ নেই। তবে প্রত্যেক প্রার্থীকে সংশ্লিষ্ট পদের শিক্ষাগত যোগ্যতা, অভিজ্ঞতা ও বয়সের শর্ত পূরণ করতে হবে।"
+},
+{
+"question": "ডাটা এনালিস্ট, রিভিউয়ার ও প্রতিবেদন সম্পাদক পদের সম্মানী কত?",
+"answer": "এই তিনটি পদের প্রতিটির জন্য দৈনিক ৩,০০০ টাকা সম্মানী উল্লেখ করা হয়েছে। একটি প্রতিবেদনের জন্য সর্বোচ্চ ৪০ দিন পর্যন্ত এই সম্মানী প্রযোজ্য বলে তথ্যটিতে বলা হয়েছে। মোট কতদিন কাজ দেওয়া হবে, সেটি সর্বোচ্চ সীমার বেশি নয়।"
+}
+],
+"internalLinks": [],
+"relatedCirculars": [],
+"closingContent": "<p>এই নিয়োগে আবেদন করার আগে আপনার ডিগ্রির সঙ্গে <strong>কাজের অভিজ্ঞতার শর্তটি</strong> মিলিয়ে নিন। বিশেষ করে স্নাতক প্রার্থীদের ক্ষেত্রে ডাটা এন্ট্রি বা ডাটা এডিটিংয়ের বাস্তব অভিজ্ঞতা গুরুত্বপূর্ণ।</p><p>আবেদন ফি না থাকলেও কাগজপত্রের ঘাটতি রাখা যাবে না। ০৮ সেপ্টেম্বর ২০২৬-এর অফিস সময়ের মধ্যে আবেদন পৌঁছানো এবং প্রয়োজনীয় সনদপত্র ঠিকভাবে সংযুক্ত করাই এখানে সবচেয়ে জরুরি বিষয়গুলোর একটি।</p>",
+"tableOfContents": [
+"এক নজরে NIPORT নিয়োগ বিজ্ঞপ্তি",
+"পদ ও শিক্ষাগত যোগ্যতা",
+"আপনার যোগ্যতায় কোন পদে আবেদন করবেন",
+"বেতন ও সম্মানী",
+"আবেদনের বয়সসীমা",
+"জেলা যোগ্যতা",
+"আবেদন করার নিয়ম",
+"আবেদন ফি",
+"আবেদন বাতিলের ঝুঁকি",
+"Timeline",
+"সাক্ষাৎকারের প্রস্তুতি",
+"ভাইভায় প্রয়োজনীয় কাগজপত্র",
+"FAQs"
+],
+"schema": {
+"generateJobPostingPerPosition": true,
+"jobPostingDefaults": {
+"employmentType": "FULL_TIME",
+"hiringOrganization": "National Institute of Population Research and Training",
+"organizationShortName": "NIPORT",
+"jobLocation": "ঢাকা, আজিমপুর",
+"validThrough": "2026-09-08",
+"directApply": false
+},
+"generateFaqPage": true,
+"generateBreadcrumb": [
+{
+"name": "সরকারি চাকরি",
+"url": ""
+},
+{
+"name": "NIPORT নিয়োগ বিজ্ঞপ্তি",
+"url": ""
+}
+],
+"generateArticle": true,
+"articleType": "Article"
+}
+}
+]
