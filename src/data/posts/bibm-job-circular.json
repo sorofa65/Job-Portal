@@ -111,25 +111,25 @@
 {
 "label": "মোট পদ",
 "value": "৭টি ক্যাটাগরি",
-"isLink": true,
+"isLink": false,
 "url": ""
 },
 {
 "label": "মোট শূন্যপদ",
 "value": "৮ জন",
-"isLink": true,
+"isLink": false,
 "url": ""
 },
 {
 "label": "কর্মস্থল",
 "value": "ঢাকা (মিরপুর)",
-"isLink": true,
+"isLink": false,
 "url": ""
 },
 {
 "label": "শিক্ষাগত যোগ্যতা",
 "value": "HSC / স্নাতক / কামিল বা সমমান",
-"isLink": true,
+"isLink": false,
 "url": ""
 },
 {
