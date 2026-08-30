@@ -105,8 +105,8 @@
 {
 "label": "প্রতিষ্ঠানের নাম",
 "value": "বাংলাদেশ ইনস্টিটিউট অব ব্যাংক ম্যানেজমেন্ট (BIBM)",
-"isLink": true,
-"url": "bibm.org.bd"
+"isLink": false,
+"url": ""
 },
 {
 "label": "মোট পদ",
@@ -155,6 +155,12 @@
 "value": "ডাকযোগে / সরাসরি",
 "isLink": false,
 "url": ""
+},
+  {
+"label":"ওয়েবসাইট",
+"value": "www.bibm.org.bd",
+"isLink": true,
+"url": "www.bibm.org.bd"
 }
 ],
 "positions": [
