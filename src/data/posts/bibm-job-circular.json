@@ -1,0 +1,738 @@
+[
+{
+"id": "JOB-2026-BIBM-001",
+"slug": "bibm-job-circular",
+"status": "active",
+"category": "Private Job",
+"subCategories": [
+"Banking Institution",
+"Dhaka Job",
+"Institutional Job"
+],
+"isFeatured": false,
+"targetVideoAd": false,
+"seo": {
+"metaTitle": "বিআইবিএম নিয়োগ ২০২৬ — ৮ পদ, শেষ ২৩ সেপ্টেম্বর",
+"metaTitleEn": "BIBM Job Circular 2026 — 8 Vacancies",
+"metaDescription": "বিআইবিএম নিয়োগ ২০২৬-এ ৭ ক্যাটাগরিতে ৮ জন নিয়োগ। HSC, স্নাতক ও কামিল প্রার্থীরা আবেদন করতে পারবেন। শেষ তারিখ ২৩ সেপ্টেম্বর ২০২৬।",
+"focusKeyword": "বিআইবিএম নিয়োগ ২০২৬",
+"focusKeywordEn": "BIBM Job Circular 2026",
+"secondaryKeywords": [
+"BIBM Job Circular",
+"বাংলাদেশ ইনস্টিটিউট অব ব্যাংক ম্যানেজমেন্ট নিয়োগ",
+"BIBM চাকরি",
+"BIBM চাকরির বিজ্ঞপ্তি",
+"ঢাকা মিরপুর চাকরি"
+],
+"canonical": "https://yakub.blog/bibm-job-circular",
+"ogTitle": "বিআইবিএম নিয়োগ ২০২৬ — ৮ পদ, শেষ ২৩ সেপ্টেম্বর",
+"ogDescription": "বাংলাদেশ ইনস্টিটিউট অব ব্যাংক ম্যানেজমেন্টে ৭ ক্যাটাগরিতে ৮ জন নিয়োগ। যোগ্যতা HSC, স্নাতক ও কামিল/দাওরায়ে হাদিস।",
+"ogImage": "https://i.ibb.co.com/90bHY6s/bibm-job-circular.webp",
+"twitterCard": "summary_large_image",
+"robots": "index, follow, max-image-preview:large",
+"language": "bn-BD",
+"readingTimeMinutes": 8
+},
+"author": {
+"name": "Yakub",
+"role": "Job Circular Editor",
+"profileUrl": "",
+"credentialNote": "চাকরির নিয়োগ বিজ্ঞপ্তি ও ক্যারিয়ার তথ্য সম্পাদনা"
+},
+"publishedAt": "2026-08-23T00:00:00+06:00",
+"lastUpdatedAt": "2026-08-23T00:00:00+06:00",
+"lastUpdatedLabel": "সর্বশেষ আপডেট: ২৩ আগস্ট ২০২৬",
+"updateLog": [
+{
+"date": "2026-08-23",
+"note": "BIBM Job Circular 2026-এর তথ্য প্রকাশ ও সংকলন করা হয়েছে।"
+}
+],
+"verification": {
+"verified": true,
+"source": "দ্য ডেইলি স্টার ও BIBM-এর অফিসিয়াল ওয়েবসাইট",
+"sourceUrl": "BIBM অফিসিয়াল ওয়েবসাইট",
+"verifiedOn": "2026-08-23",
+"badgeText": "✔ মূল বিজ্ঞপ্তি ও অফিশিয়াল ওয়েবসাইট থেকে তথ্য যাচাইকৃত"
+},
+"image": "https://i.ibb.co.com/90bHY6s/bibm-job-circular.webp",
+"imageAlt": "বাংলাদেশ ইনস্টিটিউট অব ব্যাংক ম্যানেজমেন্ট BIBM নিয়োগ বিজ্ঞপ্তি ২০২৬",
+"noticeImages": [
+{
+"url": "",
+"alt": "বাংলাদেশ ইনস্টিটিউট অব ব্যাংক ম্যানেজমেন্ট BIBM Job Circular 2026"
+}
+],
+"pdfNoticeLink": "",
+"applyOnlineLink": "",
+"keyDates": {
+"memoIssuedOn": "2026-08-23T00:00:00+06:00",
+"publishedOn": "2026-08-23T00:00:00+06:00",
+"applicationStart": "2026-08-23T00:00:00+06:00",
+"applicationEnd": "2026-09-23T23:59:59+06:00",
+"ageCalculatedAsOn": "2026-09-23T00:00:00+06:00",
+"feePaymentWindowNote": "আবেদন ফি ও পেমেন্টের বিস্তারিত তথ্য প্রদত্ত তথ্যের মধ্যে নির্দিষ্টভাবে উল্লেখ নেই।"
+},
+"countdown": {
+"enabled": true,
+"targetIso": "2026-09-23T23:59:59+06:00",
+"labelTemplate": "আবেদনের সময় বাকি: {days} দিন {hours} ঘণ্টা",
+"expiredLabel": "এই বিজ্ঞপ্তির আবেদনের সময় শেষ হয়ে গেছে"
+},
+"expiryPolicy": {
+"onExpiryShowBanner": true,
+"bannerText": "এই নিয়োগ বিজ্ঞপ্তির আবেদনের শেষ তারিখ ২৩ সেপ্টেম্বর ২০২৬। সময় শেষ হওয়ার পর নতুন আবেদন গ্রহণ করা হবে না।",
+"removeJobPostingSchemaOnExpiry": true,
+"keepPageIndexed": true,
+"redirectOnNextYearCircular": false
+},
+"organization": {
+"nameBn": "বাংলাদেশ ইনস্টিটিউট অব ব্যাংক ম্যানেজমেন্ট",
+"nameEn": "Bangladesh Institute of Bank Management",
+"shortName": "BIBM",
+"ministry": "",
+"website": "bibm.org.bd",
+"email": "office@bibm.org.bd",
+"phone": "",
+"address": "প্লট-৪, মেইন রোড-১ (দক্ষিণ), সেকশন নং ২, মিরপুর, ঢাকা-১২১৬",
+"addressLocality": "মিরপুর",
+"addressRegion": "ঢাকা",
+"postalCode": "১২১৬",
+"addressCountry": "BD",
+"aboutHtml": "<p>বাংলাদেশ ইনস্টিটিউট অব ব্যাংক ম্যানেজমেন্ট বা BIBM বাংলাদেশের ব্যাংকিং ও পেশাগত প্রশিক্ষণ খাতের একটি পরিচিত প্রতিষ্ঠান। প্রদত্ত তথ্য অনুযায়ী প্রতিষ্ঠানটি ১৯৭৪ সালে প্রতিষ্ঠিত এবং এর প্রধান কার্যালয় মিরপুর, ঢাকায়।</p>"
+},
+"summaryTable": [
+{
+"label": "প্রতিষ্ঠানের নাম",
+"value": "বাংলাদেশ ইনস্টিটিউট অব ব্যাংক ম্যানেজমেন্ট (BIBM)",
+"isLink": false,
+"url": ""
+},
+{
+"label": "মোট পদ",
+"value": "৭টি ক্যাটাগরি",
+"isLink": false,
+"url": ""
+},
+{
+"label": "মোট শূন্যপদ",
+"value": "৮ জন",
+"isLink": false,
+"url": ""
+},
+{
+"label": "কর্মস্থল",
+"value": "ঢাকা (মিরপুর)",
+"isLink": false,
+"url": ""
+},
+{
+"label": "শিক্ষাগত যোগ্যতা",
+"value": "HSC / স্নাতক / কামিল বা সমমান",
+"isLink": false,
+"url": ""
+},
+{
+"label": "বেতন",
+"value": "১২,৩৬০–৩১,৩২০ টাকা এবং ২২,০০০ টাকা সর্বসাকুল্যে, পদভেদে",
+"isLink": false,
+"url": ""
+},
+{
+"label": "প্রকাশের তারিখ",
+"value": "২৩ আগস্ট ২০২৬",
+"isLink": false,
+"url": ""
+},
+{
+"label": "আবেদনের শেষ তারিখ",
+"value": "২৩ সেপ্টেম্বর ২০২৬",
+"isLink": false,
+"url": ""
+},
+{
+"label": "আবেদন পদ্ধতি",
+"value": "ডাকযোগে / সরাসরি",
+"isLink": false,
+"url": ""
+}
+],
+"positions": [
+{
+"serial": 1,
+"nameBn": "জুনিয়র অফিসার (সাধারণ)",
+"nameEn": "Junior Officer (General)",
+"vacancies": 1,
+"grade": "",
+"gradeNumber": 0,
+"payScale": "১৪,৮২০–৩১,৩২০ টাকা",
+"basicPay": 14820,
+"educationBn": "যেকোনো স্বীকৃত বিশ্ববিদ্যালয় হতে স্নাতক অথবা সমমান ডিগ্রি।",
+"educationEn": "Bachelor’s degree or equivalent from any recognized university.",
+"skillsBn": "MS Office Program (Word, Excel, PowerPoint, Internet, e-mail) সম্পর্কে জ্ঞান ও ব্যবহার দক্ষতা। সংশ্লিষ্ট ক্ষেত্রে ১–২ বছরের অভিজ্ঞতা অতিরিক্ত যোগ্যতা হিসেবে গণ্য হবে।",
+"feeTier": "",
+"competitionNote": "স্নাতক প্রার্থীদের পাশাপাশি প্রাসঙ্গিক অভিজ্ঞতা ও MS Office দক্ষতা থাকা প্রার্থীরা উপযোগী।"
+},
+{
+"serial": 2,
+"nameBn": "জুনিয়র অফিসার (IT/ICT)",
+"nameEn": "Junior Officer (IT/ICT)",
+"vacancies": 2,
+"grade": "",
+"gradeNumber": 0,
+"payScale": "১৪,৮২০–৩১,৩২০ টাকা",
+"basicPay": 14820,
+"educationBn": "যেকোনো স্বীকৃত বিশ্ববিদ্যালয় হতে স্নাতক অথবা সমমান ডিগ্রি। Operating System, MS Word ও MS Excel ব্যবহারে ৩ বছরের চাকরির অভিজ্ঞতা থাকতে হবে। হার্ডওয়্যার রক্ষণাবেক্ষণ অভিজ্ঞতাকে অগ্রাধিকার দেওয়া হবে।",
+"educationEn": "Bachelor’s degree or equivalent with 3 years of experience using Operating Systems, MS Word and MS Excel.",
+"skillsBn": "কম্পিউটার ও তথ্যপ্রযুক্তি সংক্রান্ত কারিগরি দক্ষতা।",
+"feeTier": "",
+"competitionNote": "৮টি মোট শূন্যপদের মধ্যে এই পদে ২টি শূন্যপদ থাকায় এটি সর্বাধিক শূন্যপদের পদ।"
+},
+{
+"serial": 3,
+"nameBn": "জুনিয়র অফিসার (গ্রাফিক্স ডিজাইনার)",
+"nameEn": "Junior Officer (Graphics Designer)",
+"vacancies": 1,
+"grade": "",
+"gradeNumber": 0,
+"payScale": "১৪,৮২০–৩১,৩২০ টাকা",
+"basicPay": 14820,
+"educationBn": "যেকোনো স্বীকৃত বিশ্ববিদ্যালয় হতে স্নাতক অথবা সমমান ডিগ্রি। গ্রাফিক্স ডিজাইন ও এডিটিং বিষয়ে প্রশিক্ষণপ্রাপ্ত/সনদধারী হতে হবে।",
+"educationEn": "Bachelor’s degree or equivalent, with training or certification in graphics design and editing.",
+"skillsBn": "Photoshop ও Illustratorসহ গ্রাফিক্স ডিজাইন এবং এডিটিং সফটওয়্যার ব্যবহারের অভিজ্ঞতা।",
+"feeTier": "",
+"competitionNote": "ডিজাইন সফটওয়্যারে বাস্তব দক্ষতা ও স্বীকৃত প্রশিক্ষণ সনদ থাকা গুরুত্বপূর্ণ।"
+},
+{
+"serial": 4,
+"nameBn": "জুনিয়র অফিসার (সিস্টেম সাপোর্ট)",
+"nameEn": "Junior Officer (System Support)",
+"vacancies": 1,
+"grade": "",
+"gradeNumber": 0,
+"payScale": "১৪,৮২০–৩১,৩২০ টাকা",
+"basicPay": 14820,
+"educationBn": "যেকোনো স্বীকৃত বিশ্ববিদ্যালয় হতে স্নাতক অথবা সমমান ডিগ্রি। Computer Hardware, Software ও Network Installation, Configuration and Repairing কাজে ২ বছরের অভিজ্ঞতা এবং সংশ্লিষ্ট বিষয়ে কমপক্ষে ১ বছরের কোর্সের সনদ থাকতে হবে।",
+"educationEn": "Bachelor’s degree or equivalent with 2 years of hardware, software and network installation, configuration and repairing experience.",
+"skillsBn": "Electrical/Electronics/Computer Engineering/Hardware Engineering, Maintenance ও Troubleshooting বিষয়ে কমপক্ষে ১ বছরের কোর্স ও সনদ।",
+"feeTier": "",
+"competitionNote": "হার্ডওয়্যার, সফটওয়্যার ও নেটওয়ার্ক সাপোর্টে প্রমাণযোগ্য অভিজ্ঞতা প্রয়োজন।"
+},
+{
+"serial": 5,
+"nameBn": "জুনিয়র অফিসার (প্রুফ রিডার)",
+"nameEn": "Junior Officer (Proof Reader)",
+"vacancies": 1,
+"grade": "",
+"gradeNumber": 0,
+"payScale": "১৪,৮২০–৩১,৩২০ টাকা",
+"basicPay": 14820,
+"educationBn": "যেকোনো বিশ্ববিদ্যালয় হতে সাহিত্যে স্নাতক। প্রুফ রিডার হিসেবে ২ বছরের অভিজ্ঞতা থাকতে হবে।",
+"educationEn": "Bachelor’s degree in Literature with 2 years of experience as a proofreader.",
+"skillsBn": "MS Office Program (Word, Excel) সম্পর্কে জ্ঞান ও ব্যবহারের সক্ষমতা।",
+"feeTier": "",
+"competitionNote": "সাহিত্যে স্নাতক ডিগ্রির সঙ্গে প্রুফরিডিংয়ের বাস্তব অভিজ্ঞতা অপরিহার্য।"
+},
+{
+"serial": 6,
+"nameBn": "সিনিয়র অ্যাসিস্ট্যান্ট (অডিও ভিজুয়াল টুলস অপারেটর)",
+"nameEn": "Senior Assistant (Audio Visual Tools Operator)",
+"vacancies": 1,
+"grade": "",
+"gradeNumber": 0,
+"payScale": "১২,৩৬০–২৩,৯৬০ টাকা",
+"basicPay": 12360,
+"educationBn": "এইচএসসি অথবা সমমান। অডিও ভিজুয়াল টুলস অপারেটর হিসেবে ৫ বছরের বাস্তব কাজের অভিজ্ঞতা থাকতে হবে।",
+"educationEn": "HSC or equivalent with 5 years of practical experience as an audio-visual tools operator.",
+"skillsBn": "অডিও ভিজুয়াল ইকুইপমেন্ট ও সাউন্ড সিস্টেম পরিচালনার দক্ষতা।",
+"feeTier": "",
+"competitionNote": "HSC যোগ্যতার পাশাপাশি ৫ বছরের নির্দিষ্ট বাস্তব অভিজ্ঞতা প্রয়োজন।"
+},
+{
+"serial": 7,
+"nameBn": "ইমাম (চুক্তিভিত্তিক)",
+"nameEn": "Imam (Contractual)",
+"vacancies": 1,
+"grade": "",
+"gradeNumber": 0,
+"payScale": "২২,০০০ টাকা সর্বসাকুল্যে",
+"basicPay": 22000,
+"educationBn": "দ্বিতীয় শ্রেণীতে কামিল ডিগ্রি/দাওরায়ে হাদিস পাস।",
+"educationEn": "Second Class Kamil degree or Dawra-e-Hadith pass.",
+"skillsBn": "কুরআনে হিফজ বিশেষ যোগ্যতা হিসেবে এবং জামে মসজিদে খতিব হিসেবে অভিজ্ঞতা বিশেষ যোগ্যতা হিসেবে বিবেচিত হবে। ইসলামি শরিয়াহ অনুযায়ী নামাজ পরিচালনা ও ধর্মীয় কার্যাবলী পরিচালনার যোগ্যতা থাকতে হবে।",
+"feeTier": "",
+"competitionNote": "ধর্মীয় শিক্ষা ও ইমামতি/খতিবের প্রাসঙ্গিক অভিজ্ঞতা থাকা প্রার্থীদের জন্য উপযোগী।"
+}
+],
+"eligibilityMatcher": {
+"headingBn": "আপনার যোগ্যতা অনুযায়ী কোন পদে আবেদন করতে পারবেন?",
+"headingEn": "Which post can you apply for?",
+"introHtml": "<p>আপনার শিক্ষাগত যোগ্যতার পাশাপাশি প্রতিটি পদের নির্দিষ্ট অভিজ্ঞতা ও দক্ষতার শর্ত মিলিয়ে আবেদন করতে হবে।</p>",
+"rows": [
+{
+"yourQualification": "স্নাতক বা সমমান",
+"eligiblePosts": [
+"জুনিয়র অফিসার (সাধারণ)",
+"জুনিয়র অফিসার (IT/ICT)",
+"জুনিয়র অফিসার (গ্রাফিক্স ডিজাইনার)",
+"জুনিয়র অফিসার (সিস্টেম সাপোর্ট)",
+"জুনিয়র অফিসার (প্রুফ রিডার)"
+],
+"totalVacancies": 6,
+"fee": ""
+},
+{
+"yourQualification": "এইচএসসি বা সমমান",
+"eligiblePosts": [
+"সিনিয়র অ্যাসিস্ট্যান্ট (অডিও ভিজুয়াল টুলস অপারেটর)"
+],
+"totalVacancies": 1,
+"fee": ""
+},
+{
+"yourQualification": "দ্বিতীয় শ্রেণীর কামিল / দাওরায়ে হাদিস",
+"eligiblePosts": [
+"ইমাম (চুক্তিভিত্তিক)"
+],
+"totalVacancies": 1,
+"fee": ""
+}
+],
+"noteHtml": "<p>শুধু শিক্ষাগত যোগ্যতা থাকলেই সব পদে আবেদন করা যাবে না। IT/ICT, System Support, Proof Reader, Audio Visual এবং Graphics Designer পদে নির্দিষ্ট অভিজ্ঞতা বা দক্ষতার শর্তও রয়েছে।</p>"
+},
+"salaryBreakdown": {
+"headingBn": "হাতে কত টাকা পাবেন? — আনুমানিক মাসিক বেতন হিসাব",
+"headingEn": "Estimated monthly gross salary",
+"introHtml": "<p>প্রদত্ত সার্কুলার তথ্য অনুযায়ী বেতন স্কেল/সর্বসাকুল্য বেতন উল্লেখ আছে, কিন্তু বাড়িভাড়া ও চিকিৎসা ভাতার নির্দিষ্ট হার সব পদের জন্য দেওয়া হয়নি। তাই নির্ভরযোগ্যভাবে আনুমানিক গ্রস হিসাব করা হয়নি।</p>",
+"headers": [
+"পদ ও গ্রেড",
+"শুরুর মূল বেতন",
+"বাড়িভাড়া ভাতা (আনুমানিক)",
+"চিকিৎসা ভাতা",
+"আনুমানিক মোট (গ্রস)"
+],
+"rows": [
+[
+"জুনিয়র অফিসার (সাধারণ)",
+"১৪,৮২০ টাকা",
+"উল্লেখ নেই",
+"উল্লেখ নেই",
+"নির্ভরযোগ্যভাবে হিসাব করা যায়নি"
+],
+[
+"জুনিয়র অফিসার (IT/ICT)",
+"১৪,৮২০ টাকা",
+"উল্লেখ নেই",
+"উল্লেখ নেই",
+"নির্ভরযোগ্যভাবে হিসাব করা যায়নি"
+],
+[
+"জুনিয়র অফিসার (গ্রাফিক্স ডিজাইনার)",
+"১৪,৮২০ টাকা",
+"উল্লেখ নেই",
+"উল্লেখ নেই",
+"নির্ভরযোগ্যভাবে হিসাব করা যায়নি"
+],
+[
+"জুনিয়র অফিসার (সিস্টেম সাপোর্ট)",
+"১৪,৮২০ টাকা",
+"উল্লেখ নেই",
+"উল্লেখ নেই",
+"নির্ভরযোগ্যভাবে হিসাব করা যায়নি"
+],
+[
+"জুনিয়র অফিসার (প্রুফ রিডার)",
+"১৪,৮২০ টাকা",
+"উল্লেখ নেই",
+"উল্লেখ নেই",
+"নির্ভরযোগ্যভাবে হিসাব করা যায়নি"
+],
+[
+"সিনিয়র অ্যাসিস্ট্যান্ট (অডিও ভিজুয়াল টুলস অপারেটর)",
+"১২,৩৬০ টাকা",
+"উল্লেখ নেই",
+"উল্লেখ নেই",
+"নির্ভরযোগ্যভাবে হিসাব করা যায়নি"
+],
+[
+"ইমাম (চুক্তিভিত্তিক)",
+"২২,০০০ টাকা সর্বসাকুল্যে",
+"প্রযোজ্য নয়",
+"প্রযোজ্য নয়",
+"২২,০০০ টাকা সর্বসাকুল্যে"
+]
+],
+"disclaimerHtml": "<p><strong>⚠ এটি আনুমানিক হিসাব।</strong> প্রদত্ত তথ্যের মধ্যে বাড়িভাড়া ও চিকিৎসা ভাতার নির্দিষ্ট হার না থাকায় অধিকাংশ পদের আনুমানিক মোট বেতন নির্ভরযোগ্যভাবে নির্ণয় করা হয়নি। চূড়ান্ত বেতন নিয়োগপত্র ও প্রতিষ্ঠানের নীতিমালা অনুযায়ী নির্ধারিত হবে।</p>",
+"extraBenefitsBn": [
+"প্রতিষ্ঠানের নীতিমালা অনুযায়ী অন্যান্য সুযোগ-সুবিধা",
+"পদভেদে প্রযোজ্য অন্যান্য সুবিধা"
+]
+},
+"ageEligibility": {
+"headingBn": "বয়সসীমা — এবং আপনার জন্ম তারিখ কোন সীমার মধ্যে থাকতে হবে",
+"asOnDateBn": "২৩ সেপ্টেম্বর ২০২৬",
+"minAge": 18,
+"maxAge": 32,
+"quotaSameAsGeneral": true,
+"bornBetweenBn": "",
+"bodyHtml": "<p>প্রদত্ত সারাংশে বয়সসীমা নিয়ে অসঙ্গতি রয়েছে। এক জায়গায় ১৮ থেকে ৩০/৩২ বছর এবং অন্য জায়গায় ২৩ সেপ্টেম্বর ২০২৬ তারিখে সর্বোচ্চ ৩২ বছর ও কিছু পদের জন্য ২৫–৩৫ বছরের উল্লেখ আছে। তাই আবেদন করার আগে সংশ্লিষ্ট পদের মূল বিজ্ঞপ্তিতে বয়সের শর্ত মিলিয়ে নিন।</p>",
+"calculatorLink": {
+"text": "Age Calculator BD",
+"url": "/age-calculator/"
+}
+},
+"districtEligibility": {
+"headingBn": "কোন কোন জেলার প্রার্থীরা আবেদন করতে পারবেন?",
+"eligibleOnly": true,
+"districts": [
+"বাংলাদেশের সকল জেলা"
+],
+"bodyHtml": "<p>প্রদত্ত তথ্য অনুযায়ী বাংলাদেশের সকল জেলার যোগ্য ও আগ্রহী প্রার্থীরা শর্তসাপেক্ষে আবেদন করতে পারবেন। কর্মস্থল ঢাকা (মিরপুর)। কোনো জেলার বাসিন্দা হওয়া এবং বর্তমানে সেই জেলায় বসবাস করা একই বিষয় নয়; বিজ্ঞপ্তিতে স্থায়ী বাসিন্দার আলাদা শর্ত থাকলে সেটিই অনুসরণ করতে হবে।</p>"
+},
+"introContent": "<p>বাংলাদেশ ইনস্টিটিউট অব ব্যাংক ম্যানেজমেন্ট (BIBM) ৭টি ক্যাটাগরিতে মোট ৮ জন জনবল নিয়োগ দেবে। স্নাতক, এইচএসসি এবং কামিল/দাওরায়ে হাদিস যোগ্যতার প্রার্থীরা পদভেদে আবেদন করতে পারবেন। আবেদনের শেষ তারিখ ২৩ সেপ্টেম্বর ২০২৬। প্রদত্ত সার্কুলার অনুযায়ী আবেদন ডাকযোগে বা সরাসরি করার কথা বলা হয়েছে; তাই আবেদন করার আগে মূল বিজ্ঞপ্তির নির্দেশনা মিলিয়ে নেওয়া জরুরি।</p>",
+"englishSummary": {
+"headingEn": "BIBM Job Circular 2026 — English Summary",
+"bodyHtml": "<p>Bangladesh Institute of Bank Management has announced recruitment for 8 vacancies under 7 categories. Eligible candidates include graduates, HSC-qualified applicants, and candidates with Kamil or Dawra-e-Hadith qualifications, depending on the position.</p><p>The job location is Mirpur, Dhaka, and the application deadline is 23 September 2026. Positions include Junior Officer roles in General, IT/ICT, Graphics Design, System Support and Proof Reading, Senior Assistant for Audio Visual Tools Operation, and Contractual Imam.</p><p>Applicants should carefully match their education, relevant experience, technical skills and age requirements with the selected position before submitting the prescribed application.</p>"
+},
+"bestFitFor": {
+"headingBn": "কাদের জন্য এই নিয়োগটি সেরা সুযোগ?",
+"items": [
+{
+"who": "স্নাতক ও সমমান ডিগ্রিধারী প্রার্থী",
+"why": "সাধারণ, IT/ICT, Graphics Designer, System Support এবং Proof Reader পদে স্নাতক যোগ্যতা প্রয়োজন।"
+},
+{
+"who": "IT ও কম্পিউটার অভিজ্ঞ প্রার্থী",
+"why": "IT/ICT এবং System Support পদে নির্দিষ্ট কম্পিউটার, হার্ডওয়্যার, সফটওয়্যার ও নেটওয়ার্ক অভিজ্ঞতার সুযোগ রয়েছে।"
+},
+{
+"who": "গ্রাফিক্স ডিজাইনার",
+"why": "Photoshop, Illustrator এবং গ্রাফিক্স এডিটিংয়ের অভিজ্ঞতা ও প্রশিক্ষণ থাকলে Graphics Designer পদটি উপযোগী।"
+},
+{
+"who": "প্রুফরিডিং অভিজ্ঞ প্রার্থী",
+"why": "সাহিত্যে স্নাতক এবং ২ বছরের Proof Reader অভিজ্ঞতা থাকলে সংশ্লিষ্ট পদে আবেদন করা যায়।"
+},
+{
+"who": "HSC যোগ্যতাসম্পন্ন Audio Visual পেশাজীবী",
+"why": "Audio Visual Tools Operator পদে HSC ও ৫ বছরের বাস্তব অভিজ্ঞতা প্রয়োজন।"
+},
+{
+"who": "কামিল/দাওরায়ে হাদিস প্রার্থী",
+"why": "ইমাম পদে দ্বিতীয় শ্রেণীর কামিল বা দাওরায়ে হাদিস যোগ্যতা প্রয়োজন।"
+}
+]
+},
+"applicationSteps": [
+{
+"step": 1,
+"titleBn": "অফিশিয়াল বিজ্ঞপ্তি যাচাই করুন",
+"detailBn": "BIBM-এর অফিসিয়াল ওয়েবসাইট থেকে নির্ধারিত নিয়োগ বিজ্ঞপ্তি ও আবেদন ফরমের নির্দেশনা যাচাই করুন।"
+},
+{
+"step": 2,
+"titleBn": "পদ ও যোগ্যতা মিলিয়ে নিন",
+"detailBn": "আপনার শিক্ষাগত যোগ্যতা, বয়স, অভিজ্ঞতা ও প্রয়োজনীয় দক্ষতার সঙ্গে নির্বাচিত পদের শর্ত মিলিয়ে নিন।"
+},
+{
+"step": 3,
+"titleBn": "আবেদনপত্র প্রস্তুত করুন",
+"detailBn": "নির্ধারিত আবেদন ফরমে ব্যক্তিগত তথ্য, শিক্ষাগত যোগ্যতা ও অভিজ্ঞতার তথ্য সঠিকভাবে পূরণ করুন।"
+},
+{
+"step": 4,
+"titleBn": "প্রয়োজনীয় কাগজপত্র সংযুক্ত করুন",
+"detailBn": "শিক্ষাগত সনদ, অভিজ্ঞতার প্রমাণপত্র, ছবি ও বিজ্ঞপ্তিতে চাওয়া অন্যান্য কাগজপত্র প্রস্তুত করুন।"
+},
+{
+"step": 5,
+"titleBn": "আবেদন জমা দিন",
+"detailBn": "প্রদত্ত তথ্য অনুযায়ী ডাকযোগে অথবা সরাসরি আবেদন জমা দিতে হবে। মূল বিজ্ঞপ্তিতে নির্ধারিত পদ্ধতিই চূড়ান্ত হিসেবে অনুসরণ করুন।"
+},
+{
+"step": 6,
+"titleBn": "শেষ তারিখের আগে আবেদন পৌঁছান",
+"detailBn": "আবেদন ২৩ সেপ্টেম্বর ২০২৬-এর মধ্যে নির্ধারিত কর্তৃপক্ষের কাছে পৌঁছাতে হবে।"
+}
+],
+"photoSpec": {
+"dimensions": "",
+"maxSize": "",
+"format": "JPG",
+"noteBn": "প্রদত্ত তথ্য অনুযায়ী সদ্য তোলা স্পষ্ট ছবি প্রয়োজন; নির্দিষ্ট মাপ বা ফাইল সাইজ উল্লেখ নেই।"
+},
+"signatureSpec": {
+"dimensions": "",
+"maxSize": "",
+"format": "JPG",
+"noteBn": "স্বাক্ষরের নির্দিষ্ট মাপ বা ফাইল সাইজ প্রদত্ত তথ্যের মধ্যে উল্লেখ নেই।"
+},
+"applicationFee": {
+"headingBn": "আবেদন ফি — পদ অনুযায়ী ব্রেকডাউন",
+"headers": [
+"পদ",
+"মূল ফি",
+"সার্ভিস চার্জ",
+"মোট"
+],
+"rows": [
+[
+"জুনিয়র অফিসার (সাধারণ)",
+"উল্লেখ নেই",
+"উল্লেখ নেই",
+"উল্লেখ নেই"
+],
+[
+"জুনিয়র অফিসার (IT/ICT)",
+"উল্লেখ নেই",
+"উল্লেখ নেই",
+"উল্লেখ নেই"
+],
+[
+"জুনিয়র অফিসার (গ্রাফিক্স ডিজাইনার)",
+"উল্লেখ নেই",
+"উল্লেখ নেই",
+"উল্লেখ নেই"
+],
+[
+"জুনিয়র অফিসার (সিস্টেম সাপোর্ট)",
+"উল্লেখ নেই",
+"উল্লেখ নেই",
+"উল্লেখ নেই"
+],
+[
+"জুনিয়র অফিসার (প্রুফ রিডার)",
+"উল্লেখ নেই",
+"উল্লেখ নেই",
+"উল্লেখ নেই"
+],
+[
+"সিনিয়র অ্যাসিস্ট্যান্ট (অডিও ভিজুয়াল টুলস অপারেটর)",
+"উল্লেখ নেই",
+"উল্লেখ নেই",
+"উল্লেখ নেই"
+],
+[
+"ইমাম (চুক্তিভিত্তিক)",
+"উল্লেখ নেই",
+"উল্লেখ নেই",
+"উল্লেখ নেই"
+]
+],
+"smsPayment": {
+"shortCode": "",
+"prefix": "",
+"step1Format": "",
+"step1Example": "",
+"step2Format": "",
+"step2Example": "",
+"noteBn": "প্রদত্ত সার্কুলার তথ্যে SMS পেমেন্ট পদ্ধতি বা নির্দিষ্ট আবেদন ফি উল্লেখ নেই।"
+}
+},
+"rejectionRisks": {
+"headingBn": "যে ভুলগুলোতে আবেদন বাতিল হয়",
+"introHtml": "<p>আবেদন জমা দেওয়ার আগে পদের যোগ্যতা ও কাগজপত্র ভালোভাবে মিলিয়ে দেখা জরুরি।</p>",
+"items": [
+"শিক্ষাগত যোগ্যতা সংশ্লিষ্ট পদের শর্তের সঙ্গে না মেলা।",
+"প্রয়োজনীয় অভিজ্ঞতার প্রমাণপত্র না থাকা।",
+"অসম্পূর্ণ বা ভুল তথ্যসহ আবেদনপত্র জমা দেওয়া।",
+"প্রয়োজনীয় সনদপত্র বা অন্যান্য কাগজপত্র সংযুক্ত না করা।",
+"বয়সসীমার শর্ত পূরণ না করা।",
+"Graphics, IT, System Support বা Audio Visual পদের ক্ষেত্রে প্রয়োজনীয় দক্ষতা/প্রশিক্ষণের প্রমাণ না থাকা।",
+"নির্ধারিত সময়ের পরে আবেদন পৌঁছানো।",
+"বিজ্ঞপ্তিতে নির্ধারিত আবেদন পদ্ধতি অনুসরণ না করা।"
+]
+},
+"timeline": {
+"headingBn": "নিয়োগ প্রক্রিয়ার ধাপ ও সময়সূচি",
+"steps": [
+{
+"event": "নিয়োগ বিজ্ঞপ্তি প্রকাশ",
+"date": "২৩ আগস্ট ২০২৬",
+"state": "done"
+},
+{
+"event": "আবেদন শুরু",
+"date": "২৩ আগস্ট ২০২৬",
+"state": "done"
+},
+{
+"event": "আবেদনের শেষ তারিখ",
+"date": "২৩ সেপ্টেম্বর ২০২৬",
+"state": "upcoming"
+},
+{
+"event": "প্রাথমিক বাছাই/শর্টলিস্ট",
+"date": "এখনো ঘোষণা হয়নি",
+"state": "tba"
+},
+{
+"event": "লিখিত পরীক্ষা বা ইন্টারভিউ",
+"date": "এখনো ঘোষণা হয়নি",
+"state": "tba"
+}
+],
+"admitCardHtml": "<p>লিখিত পরীক্ষা বা ইন্টারভিউয়ের সময় ও স্থান সম্পর্কে যোগ্য প্রার্থীদের মোবাইল SMS অথবা ই-মেইলের মাধ্যমে জানানো হতে পারে।</p>"
+},
+"preparation": {
+"headingBn": "প্রস্তুতি ও এক্সপার্ট টিপস",
+"items": [
+{
+"titleBn": "পদের শর্ত আগে মিলিয়ে নিন",
+"detailBn": "শিক্ষাগত যোগ্যতার পাশাপাশি অভিজ্ঞতা, প্রশিক্ষণ ও প্রযুক্তিগত দক্ষতার শর্তগুলো যাচাই করুন।"
+},
+{
+"titleBn": "অভিজ্ঞতার প্রমাণ প্রস্তুত রাখুন",
+"detailBn": "যেসব পদে অভিজ্ঞতা বাধ্যতামূলক, সেসব পদের জন্য সংশ্লিষ্ট অভিজ্ঞতার প্রমাণপত্র প্রস্তুত রাখুন।"
+},
+{
+"titleBn": "কম্পিউটার দক্ষতা ঝালিয়ে নিন",
+"detailBn": "IT/ICT, System Support এবং সাধারণ অফিসভিত্তিক কাজের জন্য MS Word, Excel ও অন্যান্য প্রয়োজনীয় সফটওয়্যার ব্যবহারের দক্ষতা প্রস্তুত রাখুন।"
+},
+{
+"titleBn": "আবেদন শেষ মুহূর্তে করবেন না",
+"detailBn": "ডাকযোগে আবেদন করলে নির্ধারিত সময়ের মধ্যে আবেদন পৌঁছানোর জন্য আগেই প্রস্তুতি সম্পন্ন করুন।"
+}
+]
+},
+"vivaDocuments": {
+"headingBn": "মৌখিক পরীক্ষায় যে কাগজপত্র লাগবে",
+"items": [
+"আপডেটেড CV বা জীবনবৃত্তান্ত",
+"সকল শিক্ষাগত যোগ্যতার সনদপত্র",
+"শিক্ষাগত যোগ্যতার প্রয়োজনীয় মার্কশিট/একাডেমিক নথি",
+"জাতীয় পরিচয়পত্রের কপি",
+"প্রাসঙ্গিক অভিজ্ঞতার সনদপত্র",
+"প্রয়োজনীয় প্রশিক্ষণ বা কারিগরি সনদপত্র",
+"প্রাসঙ্গিক ছবি",
+"মূল কাগজপত্র যাচাইয়ের জন্য সঙ্গে রাখা"
+]
+},
+"faqs": [
+{
+"question": "BIBM Job Circular 2026-এ কতজন নিয়োগ দেওয়া হবে?",
+"answer": "বাংলাদেশ ইনস্টিটিউট অব ব্যাংক ম্যানেজমেন্টের ২০২৬ সালের নিয়োগে ৭টি ক্যাটাগরিতে মোট ৮ জন জনবল নিয়োগ দেওয়া হবে। এর মধ্যে Junior Officer (IT/ICT) পদে ২টি এবং অন্যান্য ৬টি পদে ১টি করে শূন্যপদ রয়েছে।"
+},
+{
+"question": "BIBM নিয়োগ ২০২৬-এর আবেদনের শেষ তারিখ কবে?",
+"answer": "BIBM Job Circular 2026-এর আবেদনের শেষ তারিখ ২৩ সেপ্টেম্বর ২০২৬। আবেদনকারীদের নির্ধারিত পদ্ধতিতে আবেদনপত্র সময়ের মধ্যে জমা বা পৌঁছানোর বিষয়টি নিশ্চিত করতে হবে।"
+},
+{
+"question": "BIBM চাকরিতে কোন শিক্ষাগত যোগ্যতা প্রয়োজন?",
+"answer": "পদভেদে শিক্ষাগত যোগ্যতা আলাদা। কয়েকটি Junior Officer পদে স্নাতক বা সমমান ডিগ্রি, Audio Visual Tools Operator পদে HSC বা সমমান এবং Imam পদে দ্বিতীয় শ্রেণীর Kamil বা Dawra-e-Hadith প্রয়োজন।"
+},
+{
+"question": "BIBM-এ HSC পাসে কোন পদে আবেদন করা যাবে?",
+"answer": "HSC বা সমমান যোগ্যতায় Senior Assistant (Audio Visual Tools Operator) পদে আবেদন করার সুযোগ রয়েছে। তবে এই পদের জন্য Audio Visual Tools Operator হিসেবে ৫ বছরের বাস্তব কাজের অভিজ্ঞতাও প্রয়োজন।"
+},
+{
+"question": "BIBM IT/ICT পদে কী অভিজ্ঞতা দরকার?",
+"answer": "Junior Officer (IT/ICT) পদে স্নাতক বা সমমান ডিগ্রির পাশাপাশি Operating System, MS Word ও MS Excel ব্যবহারে ৩ বছরের চাকরির অভিজ্ঞতা প্রয়োজন। হার্ডওয়্যার রক্ষণাবেক্ষণের অভিজ্ঞতাকে অগ্রাধিকার দেওয়া হবে।"
+},
+{
+"question": "BIBM Graphics Designer পদে কী যোগ্যতা প্রয়োজন?",
+"answer": "Graphics Designer পদের জন্য স্নাতক বা সমমান ডিগ্রি, গ্রাফিক্স ডিজাইন ও এডিটিং বিষয়ে প্রশিক্ষণ বা সনদ এবং Photoshop ও Illustrator-এর মতো সফটওয়্যারে কাজের অভিজ্ঞতা প্রয়োজন।"
+},
+{
+"question": "BIBM System Support পদে কী যোগ্যতা লাগবে?",
+"answer": "System Support পদের জন্য স্নাতক বা সমমান ডিগ্রি, Computer Hardware, Software ও Network Installation, Configuration and Repairing কাজে ২ বছরের অভিজ্ঞতা এবং সংশ্লিষ্ট বিষয়ে কমপক্ষে ১ বছরের কোর্সের সনদ প্রয়োজন।"
+},
+{
+"question": "BIBM Proof Reader পদে কারা আবেদন করতে পারবেন?",
+"answer": "সংশ্লিষ্ট পদে যেকোনো বিশ্ববিদ্যালয় থেকে সাহিত্যে স্নাতক ডিগ্রি এবং Proof Reader হিসেবে ২ বছরের অভিজ্ঞতা প্রয়োজন। পাশাপাশি MS Word ও Excel ব্যবহারের সক্ষমতাও থাকতে হবে।"
+},
+{
+"question": "BIBM Imam পদে কী যোগ্যতা প্রয়োজন?",
+"answer": "Imam পদে দ্বিতীয় শ্রেণীতে Kamil ডিগ্রি বা Dawra-e-Hadith পাস প্রয়োজন। কুরআনে Hifz এবং জামে মসজিদে Khatib হিসেবে দায়িত্ব পালনের অভিজ্ঞতা বিশেষ যোগ্যতা হিসেবে বিবেচিত হবে।"
+},
+{
+"question": "BIBM Job Circular 2026-এর কর্মস্থল কোথায়?",
+"answer": "নিয়োগপ্রাপ্তদের কর্মস্থল ঢাকা জেলার মিরপুরে অবস্থিত বাংলাদেশ ইনস্টিটিউট অব ব্যাংক ম্যানেজমেন্টে হবে। প্রধান কার্যালয়ের ঠিকানা প্লট-৪, মেইন রোড-১ (দক্ষিণ), সেকশন নং ২, মিরপুর, ঢাকা-১২১৬।"
+},
+{
+"question": "How to apply for BIBM Job Circular 2026?",
+"answer": "প্রদত্ত তথ্য অনুযায়ী আবেদন ডাকযোগে বা সরাসরি করা হবে। একই সঙ্গে অনলাইন আবেদনের বিষয়ে অসঙ্গত তথ্য রয়েছে। তাই আবেদন করার আগে BIBM-এর অফিসিয়াল ওয়েবসাইট ও মূল নিয়োগ বিজ্ঞপ্তিতে নির্ধারিত আবেদন পদ্ধতি যাচাই করা উচিত।"
+}
+],
+"internalLinks": [
+{
+"anchor": "Age Calculator BD",
+"url": "/age-calculator/"
+},
+{
+"anchor": "ব্যাংক চাকরির খবর",
+"url": "/category/bank-job/"
+},
+{
+"anchor": "প্রাইভেট জব সার্কুলার",
+"url": "/category/private-job/"
+}
+],
+"relatedCirculars": [],
+"closingContent": "<p>বাংলাদেশ ইনস্টিটিউট অব ব্যাংক ম্যানেজমেন্টের ২০২৬ সালের এই নিয়োগে বিভিন্ন শিক্ষাগত ও পেশাগত ব্যাকগ্রাউন্ডের প্রার্থীদের জন্য সুযোগ রয়েছে। আবেদন করার আগে আপনার পছন্দের পদের শিক্ষাগত যোগ্যতা, অভিজ্ঞতা, বয়স ও প্রয়োজনীয় কাগজপত্র ভালোভাবে মিলিয়ে নিন।</p><p>আবেদনের শেষ তারিখ <strong>২৩ সেপ্টেম্বর ২০২৬</strong>। বয়স ও আবেদন পদ্ধতি নিয়ে প্রদত্ত তথ্যে কিছু অসঙ্গতি থাকায় চূড়ান্তভাবে মূল BIBM নিয়োগ বিজ্ঞপ্তির নির্দেশনাই অনুসরণ করুন।</p>",
+"tableOfContents": [
+"এক নজরে BIBM নিয়োগ ২০২৬",
+"প্রতিষ্ঠানের পরিচিতি",
+"পদভিত্তিক যোগ্যতা ও শূন্যপদ",
+"আপনার যোগ্যতা অনুযায়ী কোন পদে আবেদন করতে পারবেন",
+"বেতন ও সুযোগ-সুবিধা",
+"বয়সসীমা",
+"কোন জেলার প্রার্থীরা আবেদন করতে পারবেন",
+"আবেদন করার নিয়ম",
+"আবেদন ফি",
+"যে ভুলগুলোতে আবেদন বাতিল হতে পারে",
+"নিয়োগ প্রক্রিয়া ও সময়সূচি",
+"প্রস্তুতি ও টিপস",
+"মৌখিক পরীক্ষার কাগজপত্র",
+"সাধারণ জিজ্ঞাসা"
+],
+"schema": {
+"generateJobPostingPerPosition": true,
+"jobPostingDefaults": {
+"datePosted": "2026-08-23T00:00:00+06:00",
+"validThrough": "2026-09-23T23:59:59+06:00",
+"employmentType": "FULL_TIME",
+"hiringOrganization": {
+"@type": "GovernmentOrganization",
+"name": "বাংলাদেশ ইনস্টিটিউট অব ব্যাংক ম্যানেজমেন্ট",
+"sameAs": "BIBM অফিসিয়াল ওয়েবসাইট"
+},
+"jobLocation": {
+"@type": "Place",
+"address": {
+"@type": "PostalAddress",
+"streetAddress": "প্লট-৪, মেইন রোড-১ (দক্ষিণ), সেকশন নং ২",
+"addressLocality": "মিরপুর, ঢাকা",
+"addressRegion": "ঢাকা",
+"postalCode": "১২১৬",
+"addressCountry": "BD"
+}
+},
+"applicantLocationRequirements": {
+"@type": "Country",
+"name": "Bangladesh"
+},
+"baseSalaryCurrency": "BDT",
+"baseSalaryUnitText": "MONTH",
+"directApply": false
+},
+"generateFaqPage": true,
+"generateBreadcrumb": [
+{
+"name": "হোম",
+"url": "https://yakub.blog/"
+},
+{
+"name": "প্রাইভেট জব",
+"url": "https://yakub.blog/category/private-job/"
+},
+{
+"name": "BIBM নিয়োগ ২০২৬",
+"url": "https://yakub.blog/bibm-job-circular"
+}
+],
+"generateArticle": true,
+"articleType": "NewsArticle"
+}
+}
+]
