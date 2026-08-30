@@ -105,31 +105,31 @@
 {
 "label": "প্রতিষ্ঠানের নাম",
 "value": "বাংলাদেশ ইনস্টিটিউট অব ব্যাংক ম্যানেজমেন্ট (BIBM)",
-"isLink": false,
+"isLink": true,
 "url": "bibm.org.bd"
 },
 {
 "label": "মোট পদ",
 "value": "৭টি ক্যাটাগরি",
-"isLink": false,
+"isLink": true,
 "url": ""
 },
 {
 "label": "মোট শূন্যপদ",
 "value": "৮ জন",
-"isLink": false,
+"isLink": true,
 "url": ""
 },
 {
 "label": "কর্মস্থল",
 "value": "ঢাকা (মিরপুর)",
-"isLink": false,
+"isLink": true,
 "url": ""
 },
 {
 "label": "শিক্ষাগত যোগ্যতা",
 "value": "HSC / স্নাতক / কামিল বা সমমান",
-"isLink": false,
+"isLink": true,
 "url": ""
 },
 {
