@@ -151,7 +151,12 @@
 "value": "০৩.০৬.১৫৩৫.৩৩৫.১১.০২৯.২৫-৫৯৯৩",
 "isLink": false,
 "url": ""
-}
+},
+{"label": "পোর্টাল",
+  "value": "bepza.gov.bd",
+  "isLink": true,
+  "url": "https://bepza.gov.bd"
+  }
 ],
 "positions": [
 {
