@@ -1,0 +1,440 @@
+[
+{
+"id": "north-south-university-job-circular-2026",
+"slug": "north-south-university-job-circular",
+"status": "published",
+"category": "Private University Jobs",
+"subCategories": [
+"নর্থ সাউথ ইউনিভার্সিটি নিয়োগ",
+"Private Job"
+],
+"isFeatured": true,
+"targetVideoAd": "",
+"seo": {
+"metaTitle": "নর্থ সাউথ ইউনিভার্সিটি নিয়োগ ২০২৬: বিভিন্ন পদে আবেদনের সুযোগ",
+"metaTitleEn": "North South University Job Circular 2026: Apply Online Now",
+"metaDescription": "নর্থ সাউথ ইউনিভার্সিটিতে (NSU) নতুন নিয়োগ বিজ্ঞপ্তি প্রকাশ পেয়েছে। বিভিন্ন পদে আবেদন করার নিয়ম ও শেষ তারিখ জেনে নিন।",
+"focusKeyword": "নর্থ সাউথ ইউনিভার্সিটি নিয়োগ বিজ্ঞপ্তি ২০২৬",
+"focusKeywordEn": "North South University Job Circular 2026",
+"secondaryKeywords": [
+"NSU job circular 2026",
+"নর্থ সাউথ বিশ্ববিদ্যালয় চাকরি",
+"north south university career",
+"NSU faculty recruitment",
+"NSU administrative jobs"
+],
+"canonical": "https://yakub.blog/north-south-university-job-circular",
+"ogTitle": "নর্থ সাউথ ইউনিভার্সিটি নিয়োগ বিজ্ঞপ্তি ২০২৬: আবেদনের বিস্তারিত নিয়ম",
+"ogDescription": "দেশের শীর্ষস্থানীয় বেসরকারি বিশ্ববিদ্যালয় নর্থ সাউথ ইউনিভার্সিটিতে চাকরির সুবর্ণ সুযোগ। বিস্তারিত যোগ্যতা ও আবেদনের নিয়ম দেখুন।",
+"ogImage": "https://yakub.blog/images/nsu-job-circular-2026.jpg",
+"twitterCard": "summary_large_image",
+"robots": "index, follow",
+"language": "bn",
+"readingTimeMinutes": 5
+},
+"author": {
+"name": "Yakub",
+"role": "University & Academic Recruitment Specialist",
+"profileUrl": "https://yakub.blog/author/yakub",
+"credentialNote": "দীর্ঘ ৫ বছর ধরে বিভিন্ন সরকারি ও সেরা বেসরকারি বিশ্ববিদ্যালয়ের নিয়োগ বিজ্ঞপ্তি বিশ্লেষণ করছেন।"
+},
+"publishedAt": "2026-09-02T00:00:00.000Z",
+"lastUpdatedAt": "2026-09-02T00:00:00.000Z",
+"lastUpdatedLabel": "সর্বশেষ আপডেট: ০২ সেপ্টেম্বর ২০২৬",
+"updateLog": [
+{
+"date": "2026-09-02",
+"note": "নর্থ সাউথ ইউনিভার্সিটির সর্বশেষ সার্কুলারের ওপর ভিত্তি করে স্ট্রাকচার্ড ডেটা তৈরি করা হয়েছে।"
+}
+],
+"verification": {
+"verified": true,
+"source": "নর্থ সাউথ ইউনিভার্সিটি ক্যারিয়ার ওয়েব পোর্টাল",
+"sourceUrl": "https://www.northsouth.edu/resources/careers.html",
+"verifiedOn": "2026-09-02",
+"badgeText": "অফিশিয়াল ক্যারিয়ার সাইট থেকে যাচাইকৃত"
+},
+"image": "https://i.ibb.co.com/k6z1wMHn/north-south-university-job-circular.webp",
+"imageAlt": "নর্থ সাউথ ইউনিভার্সিটি নিয়োগ বিজ্ঞপ্তি ২০২৬",
+"noticeImages": [
+],
+"pdfNoticeLink": "https://www.northsouth.edu/resources/careers.html",
+"applyOnlineLink": "https://www.northsouth.edu/resources/careers.html",
+"keyDates": {
+"memoIssuedOn": "বিজ্ঞপ্তিতে উল্লেখ নেই",
+"publishedOn": "বিজ্ঞপ্তিতে উল্লেখ নেই",
+"applicationStart": "বিজ্ঞপ্তিতে উল্লেখ নেই",
+"applicationEnd": "বিজ্ঞপ্তি অনুযায়ী নির্ধারিত তারিখ",
+"ageCalculatedAsOn": "বিজ্ঞপ্তিতে উল্লেখ নেই",
+"feePaymentWindowNote": "NSU-তে আবেদনের জন্য সাধারণত কোনো ফি জমা দিতে হয় না।"
+},
+"countdown": {
+"enabled": true,
+"targetIso": "2026-09-20T23:59:59+06:00",
+"labelTemplate": "আবেদনের সময় বাকি: {d} দিন {h} ঘণ্টা",
+"expiredLabel": "আবেদনের সময়সীমা অতিক্রান্ত হয়েছে"
+},
+"expiryPolicy": {
+"onExpiryShowBanner": true,
+"bannerText": "এই বিজ্ঞপ্তির মেয়াদ শেষ হয়েছে।",
+"removeJobPostingSchemaOnExpiry": false,
+"keepPageIndexed": true,
+"redirectOnNextYearCircular": false
+},
+"organization": {
+"nameBn": "নর্থ সাউথ ইউনিভার্সিটি (NSU)",
+"nameEn": "North South University",
+"shortName": "NSU",
+"ministry": "বেসরকারি বিশ্ববিদ্যালয়",
+"website": "https://www.northsouth.edu",
+"email": "hr@northsouth.edu",
+"phone": "+880-2-55668200",
+"address": "প্লট ১৫, ব্লক বি, বসুন্ধরা, ঢাকা-১২২৯",
+"addressLocality": "বসুন্ধরা আবাসিক এলাকা",
+"addressRegion": "ঢাকা",
+"postalCode": "1229",
+"addressCountry": "BD",
+"aboutHtml": "নর্থ সাউথ ইউনিভার্সিটি (NSU) বাংলাদেশের প্রথম সরকারি অনুমোদনপ্রাপ্ত বেসরকারি বিশ্ববিদ্যালয়। ১৯৯২ সালে প্রতিষ্ঠিত এই শিক্ষা প্রতিষ্ঠানটি মানসম্মত উচ্চশিক্ষা প্রদান এবং আন্তর্জাতিক স্তরের গবেষণা নিশ্চিত করার জন্য সুপরিচিত।"
+},
+"summaryTable": [
+{
+"label": "প্রতিষ্ঠানের নাম",
+"value": "নর্থ সাউথ ইউনিভার্সিটি (NSU)",
+"isLink": false,
+"url": ""
+},
+{
+"label": "চাকরির ধরন",
+"value": "বিশ্ববিদ্যালয় চাকরি / ফুল টাইম",
+"isLink": false,
+"url": ""
+},
+{
+"label": "পদের বিভাগ",
+"value": "শিক্ষক (Faculty) ও প্রশাসনিক কর্মকর্তা/কর্মচারী (Administrative)",
+"isLink": false,
+"url": ""
+},
+{
+"label": "আবেদন মাধ্যম",
+"value": "অনলাইন ইমেইল / এনএসইউ অনলাইন পোর্টাল",
+"isLink": false,
+"url": ""
+},
+{
+"label": "আবেদন ফি",
+"value": "০ টাকা (বিনামূল্যে)",
+"isLink": false,
+"url": ""
+},
+{
+"label": "অফিশিয়াল ক্যারিয়ার পেজ",
+"value": "northsouth.edu/resources/careers.html",
+"isLink": true,
+"url": "https://www.northsouth.edu/resources/careers.html"
+}
+],
+"positions": [
+{
+"serial": "০১",
+"nameBn": "অধ্যাপক / সহযোগী অধ্যাপক / সহকারী অধ্যাপক / লেকচারার",
+"nameEn": "Professor / Associate Professor / Assistant Professor / Lecturer",
+"vacancies": "বিজ্ঞপ্তিতে উল্লেখ নেই",
+"grade": "NSU পে স্কেল অনুযায়ী",
+"gradeNumber": "",
+"payScale": "আলোচনা সাপেক্ষে ও যোগ্যতার ভিত্তিতে",
+"basicPay": "",
+"educationBn": "সংশ্লিষ্ট বিষয়ে Ph.D. / মাস্টার্স (বিশ্ববিদ্যালয় নীতিমালা অনুযায়ী)",
+"educationEn": "Ph.D. or Master's in relevant discipline as per university policy.",
+"skillsBn": "গবেষণা অভিজ্ঞতা, পাবলিকেশন ও ইংরেজিতে সাবলীল যোগাযোগ দক্ষতা।",
+"feeTier": "বিনামূল্যে",
+"competitionNote": "ফ্যাকাল্টি পদের জন্য উচ্চমানের একাডেমিক ব্যাকগ্রাউন্ড ও পাবলিকেশন থাকলে বাছাই হওয়ার সম্ভাবনা অনেক বেশি।"
+},
+{
+"serial": "০২",
+"nameBn": "প্রশাসনিক কর্মকর্তা / অ্যাডমিনিস্ট্রেটিভ স্টাফ",
+"nameEn": "Administrative Officer / Support Staff",
+"vacancies": "বিজ্ঞপ্তিতে উল্লেখ নেই",
+"grade": "NSU পে স্কেল অনুযায়ী",
+"gradeNumber": "",
+"payScale": "বিশ্ববিদ্যালয় কাঠামো অনুযায়ী",
+"basicPay": "",
+"educationBn": "যেকোনো বিষয়ে স্নাতক বা স্নাতকোত্তর ডিগ্রি।",
+"educationEn": "Bachelor's or Master's degree in any field.",
+"skillsBn": "কম্পিউটার পরিচালনা ও ইংরেজিতে যোগাযোগের ভালো দক্ষতা।",
+"feeTier": "বিনামূল্যে",
+"competitionNote": "প্রশাসনিক পদে অনেক আবেদন জমা পড়ে, তবে সুনির্দিষ্ট দক্ষতার প্রার্থীদের প্রাধান্য দেওয়া হয়।"
+}
+],
+"eligibilityMatcher": {
+"headingBn": "আপনার শিক্ষাগত যোগ্যতা অনুযায়ী পদ মেলান",
+"headingEn": "Eligibility Matcher",
+"introHtml": "নিচের তালিকাটি দেখে নিন আপনার ডিগ্রি অনুযায়ী কোন পদের জন্য আবেদন করা সম্ভব:",
+"rows": [
+{
+"yourQualification": "মাস্টার্স / পিএইচডি (Master's / Ph.D.)",
+"eligiblePosts": [
+"অধ্যাপক / সহযোগী অধ্যাপক / সহকারী অধ্যাপক / লেকচারার"
+],
+"totalVacancies": "নির্দিষ্ট নয়",
+"fee": "০ টাকা"
+},
+{
+"yourQualification": "স্নাতক / সমমান (Graduation)",
+"eligiblePosts": [
+"প্রশাসনিক কর্মকর্তা / অ্যাডমিনিস্ট্রেটিভ স্টাফ"
+],
+"totalVacancies": "নির্দিষ্ট নয়",
+"fee": "০ টাকা"
+}
+],
+"noteHtml": "অভিজ্ঞতা ও অতিরিক্ত একাডেমিক অর্জনের ওপর ভিত্তি করে প্রার্থিতা অগ্রাধিকার পায়।"
+},
+"salaryBreakdown": {
+"headingBn": "বেতন কাঠামো ও সুযোগ-সুবিধা",
+"headingEn": "Salary & Benefits Overview",
+"introHtml": "নর্থ সাউথ ইউনিভার্সিটিতে ক্যাডার বা শিক্ষক পদের বেতন কাঠামোর পাশাপাশি চমৎকার করপোরেট সুবিধা দেওয়া হয়।",
+"headers": [
+"ক্যাটাগরি",
+"আনুমানিক বেতন স্কেল",
+"অতিরিক্ত সুবিধাসমূহ"
+],
+"rows": [
+[
+"শিক্ষকবৃন্দ (Faculty)",
+"যোগ্যতা ও পদের ভিত্তিতে আকর্ষণীয় বেতনের সুযোগ",
+"মেডিকেল সুবিধা, প্রভিডেন্ট ফান্ড, বাৎসরিক উৎসব বোনাস ও ইনসেন্টিভ"
+],
+[
+"প্রশাসনিক স্টাফ (Staff)",
+"বিশ্ববিদ্যালয় স্কেল অনুযায়ী নির্ধারণ",
+"উৎসব ভাতা, প্রভিডেন্ট ফান্ড ও গ্র্যাচুইটি"
+]
+],
+"disclaimerHtml": "চূড়ান্ত বেতন ও ভাতাসমূহ সম্পূর্ণভাবে প্রার্থীর পূর্ব অভিজ্ঞতা ও ইন্টারভিউ পারফরম্যান্সের ওপর ভিত্তি করে নির্ধারণ করে কর্তৃপক্ষ।",
+"extraBenefitsBn": [
+"উচ্চতর গবেষণার জন্য বিশেষ সহায়তা ফান্ড",
+"বিশ্ববিদ্যালয় ক্যাম্পাস সুবিধা ও উৎসব ভাতা",
+"কর্মী কল্যাণ তহবিল ও গ্রুপ হেলথ ইন্স্যুরেন্স"
+]
+},
+"ageEligibility": {
+"headingBn": "বয়সসীমা ও যোগ্যতা",
+"asOnDateBn": "বিজ্ঞপ্তিতে নির্দিষ্ট করে লেখা নেই",
+"minAge": 21,
+"maxAge": 45,
+"quotaSameAsGeneral": true,
+"bornBetweenBn": "সাধারণত ২১ থেকে ৪৫ বছর পর্যন্ত পদভেদে আবেদন গ্রহণযোগ্য",
+"bodyHtml": "নর্থ সাউথ ইউনিভার্সিটিতে আবেদনের ক্ষেত্রে সুনির্দিষ্ট কোনো বয়সসীমা কঠোরভাবে বেঁধে দেওয়া হয় না; অভিজ্ঞতা সম্পন্ন প্রার্থীদের ক্ষেত্রে বয়স শিথিলযোগ্য।",
+"calculatorLink": {
+"text": "",
+"url": ""
+}
+},
+"districtEligibility": {
+"headingBn": "আবেদনকারী এলাকার যোগ্যতা",
+"eligibleOnly": false,
+"districts": [],
+"bodyHtml": "বাংলাদেশের সব জেলা এবং বিদেশ ফেরত বা আন্তর্জাতিক ডিগ্রিসম্পন্ন যোগ্য প্রার্থীরাও আবেদন করতে পারবেন।"
+},
+"introContent": "বাংলাদেশের শিক্ষা খাতে কাজের সম্মানজনক পরিবেশ এবং পেশাগত উন্নতির সুযোগ খুঁজছেন? নর্থ সাউথ ইউনিভার্সিটি (NSU) একাডেমিক ও প্রশাসনিক দুই বিভাগেই গতিশীল ব্যক্তিদের নিয়োগের বিজ্ঞপ্তি প্রকাশ করেছে। মানসম্মত কাজের পরিবেশের সাথে প্রতিযোগিতামূলক বেতন কাঠামোর কারণে এই বিশ্ববিদ্যালয়ে ক্যারিয়ার গড়া অনেকের জন্যই কাঙ্ক্ষিত।",
+"englishSummary": {
+"headingEn": "North South University Job Circular Summary",
+"bodyHtml": "Hiring Institution: North South University (NSU), Dhaka, Bangladesh.Available Positions: Faculty members (Professor, Associate Professor, Assistant Professor, Lecturer) and Administrative Staff positions.Required Qualification: Ph.D./Master's for Faculty roles; Graduation or Master's for Administrative roles with strong English proficiency.How to Apply: Interested candidates need to submit their updated resume and cover letter through the official NSU career page or specified HR email address before the deadline."
+},
+"bestFitFor": {
+"headingBn": "যাদের জন্য নর্থ সাউথ ইউনিভার্সিটিতে চাকরি সেরা",
+"items": [
+{
+"who": "গবেষণা ও শিক্ষকতায় দীর্ঘমেয়াদী ক্যারিয়ার প্রত্যাশী",
+"why": "আন্তর্জাতিক মানের অ্যাকাডেমিক পরিবেশ ও রিসার্চ ফান্ডিংয়ের চমৎকার সুবিধা রয়েছে।"
+},
+{
+"who": "স্মার্ট ও কর্পোরেট এডুকেশনাল সেক্টরে কাজ করতে আগ্রহী",
+"why": "সুসজ্জিত বসুন্ধরা ক্যাম্পাসে কাজের সুশৃঙ্খল সুযোগ ও সুযোগ-সুবিধা তুলনামূলক বেশি।"
+}
+]
+},
+"applicationSteps": [
+{
+"step": 1,
+"titleBn": "বিজ্ঞপ্তি ও রিকোয়ারমেন্টস যাচাই",
+"detailBn": "নর্থ সাউথ ইউনিভার্সিটির অফিশিয়াল ওয়েবসাইট northsouth.edu-এর ক্যারিয়ার অপশনে গিয়ে নির্দিষ্ট পদের যোগ্যতা ও শর্ত দেখে নিন।"
+},
+{
+"step": 2,
+"titleBn": "সিভি ও কাভার লেটার প্রস্তুতকরণ",
+"detailBn": "ইংরেজি ভাষায় একটি প্রফেশনাল সিভির সাথে ভালো মানের কভার লেটার লিখুন যা আপনার কাজের অভিজ্ঞতা ফুটিয়ে তোলে।"
+},
+{
+"step": 3,
+"titleBn": "অনলাইন/ইমেইল সাবমিশন",
+"detailBn": "বিজ্ঞপ্তিতে উল্লেখিত ইমেইলে সাবজেক্ট লাইনে পদের নাম লিখে পিডিএফ আকারে আবেদন জমা দিন অথবা ক্যারিয়ার পোর্টাল ফর্মের মাধ্যমে আবেদন নিশ্চিত করুন।"
+}
+],
+"photoSpec": {
+"dimensions": "৩০০ x ৩০০ পিক্সেল (প্রস্তাবিত)",
+"maxSize": "১ এমবি",
+"format": "JPG / PNG",
+"noteBn": "ফরমাল ও প্রফেশনাল ব্যাকগ্রাউন্ডের ছবি সিভিতে ব্যবহার করা জরুরি।"
+},
+"signatureSpec": {
+"dimensions": "বিজ্ঞপ্তিতে উল্লেখ নেই",
+"maxSize": "বিজ্ঞপ্তিতে উল্লেখ নেই",
+"format": "অনলাইন আপলোড",
+"noteBn": "প্রয়োজনীয় ক্ষেত্রে সিভির শেষে ডিজিটাল স্বাক্ষর যুক্ত করতে পারেন।"
+},
+"applicationFee": {
+"headingBn": "আবেদন করার ফি",
+"headers": [
+"পদের ক্যাটাগরি",
+"আবেদন ফি",
+"চার্জ"
+],
+"rows": [
+[
+"সকল পদ (ফ্যাকাল্টি ও স্টাফ)",
+"০ টাকা",
+"বিনামূল্যে"
+]
+],
+"smsPayment": {
+"shortCode": "",
+"prefix": "",
+"step1Format": "",
+"step1Example": "",
+"step2Format": "",
+"step2Example": "",
+"noteBn": "নর্থ সাউথ ইউনিভার্সিটি কখনো আবেদনের জন্য টাকা দাবি করে না।"
+}
+},
+"rejectionRisks": {
+"headingBn": "আবেদন বাতিলের প্রধান ঝুঁকি ও কারণ",
+"introHtml": "ইমেইলে আবেদন জমা দেয়ার সময় অনেকেই ভুলগুলো করেন যার দরুন ডাক পান না:",
+"items": [
+"ইমেইলের সাবজেক্ট লাইনে পদের নাম বা ডিপার্টমেন্টের নাম সঠিকভাবে না লেখা।",
+"কভার লেটার ছাড়া শুধু সিভি ইমেইল অ্যাটাচমেন্টে পাঠিয়ে দেয়া।",
+"সিভিতে শিক্ষাগত যোগ্যতার ফল ও সিজিপিএ অস্পষ্ট লেখা।",
+"অভিজ্ঞতার সময়কাল ও দায়িত্ব সম্পর্কে ভুল বিবরণ প্রদান।",
+"আবেদনের সময়সীমা শেষ হওয়ার পর ইমেইল বা ফরম জমা দেয়া।"
+]
+},
+"timeline": {
+"headingBn": "গুরুত্বপূর্ণ সময় তালিকা",
+"steps": [
+{
+"event": "আবেদন গ্রহণ শুরু",
+"date": "বিজ্ঞপ্তি প্রকাশের সাথে সাথে",
+"state": "done"
+},
+{
+"event": "আবেদনের শেষ তারিখ",
+"date": "বিজ্ঞপ্তি অনুযায়ী নির্ধারিত তারিখ",
+"state": "upcoming"
+},
+{
+"event": "শর্টলিস্ট প্রকাশ ও ভাইভা",
+"date": "ইমেইলে সরাসরি জানানো হবে",
+"state": "tba"
+}
+],
+"admitCardHtml": "প্রাথমিকভাবে যাচাই-বাছাইকৃত যোগ্য প্রার্থীদের ইমেইল বা ফোন কলের মাধ্যমে ডেমো ক্লাস অথবা ভাইভার সময়সূচী নিশ্চিত করা হয়।"
+},
+"preparation": {
+"headingBn": "নিয়োগ পরীক্ষা ও ভাইভা প্রস্তুতি কৌশল",
+"items": [
+{
+"titleBn": "ইংরেজি ভাষায় সাবলীল উপস্থাপনা",
+"detailBn": "সম্পূর্ণ ইন্টারভিউ প্রক্রিয়া ইংরেজিতে সম্পন্ন হয়। তাই বিষয়ভিত্তিক বিষয়গুলো ইংরেজিতে স্পষ্টভাবে বোঝাতে পারার অনুশীলন থাকা চাই।"
+},
+{
+"titleBn": "ডেমো লেকচার প্রস্তুতি (ফ্যাকাল্টি পদের জন্য)",
+"detailBn": "ফ্যাকাল্টি পদের জন্য চমৎকার স্লাইড তৈরি ও বিষয়বস্তুর ওপর গভীর দখল থাকা আবশ্যক।"
+}
+]
+},
+"vivaDocuments": {
+"headingBn": "ইন্টারভিউ বোর্ডে সাথে রাখার জরুরি কাগজপত্র",
+"items": [
+"প্রিন্ট করা প্রফেশনাল সিভির কয়েকপ্রস্থ কপি।",
+"সকল শিক্ষাগত সনদপত্র ও ট্রান্সক্রিপ্ট (অরিজিনাল ও কপি)।",
+"অভিজ্ঞতার সনদপত্র ও পাবলিকেশনের কপি (প্রযোজ্য ক্ষেত্রে)।",
+"জাতীয় পরিচয়পত্র বা পাসপোর্টের ফটোকপি।"
+]
+},
+"faqs": [
+{
+"question": "নর্থ সাউথ ইউনিভার্সিটিতে আবেদনের নিয়ম কী?",
+"answer": "NSU-এর অফিশিয়াল ক্যারিয়ার পেজে প্রদত্ত নির্দেশিকা অনুযায়ী ইমেইল বা অনলাইন ফরমের মাধ্যমে প্রয়োজনীয় সিভি জমা দিতে হয়।"
+},
+{
+"question": "এনএসইউতে আবেদনের জন্য কি কোনো ফি দিতে হয়?",
+"answer": "না, এনএসইউতে আবেদনের জন্য প্রার্থীদের কোনো ধরনের ফি দিতে হয় না।"
+},
+{
+"question": "ফ্যাকাল্টি পদে আবেদন করতে কী যোগ্যতা লাগে?",
+"answer": "সাধারণত মাস্টার্স বা Ph.D. এবং ভালো একাডেমিক রেজাল্টের সাথে প্রাসঙ্গিক ক্ষেত্রে গবেষণা অভিজ্ঞতা প্রয়োজন হয়।"
+},
+{
+"question": "স্নাতক পাসেই কি প্রশাসনিক পদে আবেদন করা যায়?",
+"answer": "হ্যাঁ, প্রশাসনিক বা সাপোর্ট স্টাফের অনেক পদে ন্যূনতম স্নাতক পাসেই আবেদন করা যায়, তবে অভিজ্ঞতা থাকলে অতিরিক্ত অগ্রাধিকার পাওয়া যায়।"
+},
+{
+"question": "কর্মস্থল কোথায় হবে?",
+"answer": "নর্থ সাউথ ইউনিভার্সিটির মূল ক্যাম্পাস (বসুন্ধরা আবাসিক এলাকা, ঢাকা)।"
+},
+{
+"question": "How to submit an application for NSU job circular?",
+"answer": "Candidates must send their detailed CV and cover letter to the official email specified in the career portal before the deadline."
+},
+{
+"question": "Is English proficiency mandatory for NSU jobs?",
+"answer": "Yes, fluent written and spoken English is essential for working at North South University."
+}
+],
+"internalLinks": [
+{
+"anchor": "নর্থ সাউথ বিশ্ববিদ্যালয় ক্যারিয়ার পোর্টাল",
+"url": "https://www.northsouth.edu/resources/careers.html"
+}
+],
+"relatedCirculars": [],
+"closingContent": "দেশের অন্যতম নামকরা প্রাইভেট ইউনিভার্সিটিতে নিজের ক্যারিয়ার গড়ার এটি চমৎকার মাধ্যম হতে পারে। শেষ সময় পর্যন্ত অপেক্ষা না করে দ্রুত আপনার আপডেট করা সিভি গুছিয়ে আবেদন প্রক্রিয়া শেষ করে নিন।",
+"tableOfContents": [
+"সংক্ষিপ্ত সারসংক্ষেপ",
+"পদের নাম ও যোগ্যতা",
+"বেতন ও সুযোগ-সুবিধা",
+"বয়সসীমা ও যোগ্যতা",
+"আবেদন পদ্ধতি",
+"প্রস্তুতি কৌশল",
+"সচরাচর জিজ্ঞাসা (FAQ)"
+],
+"schema": {
+"generateJobPostingPerPosition": true,
+"jobPostingDefaults": {
+"hiringOrganizationName": "North South University",
+"hiringOrganizationWebsite": "https://www.northsouth.edu",
+"jobLocationCity": "Dhaka",
+"jobLocationRegion": "Dhaka",
+"jobLocationCountry": "BD"
+},
+"generateFaqPage": true,
+"generateBreadcrumb": [
+{
+"name": "Home",
+"url": "https://yakub.blog"
+},
+{
+"name": "University Jobs",
+"url": "https://yakub.blog/category/university-jobs"
+},
+{
+"name": "North South University Job Circular",
+"url": "https://yakub.blog/north-south-university-job-circular"
+}
+],
+"generateArticle": true,
+"articleType": "JobPostingArticle"
+}
+}
+]
