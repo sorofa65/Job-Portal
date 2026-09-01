@@ -60,7 +60,7 @@
 },
 "image": "https://i.ibb.co.com/7svGn9b/bepza-job-circular-20-vacancies.webp",
 "imageAlt": "বেপজা নিয়োগ বিজ্ঞপ্তি ২০২৬ এর প্রচ্ছদ",
-"noticeImages": "https://i.ibb.co.com/kzgzBW2/bepza-job-circular-2026.webp",
+"noticeImages": [{"https://i.ibb.co.com/kzgzBW2/bepza-job-circular-2026.webp"}],
 "pdfNoticeLink": "https://bepza.gov.bd/public/storage/upload/circular/260811104903-88931897.docx",
 "applyOnlineLink": "",
 "keyDates": {
