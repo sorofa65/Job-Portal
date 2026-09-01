@@ -1,0 +1,630 @@
+[
+{
+"id": "",
+"slug": "bepza-job-circular-20-vacancies",
+"status": "active",
+"category": "Govt Job",
+"subCategories": [
+"বেপজা নিয়োগ",
+"চট্টগ্রাম ইপিজেড হাসপাতাল",
+"স্বাস্থ্য ও চিকিৎসা"
+],
+"isFeatured": false,
+"targetVideoAd": false,
+"seo": {
+"metaTitle": "বেপজা নিয়োগ বিজ্ঞপ্তি ২০২৬: ২০ পদ",
+"metaTitleEn": "BEPZA Job Circular 2026: 20 Posts",
+"metaDescription": "বেপজা নিয়োগ বিজ্ঞপ্তিতে ৫ ক্যাটাগরিতে ২০ পদ। মেডিকেল ও সহায়ক পদে ডাকযোগে আবেদন করুন। আবেদনের শেষ তারিখ ৩০ সেপ্টেম্বর ২০২৬।",
+"focusKeyword": "বেপজা নিয়োগ বিজ্ঞপ্তি ২০২৬",
+"focusKeywordEn": "BEPZA Job Circular 2026",
+"secondaryKeywords": [
+"বেপজা চাকরি",
+"BEPZA Job",
+"চট্টগ্রাম ইপিজেড হাসপাতাল নিয়োগ",
+"সরকারি চাকরি ২০২৬",
+"Medical Officer Job",
+"Medical Assistant Job",
+"BEPZA recruitment",
+"বেপজা নিয়োগ"
+],
+"canonical": "https://yakub.blog/bepza-job-circular-20-vacancies",
+"ogTitle": "বেপজা নিয়োগ বিজ্ঞপ্তি ২০২৬: ২০ পদ",
+"ogDescription": "বেপজার চট্টগ্রাম ইপিজেড হাসপাতালের ৫ ক্যাটাগরিতে ২০টি শূন্য পদে নিয়োগ। আবেদন শেষ ৩০ সেপ্টেম্বর ২০২৬।",
+"ogImage": "https://i.ibb.co.com/7svGn9b/bepza-job-circular-20-vacancies.webp",
+"twitterCard": "summary_large_image",
+"robots": "index,follow",
+"language": "bn-BD",
+"readingTimeMinutes": 7
+},
+"author": {
+"name": "Yakub",
+"role": "সরকারি চাকরি কনটেন্ট এডিটর",
+"profileUrl": "",
+"credentialNote": "সরকারি নিয়োগ বিজ্ঞপ্তি বিশ্লেষণ ও চাকরিপ্রার্থী-কেন্দ্রিক কনটেন্ট সম্পাদনা"
+},
+"publishedAt": "2026-09-01",
+"lastUpdatedAt": "2026-09-01",
+"lastUpdatedLabel": "সর্বশেষ আপডেট: ১ সেপ্টেম্বর ২০২৬",
+"updateLog": [
+{
+"date": "2026-09-01",
+"note": "বেপজা নিয়োগ বিজ্ঞপ্তির প্রকাশিত তথ্য অনুযায়ী কনটেন্ট প্রস্তুত করা হয়েছে।"
+}
+],
+"verification": {
+"verified": true,
+"source": "দৈনিক আমার দেশ ও বেপজার অফিসিয়াল ওয়েবসাইট",
+"sourceUrl": "bepza.gov.bd",
+"verifiedOn": "2026-09-01",
+"badgeText": "অফিশিয়াল বিজ্ঞপ্তির তথ্য অনুযায়ী যাচাইকৃত"
+},
+"image": "https://i.ibb.co.com/7svGn9b/bepza-job-circular-20-vacancies.webp",
+"imageAlt": "বেপজা নিয়োগ বিজ্ঞপ্তি ২০২৬ এর প্রচ্ছদ",
+"noticeImages": "https://i.ibb.co.com/kzgzBW2/bepza-job-circular-2026.webp",
+"pdfNoticeLink": "https://bepza.gov.bd/public/storage/upload/circular/260811104903-88931897.docx",
+"applyOnlineLink": "",
+"keyDates": {
+"memoIssuedOn": "2026-08-24",
+"publishedOn": "2026-09-01",
+"applicationStart": "",
+"applicationEnd": "2026-09-30",
+"ageCalculatedAsOn": "",
+"feePaymentWindowNote": "বিজ্ঞপ্তিতে পে-অর্ডার বা ব্যাংক ড্রাফটের মাধ্যমে ফি দেওয়ার কথা বলা হয়েছে; আলাদা fee payment window উল্লেখ নেই।"
+},
+"countdown": {
+"enabled": true,
+"targetIso": "2026-09-30",
+"labelTemplate": "আবেদনের শেষ তারিখ: ৩০ সেপ্টেম্বর ২০২৬",
+"expiredLabel": "আবেদনের সময়সীমা শেষ হয়েছে"
+},
+"expiryPolicy": {
+"onExpiryShowBanner": true,
+"bannerText": "এই নিয়োগের আবেদনের সময়সীমা ৩০ সেপ্টেম্বর ২০২৬ তারিখে শেষ হয়েছে।",
+"removeJobPostingSchemaOnExpiry": true,
+"keepPageIndexed": true,
+"redirectOnNextYearCircular": false
+},
+"organization": {
+"nameBn": "বাংলাদেশ রপ্তানী প্রক্রিয়াকরণ এলাকা কর্তৃপক্ষ",
+"nameEn": "Bangladesh Export Processing Zones Authority",
+"shortName": "BEPZA",
+"ministry": "প্রধান উপদেষ্টার কার্যালয়",
+"website": "bepza.gov.bd",
+"email": "ed.pr@bepza.gov.bd",
+"phone": "+৮৮০ ০২৪১০৬০৮৭০",
+"address": "বেপজা কমপ্লেক্স, বাড়ি: 19/ডি, রোড: 6, ধানমন্ডি আর/এ, ঢাকা, বাংলাদেশ",
+"addressLocality": "ঢাকা",
+"addressRegion": "ঢাকা",
+"postalCode": "",
+"addressCountry": "বাংলাদেশ",
+"aboutHtml": "<p>বাংলাদেশ রপ্তানী প্রক্রিয়াকরণ এলাকা কর্তৃপক্ষ (BEPZA) প্রধান উপদেষ্টার কার্যালয়ের অধীনস্থ একটি স্বায়ত্তশাসিত সরকারি প্রতিষ্ঠান। সংস্থাটি দেশের বিভিন্ন EPZ পরিচালনা এবং শিল্পায়ন, বিনিয়োগ ও রপ্তানি কার্যক্রমে ভূমিকা রাখে। এই নিয়োগটি চট্টগ্রাম ইপিজেড হাসপাতালের স্থায়ী শূন্য পদ পূরণের জন্য।</p>"
+},
+"summaryTable": [
+{
+"label": "প্রতিষ্ঠান",
+"value": "বাংলাদেশ রপ্তানী প্রক্রিয়াকরণ এলাকা কর্তৃপক্ষ (BEPZA)",
+"isLink": true,
+"url": "bepza.gov.bd"
+},
+{
+"label": "পদের ক্যাটাগরি",
+"value": "০৫টি",
+"isLink": false,
+"url": ""
+},
+{
+"label": "মোট শূন্যপদ",
+"value": "২০ জন",
+"isLink": false,
+"url": ""
+},
+{
+"label": "চাকরির স্থান",
+"value": "চট্টগ্রাম ইপিজেড হাসপাতাল",
+"isLink": false,
+"url": ""
+},
+{
+"label": "বয়সসীমা",
+"value": "অনূর্ধ্ব ৩২ বছর",
+"isLink": false,
+"url": ""
+},
+{
+"label": "আবেদন পদ্ধতি",
+"value": "ডাকযোগে",
+"isLink": false,
+"url": ""
+},
+{
+"label": "আবেদনের শেষ তারিখ",
+"value": "৩০ সেপ্টেম্বর ২০২৬",
+"isLink": false,
+"url": ""
+},
+{
+"label": "স্মারক নম্বর",
+"value": "০৩.০৬.১৫৩৫.৩৩৫.১১.০২৯.২৫-৫৯৯৩",
+"isLink": false,
+"url": ""
+}
+],
+"positions": [
+{
+"serial": 1,
+"nameBn": "মেডিকেল অফিসার",
+"nameEn": "Medical Officer",
+"vacancies": 7,
+"grade": "৯ম গ্রেড",
+"gradeNumber": 9,
+"payScale": "২২,০০০-৫৩,০৬০ টাকা",
+"basicPay": "২২,০০০-৫৩,০৬০ টাকা",
+"educationBn": "স্বীকৃত বিশ্ববিদ্যালয় হতে এম.বি.বি.এস. (MBBS) ডিগ্রি। বাংলাদেশ মেডিকেল অ্যান্ড ডেন্টাল কাউন্সিল (BMDC) কর্তৃক বৈধ রেজিস্ট্রেশন থাকতে হবে। বয়স অনূর্ধ্ব ৩২ বছর।",
+"educationEn": "MBBS degree from a recognized university with valid registration from BMDC. Maximum age: 32 years.",
+"skillsBn": "বিজ্ঞপ্তিতে BMDC registration-এর কথা স্পষ্টভাবে উল্লেখ আছে।",
+"feeTier": "বিজ্ঞপ্তিতে নির্দিষ্ট নয়",
+"competitionNote": "২০টি পদের মধ্যে ০৭টি এই পদে; তবে MBBS ও বৈধ BMDC registration বাধ্যতামূলক হওয়ায় যোগ্য আবেদনকারীর পরিসর স্বাভাবিকভাবেই সীমিত।"
+},
+{
+"serial": 2,
+"nameBn": "মেডিকেল এসিস্ট্যান্ট",
+"nameEn": "Medical Assistant",
+"vacancies": 4,
+"grade": "১২তম গ্রেড",
+"gradeNumber": 12,
+"payScale": "১১,৩০০-২৭,৩০০ টাকা",
+"basicPay": "১১,৩০০-২৭,৩০০ টাকা",
+"educationBn": "সরকারি স্বীকৃতিপ্রাপ্ত প্রতিষ্ঠান হতে ০৩ বছর মেয়াদী মেডিকেল এসিস্ট্যান্ট কোর্স (MATS) উত্তীর্ণ। ক্লিনিক্যাল ও স্বাস্থ্যসেবায় বাস্তব অভিজ্ঞতা থাকলে অগ্রাধিকার। বয়স অনূর্ধ্ব ৩২ বছর।",
+"educationEn": "Three-year Medical Assistant Training School (MATS) course from a government-recognized institution. Practical clinical or healthcare experience will receive preference.",
+"skillsBn": "ক্লিনিক্যাল ও স্বাস্থ্যসেবার বাস্তব কাজের অভিজ্ঞতা থাকলে অগ্রাধিকার।",
+"feeTier": "বিজ্ঞপ্তিতে নির্দিষ্ট নয়",
+"competitionNote": "মাত্র ০৪টি পদ থাকায় সংখ্যাটি মেডিকেল অফিসারের চেয়ে কম; MATS qualification থাকলেই এই পদের জন্য যোগ্যতার মূল শর্ত পূরণ হয়।"
+},
+{
+"serial": 3,
+"nameBn": "এসিস্ট্যান্ট ল্যাব টেকনোলজিস্ট (প্যাথলজি)",
+"nameEn": "Assistant Lab Technologist (Pathology)",
+"vacancies": 2,
+"gradeNumber": 12,
+"grade": "বিজ্ঞপ্তিতে ১২,৫০০-৩০,২৩০ টাকা অথবা ৯,৩০০-২২,৪৯০ টাকা উল্লেখ আছে",
+"payScale": "১২,৫০০-৩০,২৩০ টাকা (ডিপ্লোমা) অথবা ৯,৩০০-২২,৪৯০ টাকা (এইচএসসি)",
+"basicPay": "১২,৫০০-৩০,২৩০ টাকা অথবা ৯,৩০০-২২,৪৯০ টাকা",
+"educationBn": "সরকারি স্বীকৃতিপ্রাপ্ত প্রতিষ্ঠান হতে ০৩ বছর মেয়াদী ডিপ্লোমা ইন মেডিকেল টেকনোলজি (ল্যাব) অথবা HSC (বিজ্ঞান) পাস। HSC পাসের ক্ষেত্রে সুপ্রতিষ্ঠিত ডায়াগনস্টিক ল্যাবে ন্যূনতম ০৩ বছরের বাস্তব কাজের অভিজ্ঞতা থাকতে হবে। বয়স অনূর্ধ্ব ৩২ বছর।",
+"educationEn": "Three-year Diploma in Medical Technology (Lab), or HSC in Science. HSC candidates must have at least three years of practical experience in a well-established diagnostic laboratory.",
+"skillsBn": "HSC (বিজ্ঞান) route-এ ০৩ বছরের diagnostic laboratory experience বাধ্যতামূলক।",
+"feeTier": "বিজ্ঞপ্তিতে নির্দিষ্ট নয়",
+"competitionNote": "এখানে মাত্র ০২টি পদ এবং দুই ধরনের শিক্ষাগত পথ আছে; তবে HSC (বিজ্ঞান) প্রার্থীদের জন্য ০৩ বছরের বাস্তব lab experience আলাদা শর্ত।"
+},
+{
+"serial": 4,
+"nameBn": "এসিস্ট্যান্ট ফার্মাসিস্ট",
+"nameEn": "Assistant Pharmacist",
+"vacancies": 1,
+"grade": "১২তম গ্রেড",
+"gradeNumber": 12,
+"payScale": "১১,৩০০-২৭,৩০০ টাকা",
+"basicPay": "১১,৩০০-২৭,৩০০ টাকা",
+"educationBn": "সরকারি স্বীকৃতিপ্রাপ্ত প্রতিষ্ঠান হতে ফার্মেসীতে ০৩ বছর মেয়াদী ডিপ্লোমা। ফার্মেসি কাউন্সিল রেজিস্ট্রেশন ও ওষুধ ব্যবস্থাপনায় দক্ষতা প্রয়োজন। বয়স অনূর্ধ্ব ৩২ বছর।",
+"educationEn": "Three-year Diploma in Pharmacy from a government-recognized institution, with Pharmacy Council registration and competence in medicine management.",
+"skillsBn": "ফার্মেসি কাউন্সিল registration ও ওষুধ ব্যবস্থাপনার দক্ষতা প্রয়োজন।",
+"feeTier": "বিজ্ঞপ্তিতে নির্দিষ্ট নয়",
+"competitionNote": "এই ক্যাটাগরিতে মাত্র ০১টি শূন্যপদ, তাই একই যোগ্যতার আবেদনকারীদের জন্য আসনসংখ্যা সবচেয়ে সীমিত।"
+},
+{
+"serial": 5,
+"nameBn": "ক্লিনার",
+"nameEn": "Cleaner",
+"vacancies": 6,
+"grade": "২০তম গ্রেড",
+"gradeNumber": 20,
+"payScale": "৮,২৫০-২০,০১০ টাকা",
+"basicPay": "৮,২৫০-২০,০১০ টাকা",
+"educationBn": "স্বীকৃত শিক্ষা প্রতিষ্ঠান হতে ন্যূনতম ৮ম শ্রেণি বা সমমান পাস। হাসপাতাল বা প্রতিষ্ঠানে পরিচ্ছন্নতা কাজে শারীরিক সক্ষমতা ও অভিজ্ঞতা। বয়স অনূর্ধ্ব ৩২ বছর।",
+"educationEn": "At least Class Eight or equivalent from a recognized educational institution. Physical fitness and cleaning-work experience in a hospital or institution are stated as requirements.",
+"skillsBn": "হাসপাতাল বা প্রতিষ্ঠানে পরিচ্ছন্নতা কাজের অভিজ্ঞতা ও শারীরিক সক্ষমতা প্রয়োজন।",
+"feeTier": "বিজ্ঞপ্তিতে নির্দিষ্ট নয়",
+"competitionNote": "শূন্যপদ ০৬টি এবং শিক্ষাগত যোগ্যতা ৮ম শ্রেণি; তবে শারীরিক সক্ষমতা ও পরিচ্ছন্নতা কাজের অভিজ্ঞতার শর্তটি আবেদন করার আগে মিলিয়ে দেখা দরকার।"
+}
+],
+"eligibilityMatcher": {
+"headingBn": "আপনার যোগ্যতায় কোন পদ?",
+"headingEn": "Eligibility Matcher",
+"introHtml": "<p>আপনার সর্বোচ্চ শিক্ষাগত যোগ্যতা ও প্রয়োজনীয় professional qualification মিলিয়ে নিচের তালিকা দেখুন। তবে ফি-এর ক্ষেত্রে RAW circular data-তে প্রতিটি পদের নির্দিষ্ট অঙ্ক আলাদাভাবে মেলানো হয়নি, তাই অনুমান করে কোনো পদে ফি বসানো হয়নি।</p>",
+"rows": [
+{
+"yourQualification": "MBBS + বৈধ BMDC registration",
+"eligiblePosts": [
+"মেডিকেল অফিসার"
+],
+"totalVacancies": 7,
+"fee": "বিজ্ঞপ্তিতে নির্দিষ্ট নয়"
+},
+{
+"yourQualification": "০৩ বছর মেয়াদী MATS কোর্স",
+"eligiblePosts": [
+"মেডিকেল এসিস্ট্যান্ট"
+],
+"totalVacancies": 4,
+"fee": "বিজ্ঞপ্তিতে নির্দিষ্ট নয়"
+},
+{
+"yourQualification": "০৩ বছর মেয়াদী Diploma in Medical Technology (Lab)",
+"eligiblePosts": [
+"এসিস্ট্যান্ট ল্যাব টেকনোলজিস্ট (প্যাথলজি)"
+],
+"totalVacancies": 2,
+"fee": "বিজ্ঞপ্তিতে নির্দিষ্ট নয়"
+},
+{
+"yourQualification": "HSC (বিজ্ঞান) + সুপ্রতিষ্ঠিত ডায়াগনস্টিক ল্যাবে ন্যূনতম ০৩ বছরের বাস্তব অভিজ্ঞতা",
+"eligiblePosts": [
+"এসিস্ট্যান্ট ল্যাব টেকনোলজিস্ট (প্যাথলজি)"
+],
+"totalVacancies": 2,
+"fee": "বিজ্ঞপ্তিতে নির্দিষ্ট নয়"
+},
+{
+"yourQualification": "ফার্মেসীতে ০৩ বছর মেয়াদী ডিপ্লোমা + Pharmacy Council registration",
+"eligiblePosts": [
+"এসিস্ট্যান্ট ফার্মাসিস্ট"
+],
+"totalVacancies": 1,
+"fee": "বিজ্ঞপ্তিতে নির্দিষ্ট নয়"
+},
+{
+"yourQualification": "ন্যূনতম ৮ম শ্রেণি বা সমমান",
+"eligiblePosts": [
+"ক্লিনার"
+],
+"totalVacancies": 6,
+"fee": "বিজ্ঞপ্তিতে নির্দিষ্ট নয়"
+}
+],
+"noteHtml": "<p>সব পদের বয়সসীমা অনূর্ধ্ব ৩২ বছর। শুধু শিক্ষাগত যোগ্যতা মিললেই যথেষ্ট নয়; যেখানে registration বা বাস্তব কাজের অভিজ্ঞতা চাওয়া হয়েছে, সেটিও পূরণ করতে হবে।</p>"
+},
+"salaryBreakdown": {
+"headingBn": "বেতন ও সম্ভাব্য মাসিক আয়",
+"headingEn": "Salary Breakdown",
+"introHtml": "<p>বিজ্ঞপ্তিতে মূল বেতনস্কেল দেওয়া হয়েছে এবং সরকারি বিধি অনুযায়ী বাড়িভাড়া, চিকিৎসা ভাতা ও অন্যান্য সুবিধার কথা বলা হয়েছে। কিন্তু বাড়িভাড়া ও চিকিৎসা ভাতার নির্দিষ্ট হার RAW data-তে নেই, তাই সেগুলো যোগ করে কোনো আনুমানিক gross salary তৈরি করা হয়নি।</p>",
+"headers": [
+"পদ",
+"গ্রেড",
+"মূল বেতন",
+"আনুমানিক গ্রস"
+],
+"rows": [
+[
+"মেডিকেল অফিসার",
+"৯ম গ্রেড",
+"২২,০০০-৫৩,০৬০ টাকা",
+"হিসাব করা সম্ভব নয়"
+],
+[
+"মেডিকেল এসিস্ট্যান্ট",
+"১২তম গ্রেড",
+"১১,৩০০-২৭,৩০০ টাকা",
+"হিসাব করা সম্ভব নয়"
+],
+[
+"এসিস্ট্যান্ট ল্যাব টেকনোলজিস্ট (প্যাথলজি)",
+"বিজ্ঞপ্তিতে দুইটি pay scale উল্লেখ আছে",
+"১২,৫০০-৩০,২৩০ টাকা অথবা ৯,৩০০-২২,৪৯০ টাকা",
+"হিসাব করা সম্ভব নয়"
+],
+[
+"এসিস্ট্যান্ট ফার্মাসিস্ট",
+"১২তম গ্রেড",
+"১১,৩০০-২৭,৩০০ টাকা",
+"হিসাব করা সম্ভব নয়"
+],
+[
+"ক্লিনার",
+"২০তম গ্রেড",
+"৮,২৫০-২০,০১০ টাকা",
+"হিসাব করা সম্ভব নয়"
+]
+],
+"disclaimerHtml": "<p>আনুমানিক gross salary দেওয়ার জন্য বাড়িভাড়া ও চিকিৎসা ভাতার নির্দিষ্ট হার প্রয়োজন। RAW circular data-তে সেই হার নেই; তাই কোনো সংখ্যা অনুমান করে যোগ করা হয়নি। প্রকৃত মোট প্রাপ্তি বেতনস্তর, প্রযোজ্য ভাতা ও সংশ্লিষ্ট নিয়মের ওপর নির্ভর করবে।</p>",
+"extraBenefitsBn": [
+"সরকারি বিধি মোতাবেক বাড়িভাড়া ভাতা",
+"সরকারি বিধি মোতাবেক চিকিৎসা ভাতা",
+"অন্যান্য সরকারি বিধি অনুযায়ী সুযোগ-সুবিধা"
+]
+},
+"ageEligibility": {
+"headingBn": "বয়সসীমা",
+"asOnDateBn": "",
+"minAge": "",
+"maxAge": 32,
+"quotaSameAsGeneral": "",
+"bornBetweenBn": "",
+"bodyHtml": "<p>বিজ্ঞপ্তিতে সব পদের জন্য সর্বোচ্চ বয়স <strong>অনূর্ধ্ব ৩২ বছর</strong> বলা হয়েছে। তবে বয়স গণনার নির্দিষ্ট cutoff date RAW data-তে দেওয়া নেই। তাই কোনো জন্মতারিখের range অনুমান করে প্রকাশ করা হয়নি।</p>",
+"calculatorLink": {
+"text": "",
+"url": ""
+}
+},
+"districtEligibility": {
+"headingBn": "জেলা ভিত্তিক যোগ্যতা",
+"eligibleOnly": false,
+"districts": [
+"বাংলাদেশের সকল জেলা"
+],
+"bodyHtml": "<p>বিজ্ঞপ্তি অনুযায়ী বাংলাদেশের সকল জেলার প্রকৃত নাগরিক যোগ্যতা পূরণ সাপেক্ষে আবেদন করতে পারবেন। কোনো নির্দিষ্ট জেলা বাদ দেওয়ার তথ্য RAW data-তে নেই।</p>"
+},
+"introContent": "<p>বাংলাদেশ রপ্তানী প্রক্রিয়াকরণ এলাকা কর্তৃপক্ষ (BEPZA) চট্টগ্রাম ইপিজেড হাসপাতালের স্থায়ী শূন্য পদে জনবল নিয়োগের বিজ্ঞপ্তি দিয়েছে। ০৫টি ক্যাটাগরিতে মোট <strong>২০ জন</strong> নেওয়া হবে।</p><p>আপনি MBBS, MATS, Medical Technology, Pharmacy বা ন্যূনতম ৮ম শ্রেণির যোগ্যতা নিয়ে আবেদন করার সুযোগ পেতে পারেন। তবে প্রতিটি পদের শর্ত এক নয়—বিশেষ করে registration এবং বাস্তব কাজের অভিজ্ঞতার জায়গাগুলো আবেদন করার আগে ভালোভাবে মিলিয়ে দেখা দরকার।</p><p>আবেদনটি online নয়। নির্ধারিত ফরম পূরণ করে প্রয়োজনীয় কাগজপত্র ও প্রযোজ্য payment instrument সংযুক্ত করে ডাকযোগে পাঠাতে হবে। আবেদন পৌঁছানোর শেষ তারিখ <strong>৩০ সেপ্টেম্বর ২০২৬</strong>, অফিস চলাকালীন সময় পর্যন্ত।</p>",
+"englishSummary": {
+"headingEn": "BEPZA Job Circular 2026 — English Summary",
+"bodyHtml": "<p><strong>Who is hiring:</strong> Bangladesh Export Processing Zones Authority (BEPZA), under the Office of the Chief Adviser, is recruiting for permanent vacant positions at Chattogram EPZ Hospital.</p><p><strong>Posts:</strong> The circular covers 5 categories with 20 vacancies: Medical Officer, Medical Assistant, Assistant Lab Technologist (Pathology), Assistant Pharmacist, and Cleaner.</p><p><strong>Eligibility:</strong> Qualifications range from MBBS with valid BMDC registration to MATS, Diploma in Medical Technology, Diploma in Pharmacy, and Class Eight or equivalent. Some posts also require relevant practical experience.</p><p><strong>How to apply:</strong> Applicants must use the prescribed form and send the application by post to the Chief Medical Officer, Chattogram EPZ Hospital, South Halishahar, Chattogram EPZ, Chattogram-4223. The application deadline is September 30, 2026.</p>"
+},
+"bestFitFor": {
+"headingBn": "কার জন্য কোন পদটি মানানসই",
+"items": [
+{
+"who": "MBBS ডিগ্রিধারী চিকিৎসক",
+"why": "বৈধ BMDC registration থাকলে ০৭টি Medical Officer পদের জন্য যোগ্যতার মূল শর্ত পূরণ হয়।"
+},
+{
+"who": "MATS উত্তীর্ণ প্রার্থী",
+"why": "০৩ বছর মেয়াদী MATS কোর্স থাকলে Medical Assistant পদটি আপনার জন্য প্রাসঙ্গিক; clinical experience থাকলে বিজ্ঞপ্তিতে অগ্রাধিকার বলা হয়েছে।"
+},
+{
+"who": "Medical Technology (Lab) ডিপ্লোমাধারী",
+"why": "০৩ বছর মেয়াদী Diploma in Medical Technology (Lab) থাকলে Assistant Lab Technologist (Pathology)-এর যোগ্যতার একটি পথ পূরণ হয়।"
+},
+{
+"who": "HSC (বিজ্ঞান) ও lab experience-ধারী",
+"why": "HSC (বিজ্ঞান) পাসের পাশাপাশি সুপ্রতিষ্ঠিত diagnostic lab-এ ন্যূনতম ০৩ বছরের বাস্তব অভিজ্ঞতা থাকলে একই lab technologist পদে আবেদনযোগ্যতার পথ আছে।"
+},
+{
+"who": "Diploma in Pharmacy-ধারী",
+"why": "০৩ বছর মেয়াদী Pharmacy diploma এবং Pharmacy Council registration থাকলে Assistant Pharmacist পদের সঙ্গে যোগ্যতা মেলে।"
+},
+{
+"who": "৮ম শ্রেণি বা সমমান পাস প্রার্থী",
+"why": "Cleaner পদে ন্যূনতম ৮ম শ্রেণি বা সমমানের শিক্ষাগত যোগ্যতা চাওয়া হয়েছে; পরিচ্ছন্নতা কাজের অভিজ্ঞতাও বিবেচনায় নিতে হবে।"
+}
+]
+},
+"applicationSteps": [
+{
+"step": 1,
+"titleBn": "নির্ধারিত ফরম সংগ্রহ করুন",
+"detailBn": "বেপজার অফিসিয়াল ওয়েবসাইট bepza.gov.bd থেকে নির্ধারিত চাকরির আবেদন ফরম download করে print করুন।"
+},
+{
+"step": 2,
+"titleBn": "ফরম পূরণ করুন",
+"detailBn": "আবেদন ফরমের তথ্য স্বহস্তে পরিষ্কারভাবে এবং নির্ভুলভাবে পূরণ করুন।"
+},
+{
+"step": 3,
+"titleBn": "পে-অর্ডার বা ব্যাংক ড্রাফট যুক্ত করুন",
+"detailBn": "যেকোনো তফসিলি ব্যাংক থেকে ‘CEPZ Medical Centre Trustee Board’-এর অনুকূলে প্রযোজ্য মূল্যের ব্যাংক ড্রাফট বা pay-order সংগ্রহ করে মূল কপি সংযুক্ত করুন। RAW data-তে পদের সঙ্গে নির্দিষ্ট fee amount-এর mapping স্পষ্ট নয়।"
+},
+{
+"step": 4,
+"titleBn": "কাগজপত্র সংযুক্ত করুন",
+"detailBn": "প্রথম শ্রেণির গেজেটেড কর্মকর্তা কর্তৃক সত্যায়িত শিক্ষাগত যোগ্যতার সনদ, ০৩ কপি passport-size ছবি, চারিত্রিক সনদ, NID এবং প্রযোজ্য experience certificate-এর কপি সংযুক্ত করুন।"
+},
+{
+"step": 5,
+"titleBn": "খামের তথ্য লিখুন",
+"detailBn": "খামের ওপর আবেদন করা পদের নাম এবং নিজের জেলার নাম স্পষ্টভাবে লিখুন।"
+},
+{
+"step": 6,
+"titleBn": "ডাকযোগে পাঠান",
+"detailBn": "আবেদনপত্র ৩০ সেপ্টেম্বর ২০২৬ তারিখের মধ্যে অফিস চলাকালীন সময় পর্যন্ত Chief Medical Officer, Chattogram EPZ Hospital, South Halishahar, Chattogram EPZ, Chattogram-4223 ঠিকানায় পৌঁছাতে হবে। হাতে হাতে বা সরাসরি আবেদন গ্রহণ করা হবে না।"
+}
+],
+"photoSpec": {
+"dimensions": "",
+"maxSize": "",
+"format": "",
+"noteBn": "০৩ কপি passport-size ছবি প্রথম শ্রেণির গেজেটেড কর্মকর্তা কর্তৃক সত্যায়িত করে সংযুক্ত করতে হবে। ছবির pixel dimension বা file size বিজ্ঞপ্তিতে উল্লেখ নেই।"
+},
+"signatureSpec": {
+"dimensions": "",
+"maxSize": "",
+"format": "",
+"noteBn": "স্বাক্ষরের নির্দিষ্ট dimension, file size বা format বিজ্ঞপ্তিতে উল্লেখ নেই।"
+},
+"applicationFee": {
+"headingBn": "আবেদন ফি",
+"headers": [
+"বিবরণ",
+"ফি"
+],
+"rows": [
+[
+"পদভেদে আবেদন ফি",
+"৫০/১৫০/২০০ টাকা"
+],
+[
+"পে-অর্ডার বা ব্যাংক ড্রাফটের প্রাপক",
+"CEPZ Medical Centre Trustee Board"
+]
+],
+"smsPayment": {
+"shortCode": "",
+"prefix": "",
+"step1Format": "",
+"step1Example": "",
+"step2Format": "",
+"step2Example": "",
+"noteBn": "এটি ডাকযোগে আবেদন এবং pay-order বা bank draft ভিত্তিক প্রক্রিয়া; SMS payment-এর তথ্য বিজ্ঞপ্তিতে উল্লেখ নেই।"
+}
+},
+"rejectionRisks": {
+"headingBn": "আবেদন বাতিল হওয়ার ঝুঁকি",
+"introHtml": "<p>আবেদন পাঠানোর আগে শুধু qualification নয়, form, documents, payment instrument এবং delivery requirement—সবগুলো একসঙ্গে যাচাই করুন। নিচের বিষয়গুলো বিশেষভাবে খেয়াল রাখা দরকার।</p>",
+"items": [
+"প্রযোজ্য আবেদন ফি-এর পে-অর্ডার বা ব্যাংক ড্রাফট সংযুক্ত না করা বা ভুল প্রাপকের অনুকূলে তৈরি করা।",
+"নির্ধারিত আবেদন ফরমের তথ্য অসম্পূর্ণ বা ভুলভাবে পূরণ করা।",
+"শিক্ষাগত সনদ, NID, চারিত্রিক সনদ বা experience certificate-এর প্রয়োজনীয় কপি সংযুক্ত না করা।",
+"প্রথম শ্রেণির গেজেটেড কর্মকর্তা কর্তৃক সত্যায়নের প্রয়োজনীয়তা পূরণ না করা।",
+"খামের ওপর আবেদন করা পদের নাম ও নিজ জেলার নাম স্পষ্টভাবে না লেখা।",
+"আবেদনপত্র ৩০ সেপ্টেম্বর ২০২৬-এর মধ্যে নির্ধারিত ঠিকানায় না পৌঁছানো।",
+"বয়স অনূর্ধ্ব ৩২ বছরের শর্ত পূরণ না করা অথবা আবেদনে দেওয়া তথ্যের সঙ্গে প্রমাণপত্রের গরমিল থাকা।"
+]
+},
+"timeline": {
+"headingBn": "আবেদনের সময়সূচি",
+"steps": [
+{
+"event": "বিজ্ঞপ্তি জারি",
+"date": "২৪ আগস্ট ২০২৬",
+"state": "done"
+},
+{
+"event": "বিজ্ঞপ্তি প্রকাশ",
+"date": "০১ সেপ্টেম্বর ২০২৬",
+"state": "done"
+},
+{
+"event": "আবেদনের শেষ তারিখ",
+"date": "৩০ সেপ্টেম্বর ২০২৬",
+"state": "upcoming"
+},
+{
+"event": "লিখিত পরীক্ষা",
+"date": "এখনো ঘোষণা হয়নি",
+"state": "tba"
+},
+{
+"event": "মৌখিক পরীক্ষা",
+"date": "এখনো ঘোষণা হয়নি",
+"state": "tba"
+},
+{
+"event": "স্বাস্থ্যগত পরীক্ষা",
+"date": "এখনো ঘোষণা হয়নি",
+"state": "tba"
+}
+],
+"admitCardHtml": "<p>প্রাথমিক যাচাই-বাছাইয়ের পর যোগ্য প্রার্থীদের লিখিত, মৌখিক ও স্বাস্থ্যগত পরীক্ষার প্রবেশপত্র বা চিঠির বিষয়ে ডাকযোগে এবং bepza.gov.bd ওয়েবসাইটের মাধ্যমে জানানো হবে। পরীক্ষার নির্দিষ্ট তারিখ RAW data-তে এখনো দেওয়া নেই।</p>"
+},
+"preparation": {
+"headingBn": "আবেদনের আগে প্রস্তুতি",
+"items": [
+{
+"titleBn": "নিজের পদের শর্ত মিলিয়ে নিন",
+"detailBn": "আপনি যে পদে আবেদন করবেন, তার education, registration এবং experience requirement আলাদাভাবে যাচাই করুন। বিশেষ করে Assistant Lab Technologist পদের HSC route-এ ০৩ বছরের diagnostic lab experience-এর শর্তটি বাদ দেবেন না।"
+},
+{
+"titleBn": "ফি নিয়ে ভুল করবেন না",
+"detailBn": "বিজ্ঞপ্তিতে ৫০/১৫০/২০০ টাকার fee range আছে, কিন্তু RAW data-তে প্রতিটি পদের নির্দিষ্ট fee mapping স্পষ্ট নয়। মূল circular দেখে আপনার পদের সঠিক অঙ্ক নিশ্চিত করে payment instrument তৈরি করুন।"
+},
+{
+"titleBn": "সত্যায়িত কাগজ প্রস্তুত রাখুন",
+"detailBn": "শিক্ষাগত সনদ, NID, চারিত্রিক সনদ, ০৩ কপি ছবি এবং প্রযোজ্য experience certificate আগে থেকেই প্রস্তুত করুন এবং প্রয়োজনীয় attestation সম্পন্ন করুন।"
+},
+{
+"titleBn": "ডাকের সময় হাতে রাখুন",
+"detailBn": "শেষ দিনের ওপর নির্ভর না করে আবেদনপত্র আগে পাঠানো নিরাপদ। এখানে application submission-এর ক্ষেত্রে online timestamp নয়, নির্ধারিত ঠিকানায় আবেদন পৌঁছানোর বিষয়টি গুরুত্বপূর্ণ।"
+},
+{
+"titleBn": "পরীক্ষার আপডেট দেখুন",
+"detailBn": "লিখিত, মৌখিক ও স্বাস্থ্যগত পরীক্ষার তারিখ এখনো ঘোষণা হয়নি। যোগ্য প্রার্থী হিসেবে নির্বাচিত হলে ডাকযোগে এবং BEPZA website-এর notice অনুসরণ করুন।"
+}
+]
+},
+"vivaDocuments": {
+"headingBn": "ভাইভায় প্রয়োজনীয় কাগজপত্র",
+"items": [
+"সকল শিক্ষাগত যোগ্যতার মূল সনদপত্র",
+"নাগরিকত্ব সনদ বা ইউনিয়ন পরিষদ চেয়ারম্যান/পৌরসভা মেয়র কর্তৃক প্রদত্ত চারিত্রিক সনদপত্র",
+"জাতীয় পরিচয়পত্র (NID)-এর মূল কপি",
+"প্রথম শ্রেণির গেজেটেড কর্মকর্তা কর্তৃক সত্যায়িত সদ্য তোলা রঙিন ছবি",
+"মুক্তিযোদ্ধা বা অন্যান্য কোটার ক্ষেত্রে সংশ্লিষ্ট কর্তৃপক্ষের দেওয়া মূল সনদ"
+]
+},
+"faqs": [
+{
+"question": "বেপজা নিয়োগে মোট কতজন নেওয়া হবে?",
+"answer": "এই বিজ্ঞপ্তিতে ০৫টি ক্যাটাগরিতে মোট ২০ জন নিয়োগের কথা বলা হয়েছে। এর মধ্যে Medical Officer ০৭টি, Medical Assistant ০৪টি, Assistant Lab Technologist (Pathology) ০২টি, Assistant Pharmacist ০১টি এবং Cleaner ০৬টি পদ রয়েছে। সব পদের শূন্যপদ যোগ করলে মোট সংখ্যা ২০টি হয়।"
+},
+{
+"question": "আবেদনের শেষ তারিখ কবে?",
+"answer": "আবেদনপত্র ৩০ সেপ্টেম্বর ২০২৬ তারিখের মধ্যে নির্ধারিত ঠিকানায় পৌঁছাতে হবে এবং সময়সীমাটি অফিস চলাকালীন সময় পর্যন্ত বলা হয়েছে। আবেদন হাতে হাতে বা সরাসরি জমা নেওয়া হবে না। তাই ডাকযোগে পাঠানোর ক্ষেত্রে শেষ দিনের জন্য অপেক্ষা না করাই বাস্তবসম্মত।"
+},
+{
+"question": "How can I apply for the BEPZA recruitment?",
+"answer": "You need to download and print the prescribed application form from the BEPZA website, complete it by hand, attach the required attested documents and the applicable pay-order or bank draft, and send the application by post to the Chief Medical Officer, Chattogram EPZ Hospital."
+},
+{
+"question": "What is the maximum age limit?",
+"answer": "The circular states that the candidate’s age must be no more than 32 years. However, the raw information provided here does not specify the exact date on which age must be calculated. For that reason, a birth-date range has not been generated or assumed."
+},
+{
+"question": "সব জেলার প্রার্থী কি আবেদন করতে পারবেন?",
+"answer": "হ্যাঁ। দেওয়া তথ্য অনুযায়ী বাংলাদেশের সকল জেলার প্রকৃত নাগরিকরা যোগ্যতা পূরণ সাপেক্ষে আবেদন করতে পারবেন। কোনো নির্দিষ্ট জেলা বাদ দেওয়ার কথা নেই। তবে আপনার নির্বাচিত পদের শিক্ষাগত যোগ্যতা, registration বা experience-এর শর্ত আলাদাভাবে পূরণ করতে হবে।"
+},
+{
+"question": "কোন পদে সবচেয়ে বেশি শূন্যপদ?",
+"answer": "Medical Officer পদে সবচেয়ে বেশি, ০৭টি শূন্যপদ রয়েছে। এরপর Cleaner পদে ০৬টি এবং Medical Assistant পদে ০৪টি পদ আছে। বিপরীতে Assistant Pharmacist-এ মাত্র ০১টি এবং Assistant Lab Technologist (Pathology)-তে ০২টি পদ, তাই এসব পদে আসনসংখ্যা বেশ সীমিত।"
+},
+{
+"question": "HSC বিজ্ঞান পাস করলে কোন পদে আবেদন করা যাবে?",
+"answer": "HSC (বিজ্ঞান) পাস প্রার্থীর জন্য Assistant Lab Technologist (Pathology) পদে একটি eligibility route আছে। তবে শুধু HSC পাস যথেষ্ট নয়। RAW data অনুযায়ী সুপ্রতিষ্ঠিত diagnostic lab-এ ন্যূনতম ০৩ বছরের বাস্তব কাজের অভিজ্ঞতাও থাকতে হবে।"
+},
+{
+"question": "আবেদন কি অনলাইনে করা যাবে?",
+"answer": "না, দেওয়া বিজ্ঞপ্তির তথ্য অনুযায়ী আবেদন পদ্ধতি ডাকযোগে। নির্ধারিত আবেদন ফরম পূরণ করে প্রয়োজনীয় কাগজপত্র ও প্রযোজ্য payment instrument সংযুক্ত করে Chief Medical Officer, Chattogram EPZ Hospital-এর ঠিকানায় পাঠাতে হবে। হাতে হাতে বা সরাসরি আবেদন নেওয়া হবে না।"
+},
+{
+"question": "আবেদন ফি কত?",
+"answer": "বিজ্ঞপ্তির দেওয়া তথ্যে ৫০, ১৫০ ও ২০০ টাকার fee amount উল্লেখ আছে এবং pay-order বা bank draft-এর কথা বলা হয়েছে। তবে RAW data-তে কোন নির্দিষ্ট পদের জন্য কোন অঙ্ক প্রযোজ্য, সেই mapping স্পষ্ট নয়। তাই পদভেদে ফি অনুমান করে বসানো হয়নি।"
+},
+{
+"question": "ভাইভায় কী কী কাগজ লাগতে পারে?",
+"answer": "ভাইভায় শিক্ষাগত যোগ্যতার মূল সনদ, নাগরিকত্ব বা চারিত্রিক সনদ, NID-এর মূল কপি, সত্যায়িত সদ্য তোলা রঙিন ছবি এবং প্রযোজ্য quota certificate-এর মূল কপি চাওয়া হয়েছে। আপনার পদের registration বা experience document থাকলে সেটিও মূল বিজ্ঞপ্তির নির্দেশনা অনুযায়ী প্রস্তুত রাখা উচিত।"
+}
+],
+"internalLinks": [],
+"relatedCirculars": [],
+"closingContent": "<p>আপনার যোগ্যতা যদি একাধিক পদের সঙ্গে মিলে যায়, তাহলে প্রতিটি পদের আলাদা শর্ত মিলিয়ে সিদ্ধান্ত নিন। বিশেষ করে Assistant Lab Technologist এবং Assistant Pharmacist পদের ক্ষেত্রে অতিরিক্ত qualification বা registration-এর বিষয়টি এড়িয়ে গেলে আবেদন করার পর সমস্যায় পড়তে পারেন।</p><p>আবেদন শেষ হওয়ার আগে ফরম, সত্যায়িত কাগজপত্র, payment instrument, খামের তথ্য এবং ডাকযোগে পৌঁছানোর বিষয়টি একবার checklist ধরে যাচাই করুন। পরীক্ষার তারিখ এখনো ঘোষণা হয়নি, তাই পরবর্তী notice-এর জন্য BEPZA-এর অফিসিয়াল website-এ নজর রাখা প্রয়োজন।</p>",
+"tableOfContents": [
+"এক নজরে নিয়োগ বিজ্ঞপ্তি",
+"প্রতিষ্ঠানের পরিচিতি",
+"পদ ও যোগ্যতা",
+"আপনার যোগ্যতায় কোন পদ",
+"বেতন ও সম্ভাব্য মাসিক আয়",
+"বয়সসীমা",
+"জেলা ভিত্তিক যোগ্যতা",
+"আবেদনের নিয়ম",
+"আবেদন ফি",
+"আবেদন বাতিল হওয়ার ঝুঁকি",
+"আবেদনের সময়সূচি",
+"আবেদনের আগে প্রস্তুতি",
+"ভাইভায় প্রয়োজনীয় কাগজপত্র",
+"সাধারণ জিজ্ঞাসা"
+],
+"schema": {
+"generateJobPostingPerPosition": true,
+"jobPostingDefaults": {
+"organization": "বাংলাদেশ রপ্তানী প্রক্রিয়াকরণ এলাকা কর্তৃপক্ষ (BEPZA)",
+"employmentType": "",
+"jobLocation": "চট্টগ্রাম ইপিজেড হাসপাতাল",
+"validThrough": "2026-09-30",
+"baseSalaryCurrency": "",
+"baseSalaryValue": "",
+"salaryUnitText": ""
+},
+"generateFaqPage": true,
+"generateBreadcrumb": [
+{
+"name": "হোম",
+"url": "https://yakub.blog"
+},
+{
+"name": "বেপজা নিয়োগ বিজ্ঞপ্তি",
+"url": ""
+}
+],
+"generateArticle": true,
+"articleType": "Article"
+}
+}
+]
