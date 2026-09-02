@@ -1,0 +1,446 @@
+{
+  "id": "rthd-internship-circular-2026",
+  "slug": "rthd-govt-job-circular-application",
+  "status": "published",
+  "category": "Govt Job",
+  "subCategories": [
+    "মন্ত্রণালয় নিয়োগ বিজ্ঞপ্তি",
+    "ইন্টার্নশিপ"
+  ],
+  "isFeatured": true,
+  "targetVideoAd": "",
+  "seo": {
+    "metaTitle": "সড়ক পরিবহন ও মহাসড়ক বিভাগ নিয়োগ ৩০ সেপ্টেম্বর শেষ",
+    "metaTitleEn": "RTHD Job Circular 2026 Apply Deadline 30 Sept",
+    "metaDescription": "সড়ক পরিবহন ও মহাসড়ক বিভাগে ০৪ জন ইন্টার্ন নিয়োগ দেওয়া হবে। আবেদনের শেষ তারিখ ৩০ সেপ্টেম্বর ২০২৬। বিস্তারিত নিয়ম ও আবেদন প্রক্রিয়া জেনে নিন।",
+    "focusKeyword": "সড়ক পরিবহন ও মহাসড়ক বিভাগ নিয়োগ",
+    "focusKeywordEn": "RTHD Job Circular",
+    "secondaryKeywords": [
+      "RTHD intern circular",
+      "RTHD নিয়োগ বিজ্ঞপ্তি",
+      "সড়ক পরিবহন ও সেতু মন্ত্রণালয় চাকরি",
+      "ইন্টার্নশিপ নিয়োগ ২০২৬",
+      "rthd.gov.bd circular",
+      "RTHD internship application",
+      "সরকারি ইন্টার্নশিপ ২০২৬"
+    ],
+    "canonical": "https://yakub.blog/rthd-job-circular",
+    "ogTitle": "সড়ক পরিবহন ও মহাসড়ক বিভাগ নিয়োগ বিজ্ঞপ্তি ২০২৬ - RTHD",
+    "ogDescription": "RTHD-তে ইন্টার্ন পদে ০৪ জনের নিয়োগ বিজ্ঞপ্তি প্রকাশ। স্নাতক ও স্নাতকোত্তর পাস প্রার্থীরা ৩০ সেপ্টেম্বর ২০২৬ পর্যন্ত আবেদন করতে পারবেন।",
+    "ogImage": "https://bdgovtjob.net/wp-content/uploads/2026/09/RTHD-Job-Circular-2026.jpg",
+    "twitterCard": "summary_large_image",
+    "robots": "index, follow",
+    "language": "bn",
+    "readingTimeMinutes": 4
+  },
+  "author": {
+    "name": "Yakub",
+    "role": "Content Editor",
+    "profileUrl": "https://yakub.blog/author/yakub",
+    "credentialNote": "৫ বছর ধরে সরকারি চাকরির বিজ্ঞপ্তি পর্যালোচনা ও তথ্য বিশ্লেষণ করছেন।"
+  },
+  "publishedAt": "2026-09-02T00:00:00+06:00",
+  "lastUpdatedAt": "2026-09-03T00:00:00+06:00",
+  "lastUpdatedLabel": "সর্বশেষ আপডেট: ০৩ সেপ্টেম্বর ২০২৬",
+  "updateLog": [
+    {
+      "date": "2026-09-02",
+      "note": "অফিশিয়াল বিজ্ঞপ্তি প্রকাশের পর তথ্য যুক্ত করা হয়েছে।"
+    }
+  ],
+  "verification": {
+    "verified": true,
+    "source": "দ্য ডেইলি অবজারভার ও অফিশিয়াল ওয়েবসাইট",
+    "sourceUrl": "https://rthd.gov.bd",
+    "verifiedOn": "2026-09-02",
+    "badgeText": "যাচাইকৃত অফিসিয়াল সার্কুলার"
+  },
+  "image": "https://i.ibb.co.com/7hKNN32/rthd-govt-job-circular-application.webp",
+  "imageAlt": "সড়ক পরিবহন ও মহাসড়ক বিভাগ ইন্টার্ন নিয়োগ বিজ্ঞপ্তি ২০২৬",
+  "noticeImages": [
+    {
+      "url": "https://i.ibb.co.com/zhBYzjsH/rthd-job-circular-2026.webp",
+      "alt": "সড়ক পরিবহন ও মহাসড়ক বিভাগ অফিশিয়াল বিজ্ঞপ্তি"
+    }
+  ],
+  "pdfNoticeLink": "https://rthd.gov.bd",
+  "applyOnlineLink": "https://rthd.gov.bd",
+  "keyDates": {
+    "memoIssuedOn": "৩০ আগস্ট ২০২৬",
+    "publishedOn": "০২ সেপ্টেম্বর ২০২৬",
+    "applicationStart": "০২ সেপ্টেম্বর ২০২৬",
+    "applicationEnd": "৩০ সেপ্টেম্বর ২০২৬",
+    "ageCalculatedAsOn": "৩০ সেপ্টেম্বর ২০২৬",
+    "feePaymentWindowNote": "এই নিয়োগে কোনো আবেদন ফি নেই।"
+  },
+  "countdown": {
+    "enabled": true,
+    "targetIso": "2026-09-30T17:00:00+06:00",
+    "labelTemplate": "আবেদনের সময় বাকি: {days} দিন {hours} ঘণ্টা",
+    "expiredLabel": "আবেদনের সময়সীমা শেষ হয়েছে"
+  },
+  "expiryPolicy": {
+    "onExpiryShowBanner": true,
+    "bannerText": "এই ইন্টার্নশিপ বিজ্ঞপ্তির আবেদনের মেয়াদ শেষ হয়েছে।",
+    "removeJobPostingSchemaOnExpiry": true,
+    "keepPageIndexed": true,
+    "redirectOnNextYearCircular": false
+  },
+  "organization": {
+    "nameBn": "সড়ক পরিবহন ও মহাসড়ক বিভাগ",
+    "nameEn": "Road Transport and Highways Division",
+    "shortName": "RTHD",
+    "ministry": "সড়ক পরিবহন ও সেতু মন্ত্রণালয়",
+    "website": "https://rthd.gov.bd",
+    "email": "secretary@rthd.gov.bd",
+    "phone": "+8802-9545665",
+    "address": "ভবন নম্বর- ৭, নবম তলা, বাংলাদেশ সচিবালয়",
+    "addressLocality": "ঢাকা",
+    "addressRegion": "ঢাকা",
+    "postalCode": "1000",
+    "addressCountry": "BD",
+    "aboutHtml": "সড়ক পরিবহন ও মহাসড়ক বিভাগ (RTHD) বাংলাদেশ সরকারের সড়ক পরিবহন ও সেতু মন্ত্রণালয়ের অধীনে সড়ক যোগাযোগ ব্যবস্থার আধুনিকায়ন ও নীতি নির্ধারণে কাজ করে।"
+  },
+  "summaryTable": [
+    {
+      "label": "প্রতিষ্ঠানের নাম",
+      "value": "সড়ক পরিবহন ও মহাসড়ক বিভাগ (RTHD)",
+      "isLink": false,
+      "url": ""
+    },
+    {
+      "label": "পদের সংখ্যা",
+      "value": "০১টি ক্যাটাগরিতে মোট ০৪ জন",
+      "isLink": false,
+      "url": ""
+    },
+    {
+      "label": "ইন্টার্নশিপের মেয়াদ",
+      "value": "০৬ (ছয়) মাস",
+      "isLink": false,
+      "url": ""
+    },
+    {
+      "label": "মাসিক ভাতা",
+      "value": "১০,০০০/- টাকা",
+      "isLink": false,
+      "url": ""
+    },
+    {
+      "label": "আবেদনের মাধ্যম",
+      "value": "ডাকযোগে",
+      "isLink": false,
+      "url": ""
+    },
+    {
+      "label": "আবেদনের শেষ তারিখ",
+      "value": "৩০ সেপ্টেম্বর ২০২৬",
+      "isLink": false,
+      "url": ""
+    },
+    {
+      "label": "অফিসিয়াল ওয়েবসাইট",
+      "value": "rthd.gov.bd",
+      "isLink": true,
+      "url": "https://rthd.gov.bd"
+    }
+  ],
+  "positions": [
+    {
+      "serial": "০১",
+      "nameBn": "ইন্টার্ন (ইন্টার্নশিপ প্রোগ্রাম)",
+      "nameEn": "Intern (Internship Program)",
+      "vacancies": 4,
+      "grade": "ইন্টার্নশিপ নীতিমালা ২০২৩ অনুযায়ী",
+      "gradeNumber": 0,
+      "payScale": "স্থায়ী স্কেল নেই (মাসিক ভাতা)",
+      "basicPay": 0,
+      "educationBn": "অর্থনীতি, পরিবেশ বিজ্ঞান, প্রকৌশল (ইঞ্জিনিয়ারিং), স্থাপত্যবিদ্যা, পরিসংখ্যান, গণিত বা সংশ্লিষ্ট বিষয়ে স্নাতক / স্নাতকোত্তর / সম্মান উত্তীর্ণ বা অবতীর্ণ (Appeared)।",
+      "educationEn": "Bachelor's or Master's degree or Appeared student in Economics, Environmental Science, Engineering, Architecture, Statistics, Mathematics or related subjects.",
+      "skillsBn": "গবেষণা ও আন্তর্জাতিক বিষয়াবলী শাখায় কাজের আগ্রহ।",
+      "feeTier": "বিনামূল্যে",
+      "competitionNote": "আন্তর্জাতিক বিষয়াবলী ও গবেষণায় আগ্রহী নির্দিষ্ট বিষয়ের সদ্য স্নাতক শেষ করা বা অবতীর্ণ প্রার্থীদের জন্য প্রতিযোগিতা তুলনামূলক পরিমিত হবে।"
+    }
+  ],
+  "eligibilityMatcher": {
+    "headingBn": "আপনার শিক্ষাগত যোগ্যতা অনুযায়ী আবেদনের সুযোগ",
+    "headingEn": "Eligibility Matcher",
+    "introHtml": "নিচের ছকে আপনার শিক্ষাগত যোগ্যতা মিলিয়ে দেখুন আপনি আবেদন করতে পারবেন কি না।",
+    "rows": [
+      {
+        "yourQualification": "অর্থনীতি, পরিবেশ বিজ্ঞান, প্রকৌশল, স্থাপত্যবিদ্যা, পরিসংখ্যান বা গণিতে স্নাতক/স্নাতকোত্তর বা অবতীর্ণ (Appeared)",
+        "eligiblePosts": [
+          "ইন্টার্ন (ইন্টার্নশিপ প্রোগ্রাম)"
+        ],
+        "totalVacancies": 4,
+        "fee": "০ টাকা"
+      }
+    ],
+    "noteHtml": "ডিগ্রি অর্জনের ০২ বছরের মধ্যে আবেদন করতে হবে। অবতীর্ণ প্রার্থীদের ক্ষেত্রে শিক্ষাপ্রতিষ্ঠানের প্রত্যয়নপত্র জমা দিতে হবে।"
+  },
+  "salaryBreakdown": {
+    "headingBn": "মাসিক ইন্টার্নশিপ ভাতার হিসাব",
+    "headingEn": "Monthly Allowance Breakdown",
+    "introHtml": "সরকারি ইন্টার্নশিপ নীতিমালা, ২০২৩ অনুযায়ী এই পদের জন্য নির্দিষ্ট ভাতা নির্ধারণ করা হয়েছে।",
+    "headers": [
+      "বিবরণ",
+      "পরিমাণ (টাকা)"
+    ],
+    "rows": [
+      [
+        "মাসিক এককালীন ভাতা",
+        "১০,০০০/-"
+      ],
+      [
+        "সর্বমোট এককালীন মাসিক প্রাপ্তি",
+        "১০,০০০/-"
+      ]
+    ],
+    "disclaimerHtml": "এটি কোনো স্থায়ী রাজস্ব খাতের চাকরি নয়। ৬ মাসের ইন্টার্নশিপকালীন সময়ে শুধুমাত্র ১০,০০০ টাকা নির্দিষ্ট মাসিক ভাতা প্রদান করা হবে, কোনো অতিরিক্ত ভাতা প্রযোজ্য নয়।",
+    "extraBenefitsBn": [
+      "ইন্টার্নশিপ সফলভাবে সম্পন্ন করার পর অফিশিয়াল প্রশংসাপত্র ও সার্টিফিকেট প্রদান।"
+    ]
+  },
+  "ageEligibility": {
+    "headingBn": "আবেদনের সময়সীমা ও যোগ্যতা",
+    "asOnDateBn": "৩০ সেপ্টেম্বর ২০২৬",
+    "minAge": 0,
+    "maxAge": 0,
+    "quotaSameAsGeneral": true,
+    "bornBetweenBn": "ডিগ্রি অর্জনের ০২ বছরের মধ্যে",
+    "bodyHtml": "এখানে প্রথাগত বয়সসীমার বদলে ডিগ্রি অর্জনের সময়কে অগ্রাধিকার দেওয়া হয়েছে। প্রার্থীকে স্নাতক বা স্নাতকোত্তর ডিগ্রি অর্জনের ০২ (দুই) বছরের মধ্যে আবেদন করতে হবে।",
+    "calculatorLink": {
+      "text": "ওয়েবসাইট থেকে তথ্য নিশ্চিত করুন",
+      "url": "https://rthd.gov.bd"
+    }
+  },
+  "districtEligibility": {
+    "headingBn": "জেলাভিত্তিক আবেদনের যোগ্যতা",
+    "eligibleOnly": true,
+    "districts": [
+      "বাংলাদেশের সকল জেলা"
+    ],
+    "bodyHtml": "বাংলাদেশের সকল জেলার নারী ও পুরুষ প্রার্থীরা এই ইন্টার্নশিপে আবেদনের সুযোগ পাবেন।"
+  },
+  "introContent": "বাংলাদেশ সরকারের সড়ক পরিবহন ও সেতু মন্ত্রণালয়ের অধীন সড়ক পরিবহন ও মহাসড়ক বিভাগ আন্তর্জাতিক বিষয়াবলী শাখা ও গবেষণা কার্যক্রমের জন্য ইন্টার্ন নিয়োগের বিজ্ঞপ্তি দিয়েছে। সরকারি ইন্টার্নশিপ নীতিমালা, ২০২৩-এর আওতায় সম্পূর্ণ অস্থায়ীভাবে ৬ মাস মেয়াদের জন্য ৪ জন ইন্টার্ন নেওয়া হবে। আপনি যদি নির্দিষ্ট বিষয়গুলোতে সদ্য স্নাতক শেষ করে থাকেন বা চূড়ান্ত পরীক্ষার জন্য অবতীর্ণ প্রার্থী হন, তবে এই সুযোগটি কাজে লাগাতে পারেন। ডাকযোগে আবেদনের জন্য নির্ধারিত সময়সীমা ৩০ সেপ্টেম্বর ২০২৬ পর্যন্ত।",
+  "englishSummary": {
+    "headingEn": "Executive Summary",
+    "bodyHtml": "Road Transport and Highways Division (RTHD) under the Ministry of Road Transport and Bridges has issued a recruitment notice for its Internship Program 2026 under the Government Internship Policy 2023.A total of 4 interns will be recruited for a duration of 6 months in the International Affairs Branch and Research Activities. Selected candidates will receive a consolidated monthly allowance of BDT 10,000.Applicants must hold or be appearing for a Bachelor's or Master's degree in Economics, Environmental Science, Engineering, Architecture, Statistics, Mathematics, or related fields. Graduation must be completed within the last 2 years.Interested candidates need to download the application form from the official website rthd.gov.bd and send the filled application with required documents via post by September 30, 2026."
+  },
+  "bestFitFor": {
+    "headingBn": "কারা আবেদনের জন্য সবচেয়ে উপযুক্ত",
+    "items": [
+      {
+        "who": "সদ্য স্নাতক বা অবতীর্ণ শিক্ষার্থী",
+        "why": "পড়াশোনা শেষ করেই বাংলাদেশ সচিবালয়ে নীতি নির্ধারণ ও গবেষণার অভিজ্ঞতা নেওয়ার সুযোগ মিলবে।"
+      },
+      {
+        "who": "গবেষণায় আগ্রহী শিক্ষার্থী",
+        "why": "আন্তর্জাতিক সম্পর্ক ও পরিবহন খাতের গবেষণা কার্যক্রমে সরাসরি যুক্ত থাকার অভিজ্ঞতা অর্জিত হবে।"
+      }
+    ]
+  },
+  "applicationSteps": [
+    {
+      "step": 1,
+      "titleBn": "ফরম ডাউনলোড",
+      "detailBn": "সড়ক পরিবহন ও মহাসড়ক বিভাগের অফিশিয়াল ওয়েবসাইট (rthd.gov.bd) থেকে নির্দিষ্ট আবেদন ফরম ডাউনলোড করুন।"
+    },
+    {
+      "step": 2,
+      "titleBn": "ফরম পূরণ ও তথ্য সংযুক্তি",
+      "detailBn": "আবেদন ফরমে আপনার ব্যক্তিগত ও শিক্ষাগত যোগ্যতার সঠিক তথ্য লিখুন। অবতীর্ণ প্রার্থীরা শিক্ষা প্রতিষ্ঠানের প্রত্যয়নপত্র যুক্ত করুন।"
+    },
+    {
+      "step": 3,
+      "titleBn": "কাগজপত্র সত্যায়ন ও ডাকযোগে প্রেরণে প্রস্তুতি",
+      "detailBn": "প্রয়োজনীয় শিক্ষাগত সনদ, মার্কশিট ও অন্যান্য চাওয়া কাগজপত্র সত্যায়িত করে আবেদনপত্রের সাথে যুক্ত করুন।"
+    },
+    {
+      "step": 4,
+      "titleBn": "ডাকযোগে প্রেরণ",
+      "detailBn": "আগামী ৩০ সেপ্টেম্বর ২০২৬ তারিখের মধ্যে নির্ধারিত ঠিকানায় আপনার ডাকযোগের আবেদনপত্র পৌঁছানো নিশ্চিত করুন।"
+    }
+  ],
+  "photoSpec": {
+    "dimensions": "রঙিন পাসপোর্ট সাইজ",
+    "maxSize": "বিজ্ঞপ্তিতে উল্লেখ নেই",
+    "format": "প্রিন্টেড কপি",
+    "noteBn": "আবেদন ফরমে নির্ধারিত স্থানে ছবি সংযুক্ত করতে হবে।"
+  },
+  "signatureSpec": {
+    "dimensions": "স্বাভাবিক স্বাক্ষর",
+    "maxSize": "বিজ্ঞপ্তিতে উল্লেখ নেই",
+    "format": "স্বহস্তে স্বাক্ষর",
+    "noteBn": "আবেদন ফরমে নির্দিষ্ট স্থানে প্রার্থীর নিজের স্বাক্ষর থাকতে হবে।"
+  },
+  "applicationFee": {
+    "headingBn": "আবেদন ফি বিবরণ",
+    "headers": [
+      "পদের নাম",
+      "আবেদন ফি"
+    ],
+    "rows": [
+      [
+        "ইন্টার্ন (ইন্টার্নশিপ প্রোগ্রাম)",
+        "বিনামূল্যে (কোনো ফি নেই)"
+      ]
+    ],
+    "smsPayment": {
+      "shortCode": "",
+      "prefix": "",
+      "step1Format": "",
+      "step1Example": "",
+      "step2Format": "",
+      "step2Example": "",
+      "noteBn": "আবেদনের জন্য কোনো সরকারি বা টেলিটক ফি প্রদান করতে হবে না।"
+    }
+  },
+  "rejectionRisks": {
+    "headingBn": "যে ভুলগুলোতে আবেদন বাতিল হতে পারে",
+    "introHtml": "অসতর্কতার কারণে অনেক সময় যোগ্য প্রার্থীদের আবেদনও বাতিল হয়ে যায়। আবেদন পাঠানোর পূর্বে এই বিষয়গুলো ভালো করে মিলিয়ে নিন:",
+    "items": [
+      "ডাকযোগে পাঠানোর সময় ৩০ সেপ্টেম্বর ২০২৬ পার হয়ে গেলে আবেদন গ্রহণযোগ্য হবে না।",
+      "অনুমোদিত নির্দিষ্ট বিষয়সমূহ (যেমন: অর্থনীতি, প্রকৌশল ইত্যাদি) ব্যতীত অন্য বিষয়ের ডিগ্রি থাকলে।",
+      "ডিগ্রি অর্জনের মেয়াদ ২ বছরের বেশি পার হয়ে গেলে।",
+      "অবতীর্ণ (Appeared) প্রার্থীরা শিক্ষা প্রতিষ্ঠানের সঠিক প্রত্যয়নপত্র না দিলে।",
+      "অন্য কোথাও কর্মরত অবস্থায় এনওসি (NOC) জমা না দিলে।",
+      "আবেদন ফরমে প্রয়োজনীয় স্বাক্ষর বা ছবি বাদ পড়লে।",
+      "সরকারি ইন্টার্নশিপ নীতিমালা, ২০২৩ অনুযায়ী আগে একবার ইন্টার্নশিপ করে থাকলে পুনরায় সুযোগ মিলবে না।"
+    ]
+  },
+  "timeline": {
+    "headingBn": "নিয়োগ প্রক্রিয়ার সময়সূচি",
+    "steps": [
+      {
+        "event": "বিজ্ঞপ্তি জারির তারিখ",
+        "date": "৩০ আগস্ট ২০২৬",
+        "state": "done"
+      },
+      {
+        "event": "পত্রিকায় প্রকাশের তারিখ",
+        "date": "০২ সেপ্টেম্বর ২০২৬",
+        "state": "done"
+      },
+      {
+        "event": "ডাকযোগে আবেদনের শেষ তারিখ",
+        "date": "৩০ সেপ্টেম্বর ২০২৬",
+        "state": "upcoming"
+      },
+      {
+        "event": "মনোনীতদের তালিকা ও সাক্ষাৎকার",
+        "date": "এখনো ঘোষণা হয়নি",
+        "state": "tba"
+      }
+    ],
+    "admitCardHtml": "আবেদন যাচাই-বাছাই শেষে নির্বাচিত প্রার্থীদের সাথে যোগাযোগ করা হবে।"
+  },
+  "preparation": {
+    "headingBn": "সাক্ষাৎকার ও মেধা তালিকার প্রস্তুতি",
+    "items": [
+      {
+        "titleBn": "নিজ বিষয়ের মৌলিক জ্ঞান",
+        "detailBn": "আপনার স্নাতক বিষয়ে মৌলিক জ্ঞান ঝালাই করে রাখুন, বিশেষ করে অর্থনীতি বা প্রকৌশল সম্পর্কিত গবেষণায় আপনার পঠিত বিষয়ের প্রয়োগ।"
+      },
+      {
+        "titleBn": "পরিবহন খাতের সাম্প্রতিক তথ্য",
+        "detailBn": "সড়ক পরিবহন ও মহাসড়ক বিভাগের বর্তমান প্রজেক্ট ও নীতিমালা সম্পর্কে সম্যক ধারণা অর্জন করুন।"
+      }
+    ]
+  },
+  "vivaDocuments": {
+    "headingBn": "প্রয়োজনীয় কাগজপত্র",
+    "items": [
+      "সকল শিক্ষাগত যোগ্যতার মূল সনদ ও নম্বরপত্র।",
+      "অবতীর্ণ প্রার্থীদের ক্ষেত্রে শিক্ষাপ্রতিষ্ঠানের প্রধান কর্তৃক ইস্যুকৃত প্রত্যয়নপত্র।",
+      "জাতীয় পরিচয়পত্র বা জন্ম নিবন্ধন সনদ।",
+      "অন্য কোথাও কর্মরত থাকলে যথাযথ কর্তৃপক্ষের অনাপত্তিপত্র (NOC)।",
+      "সদ্য তোলা পাসপোর্ট সাইজের রঙিন ছবি।"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "আবেদনের শেষ তারিখ কবে?",
+      "answer": "আবেদনপত্র পৌঁছানোর শেষ সময় ৩০ সেপ্টেম্বর ২০২৬, অফিস চলাকালীন সময় পর্যন্ত।"
+    },
+    {
+      "question": "আবেদন ফি কত টাকা?",
+      "answer": "এই নিয়োগে আবেদনের জন্য কোনো ফি প্রয়োজন নেই, সম্পূর্ণ বিনামূল্যে আবেদন করা যাবে।"
+    },
+    {
+      "question": "Who can apply for the RTHD Intern post?",
+      "answer": "Graduates or appeared students in Economics, Environmental Science, Engineering, Architecture, Statistics, or Mathematics within 2 years of graduation can apply."
+    },
+    {
+      "question": "How to apply for RTHD Internship 2026?",
+      "answer": "You need to download the prescribed application form from rthd.gov.bd and submit it along with required documents by post."
+    },
+    {
+      "question": "পরীক্ষা অবতীর্ণ (Appeared) প্রার্থীরা কি আবেদন করতে পারবেন?",
+      "answer": "হ্যাঁ, অবতীর্ণ প্রার্থীরা আবেদন করতে পারবেন, তবে আবেদনপত্রের সাথে শিক্ষা প্রতিষ্ঠানের প্রত্যয়নপত্র যুক্ত করতে হবে।"
+    },
+    {
+      "question": "ইন্টার্নশিপের মেয়াদ কত দিন?",
+      "answer": "ইন্টার্নশিপের মোট সময়সীমা ০৬ (ছয়) মাস।"
+    },
+    {
+      "question": "মাসিক ভাতা কত টাকা দেওয়া হবে?",
+      "answer": "সরকারি ইন্টার্নশিপ নীতিমালা অনুযায়ী নির্বাচিত ইন্টার্নদের মাসে ১০,০০০ টাকা ভাতা প্রদান করা হবে।"
+    },
+    {
+      "question": "অনলাইনে কি সরাসরি আবেদন করা যাবে?",
+      "answer": "না, অনলাইন থেকে নির্ধারিত ফরম ডাউনলোড করে পূরণপূর্বক প্রয়োজনীয় কাগজপত্র সহ ডাকযোগে পাঠাতে হবে।"
+    }
+  ],
+  "internalLinks": [
+    {
+      "anchor": "সরকারি চাকরির খবর",
+      "url": "https://yakub.blog/category/govt-jobs"
+    }
+  ],
+  "relatedCirculars": [
+    {
+      "title": "সড়ক পরিবহন ও মহাসড়ক বিভাগ অফিশিয়াল ওয়েবসাইট",
+      "url": "https://rthd.gov.bd"
+    }
+  ],
+  "closingContent": "বাস্তব অভিজ্ঞতার সাথে সরকারি প্রশাসনিক কার্যক্রমকে কাছ থেকে দেখার জন্য এই ইন্টার্নশিপ অত্যন্ত কার্যকর হতে পারে। আবেদনের নিয়মাবলী মেনে নির্ধারিত সময়ের পূর্বেই আপনার আবেদনপত্র ডাকযোগে পাঠিয়ে দিন। কোনো তথ্য জানার থাকলে অফিশিয়াল ওয়েবসাইটে চোখ রাখুন।",
+  "tableOfContents": [
+    "এক নজরে নিয়োগ বিজ্ঞপ্তি ২০২৬",
+    "আপনার শিক্ষাগত যোগ্যতা অনুযায়ী আবেদনের সুযোগ",
+    "মাসিক ইন্টার্নশিপ ভাতার হিসাব",
+    "আবেদনের সময়সীমা ও যোগ্যতা",
+    "জেলাভিত্তিক আবেদনের যোগ্যতা",
+    "Executive Summary",
+    "কারা আবেদনের জন্য সবচেয়ে উপযুক্ত",
+    "আবেদন করার সহজ নিয়ম",
+    "যে ভুলগুলোতে আবেদন বাতিল হতে পারে",
+    "নিয়োগ প্রক্রিয়ার সময়সূচি",
+    "সাধারণ জিজ্ঞাসা (FAQ)"
+  ],
+  "schema": {
+    "generateJobPostingPerPosition": true,
+    "jobPostingDefaults": {
+      "hiringOrganization": "Road Transport and Highways Division",
+      "employmentType": "INTERN",
+      "validThrough": "2026-09-30T17:00:00+06:00"
+    },
+    "generateFaqPage": true,
+    "generateBreadcrumb": [
+      {
+        "name": "হোম",
+        "url": "https://yakub.blog"
+      },
+      {
+        "name": "সরকারি চাকরি",
+        "url": "https://yakub.blog/category/govt-jobs"
+      },
+      {
+        "name": "সড়ক পরিবহন ও মহাসড়ক বিভাগ নিয়োগ",
+        "url": "https://yakub.blog/rthd-job-circular"
+      }
+    ],
+    "generateArticle": true,
+    "articleType": "JobPosting"
+  }
+}
